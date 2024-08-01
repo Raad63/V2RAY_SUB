@@ -1,15 +1,15 @@
-vmess://eyJhZGQiOiAiMTA0LjIxLjk0LjY0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImxpbmphMDUuaHdjYXIuc2JzIiwgImlkIjogIjM5Y2VjMThmLWE0MzktNDI3Yy05YTRlLWFlYjZmY2RmNmY1MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJsaW5qYTA1Lmh3Y2FyLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjOTggQHYycmF5X2NvbmZpZ3NfcG9vbCBcdWQ4M2RcdWRjOTgifQ==
-vmess://eyJhZGQiOiAiNDUuMTIuMzAuOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhdmVpcm9yLmNvbSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImF2ZWlyb3IuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM5OCBAdjJyYXlfY29uZmlnc19wb29sIFx1ZDgzZFx1ZGM5OCJ9
-vless://telegram-id-ArV2ray@www.speedtest.net:2095?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2095&security=none&encryption=none&host=8.V.V2.www.speedtest.net.t.debian.org.bahrane.iR.&type=ws#💘 @v2ray_configs_pool 💘
-vless://V2rayvpn_official@185.176.26.240:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=x.bia2bax.shoP.&type=ws#💘 @v2ray_configs_pool 💘
-vless://5714818a-1cea-4c7b-972b-0306de2ff4df@www.speedtest.net:8080/@V2aryng_vpn@V2aryng_vpn@V2aryng_vpn@V2aryng_vpn@V2aryng_vpn?path=%2F%74%65%6c%65%67%72%61%6d-%4e%55%46%69%4c%54%45%52%2C%74%65%6c%65%67%72%61%6d-%4e%55%46%69%4c%54%45%52%2C%74%65%6c%65%67%72%61%6d-%4e%55%46%69%4c%54%45%52%2C%74%65%6c%65%67%72%61%6d-%4e%55%46%69%4c%54%45%52%3Fed%3D2048&security=none&encryption=none&host=8.v.v.y.www.speedtest.net.ftp.debian.org.bklink.iR.&type=httpupgrade#💘 @v2ray_configs_pool 💘
-vless://c0615218-5881-49d3-a008-03ca8359dc68@www.visa.com:80?security=none&encryption=none&type=ws&host=thexw4.huondadalioshop.ir&path=/Netspeed?ed%3D512#💘 @v2ray_configs_pool 💘
-vless://85c89e9d-89fd-4405-805e-e52899c43968@sp.ni-ham.info:2087?security=tls&encryption=none&type=ws&host=sp.ni-ham.info&path=/?ed%3D2087&sni=sp.ni-ham.info&fp=chrome&alpn=http/1.1#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTm5yUEJha0R3SUNHeW94c0RjTHk1@185.65.202.99:49318#💘 @v2ray_configs_pool 💘
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXTTVhZHJYaWpwd0FwbTF3THNFQjNXRlNDckc5YVE2UUFKalZjMmJ0ajczRnZCbnc=@89.107.10.65:51348#💘 @v2ray_configs_pool 💘
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.171.86.58:443#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fraud.chase&type=ws#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?path=%2F&security=none&encryption=none&host=fraud.chase&type=ws#💘 @v2ray_configs_pool 💘
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozQXRNeWRUSTY5SkFrMTdDT0FyT3Q5@138.68.182.23:2248/?outline=1#💘 @v2ray_configs_pool 💘
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabXE5WFBQS1FNY1ZSdk1WQVBNaUFB@moscow.telegavpn.com:60422#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@129.153.75.202:443/?mport=50000-53000&insecure=1&sni=www.bing.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@129.153.80.156:443/?mport=50000-53000&insecure=1&sni=www.bing.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@158.101.37.59:443/?mport=50000-53000&insecure=1&sni=www.bing.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@129.146.249.162:443/?mport=50000-53000&insecure=1&sni=www.bing.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@205.178.183.33:443/?insecure=1&sni=www.microsoft.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@129.150.43.19:443/?mport=50000-53000&insecure=1&sni=www.microsoft.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@129.151.193.163:443/?mport=50000-53000&insecure=1&sni=www.microsoft.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@138.2.179.192:1/?insecure=1&sni=www.bing.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@152.70.176.68:1/?insecure=1&sni=www.bing.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@144.22.129.240:443/?mport=50000-53000&insecure=1&sni=www.microsoft.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@149.130.215.22:443/?mport=50000-53000&insecure=1&sni=www.bing.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@139.185.32.100:443/?mport=50000-53000&insecure=1&sni=www.hoyoverse.com#💘 @v2ray_configs_pool 💘
+hy2://2c2feeaf-a354-48d3-91b6-2af198e0941d@139.185.34.29:443/?mport=50000-53000&insecure=1&sni=www.hoyoverse.com#💘 @v2ray_configs_pool 💘
