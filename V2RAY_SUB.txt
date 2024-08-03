@@ -1,15 +1,15 @@
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@80.92.204.106:9005#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8080#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#😍 @v2ray_configs_pool 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:806#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2375#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.111.114.133:8000#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@80.92.204.106:9027#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#😍 @v2ray_configs_pool 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:812#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.133:2375#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.178:989#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@80.92.204.106:9006#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#😍 @v2ray_configs_pool 😍
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.112:3306#😍 @v2ray_configs_pool 😍
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.111.114.133:9090#😍 @v2ray_configs_pool 😍
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#😍 @v2ray_configs_pool 😍
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.150.152.56:8009#😍 @v2ray_configs_pool 😍
+trojan://ypDt8RkT7J@51.158.217.130:43118?security=tls&headerType=none&type=tcp&sni=toflf.phooeyunfold.com#😍 @v2ray_configs_pool 😍
+ss:ss:ss:ss:ss:ss:ss:ss:ss:ss:ss:ss://eyJ2IjogIjIiLCAicHMiOiAiXHU2NWIwXHU1MmEwXHU1NzYxIERpZ2l0YWwgT2NlYW5cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMiLCAiYWRkIjogIjE2NS4yMi4xMDYuMTg5IiwgInBvcnQiOiAxNzUwMSwgImlkIjogImUzMjI2ZmQ1LTNmZDMtNGM2Yi1iZDkzLTdkZWNlMjJlOTJkYyIsICJhaWQiOiAwLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIm5vbmUifQ==#😍 @v2ray_configs_pool 😍
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@5.188.181.201:9042#😍 @v2ray_configs_pool 😍
+trojan://ypDt8RkT7J@51.158.217.195:43118?security=tls&headerType=none&type=tcp&sni=wnbtg.phooeyunfold.com#😍 @v2ray_configs_pool 😍
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@80.92.204.106:9011#😍 @v2ray_configs_pool 😍
+vmess://eyJhZGQiOiAiMTA0LjIxLjgzLjEwOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJobXMwMi5meGlhb21pLnNicyIsICJpZCI6ICI2YzE2OGZjYy0yMjMxLTRmM2ItOGMxZS1mNjM5MTY5MmRmNGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmsiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImhtczAyLmZ4aWFvbWkuc2JzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sIFx1ZDgzZFx1ZGUwZCJ9
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#😍 @v2ray_configs_pool 😍
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍
+vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC4xMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkZTBkIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#😍 @v2ray_configs_pool 😍
+trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&headerType=none&type=tcp&sni=tojzy.phooeyunfold.com#😍 @v2ray_configs_pool 😍
