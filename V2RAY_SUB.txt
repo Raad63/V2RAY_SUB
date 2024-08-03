@@ -1,15 +1,15 @@
 vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.135:18755?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#😍 @v2ray_configs_pool 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#😍 @v2ray_configs_pool 😍
+ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@45.145.42.70:25366#😍 @v2ray_configs_pool 😍
+vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.135:18755?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#😍 @v2ray_configs_pool 😍
+vless://c6579c4f-c388-4e65-bbcb-cd10107ebdd7@www.speedtest.net:80?path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&encryption=none&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#😍 @v2ray_configs_pool 😍
 vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuOTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiQ2gyLnZtZXNzLnNpdGUuIiwgImlkIjogImE2ZjJjMTVmLTRlZTYtNTUzOS04Y2RiLWFiZTc2MDAzN2FmYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICIyMDUyIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkZTBkIn0=
 vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.135:18755?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍
-vless://c6579c4f-c388-4e65-bbcb-cd10107ebdd7@www.speedtest.net:80?path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&encryption=none&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#😍 @v2ray_configs_pool 😍
-vless://c6579c4f-c388-4e65-bbcb-cd10107ebdd7@www.speedtest.net:80?path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&encryption=none&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#😍 @v2ray_configs_pool 😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#😍 @v2ray_configs_pool 😍
-vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuOTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiQ2gyLnZtZXNzLnNpdGUuIiwgImlkIjogImE2ZjJjMTVmLTRlZTYtNTUzOS04Y2RiLWFiZTc2MDAzN2FmYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICIyMDUyIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkZTBkIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#😍 @v2ray_configs_pool 😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#😍 @v2ray_configs_pool 😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#😍 @v2ray_configs_pool 😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#😍 @v2ray_configs_pool 😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#😍 @v2ray_configs_pool 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#😍 @v2ray_configs_pool 😍
+vless://Telegram-nufilter@www.speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=yechizejadid.bklink.iR.&type=httpupgrade#😍 @v2ray_configs_pool 😍
