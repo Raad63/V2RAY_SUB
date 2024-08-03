@@ -1,15 +1,15 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUdXJib29TZXJ2ZXI9@185.91.69.167:443#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#👉🆔 @v2ray_configs_pool
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#👉🆔 @v2ray_configs_pool
-vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@195.15.243.171:2048#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@45.145.42.70:25366#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOXhjeTA0bHBidmpLemtYemlFZ0t1@80.71.157.175:38211#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@45.145.42.70:25366#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.133:9102#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.133:5003#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:810#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAiMzguNTQuMzAuNDciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImFmMTFmMjdjLWVkMGMtNDg2ZC1iY2M0LWZlMTFmMzc1OWUzZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAiNTU3MDAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzMS4xMDgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiZ2x3ZWlkZi5jZmQiLCAiaWQiOiAiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImdsd2VpZGYuY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=
-vmess://eyJhZGQiOiAiMTU0LjY0LjIzMi4xODUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjRkOWQxYzM0LWRkOWQtNGYzMS1hZDNiLTQ2NWNmNzA5Mjc0OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDA5MDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443/?type=ws&encryption=none&host=pay.technator.net&path=%2Fimage%2F20992&security=tls&sni=pay.technator.net&fp=chrome#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-privatevpns@3.9.203.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-directvpn@13.48.199.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.53.187:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxT1ZNaDZlak9makVVTkx0REpyTVVP@138.68.182.23:2248/?outline=1#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-privatevpns@3.9.203.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-directvpn@13.48.199.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-directvpn@13.48.199.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+vless://db7a6fbb-d404-4d6a-9a8f-f0bac7074e3c@www.speedtest.net:8880?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=5.V.V2.www.speedtest.net.g.debian.org.bklink.iR.&type=httpupgrade#👉🆔 @v2ray_configs_pool
+vless://85ae0dd9-6121-471b-925f-6e9ea863d174@www.speedtest.net:8080?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=golraz.asve.iR.&type=ws#👉🆔 @v2ray_configs_pool
+vless://%64%62%37%61%36%66%62%62%2d%64%34%30%34%2d%34%64%36%61%2d%39%61%38%66%2d%66%30%62%61%63%37%30%37%34%65%33%63@104.17.147.22:8880?Telegram=@V2RayTz,@V2RayTz&path=/te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52?ed%3d888%30&security=none&encryption=none&host=5.V%2eV2.%77ww.%73pee%64tes%74.ne%74.g.%64ebi%61n.o%72g.b%6blin%6b.iR%2e&type=httpupgrade#👉🆔 @v2ray_configs_pool
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.53.187:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-directvpn@13.48.199.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-privatevpns@3.9.203.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+vless://TELEGRAM_GetConfigIR_Channel@185.231.183.172:8787?security=none&encryption=none&host=zula.ir%2C+TELEGRAM#👉🆔 @v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.235.200.1:8443?path=%2Ftelegram.v2ray_alpha.spacefp&security=tls&encryption=none&host=698Aa4AA.Swz-UUz-316.PageS.Dev&type=ws&sni=698Aa4AA.Swz-UUz-316.PageS.Dev#👉🆔 @v2ray_configs_pool
