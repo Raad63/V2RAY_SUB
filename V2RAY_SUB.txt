@@ -1,15 +1,15 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?path=%2Ff6QE1QHz0sEFAUIO%2FMjAyLjYxLjE5My4yNDg%3D%3Fed%3D2560&security=none&encryption=none&host=bpb.KmEVPs.iR&type=ws#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOT2ZFVkplcWgxU0hSTVpTYTVJeHJB@38.175.202.132:3489/?outline=1#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSXprMzdac2pxQkRBMVFtT2Z3WUl5@88.218.206.227:29555/?outline=1#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOT2ZFVkplcWgxU0hSTVpTYTVJeHJB@38.175.202.132:3489/?outline=1#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSXprMzdac2pxQkRBMVFtT2Z3WUl5@88.218.206.227:29555/?outline=1#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @v2ray_configs_pool
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#👉🆔 @v2ray_configs_pool
-vless://fc7fd88d-a124-4556-ac77-99d129de264c@185.220.227.218:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool
-vless://5563f166-d003-4fa4-9424-259dbe44ce37@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=split.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=splithttp#👉🆔 @v2ray_configs_pool
-vless://029e3381-3687-4296-a88f-61a1ac508b6e@www.speedtest.net:80?path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool
+ss://YWVzLTEyOC1nY206Vmt0cm9Tb01iYUZJRkZobmRjVXFhU3VHb0h5Z012ZzlrbVRRelplR0I3QkY=@166.0.199.245:40304#👉🆔 @v2ray_configs_pool
+vless://112435f2-9343-490c-a420-2e990f7f349f@46.245.64.129:32050?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool
+vless://384881f9-b821-4b4f-a304-a59f18de6467@172.67.130.66:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9C%8B%E5%95%A5%E4%BA%8B%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.hoursebe.monster.xornot.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool
+vless://f0d6fe0e-19e5-445c-a8d9-70c05289b6fa@185.146.173.50:8080?path=2560%2FDaily_Configs%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.vigilantecollection.com&type=ws#👉🆔 @v2ray_configs_pool
 vless://1142470b-d8de-4e9d-99f9-dfefbbdb39e0@104.18.41.138:8443?path=%2Ftelegram-proxy_mtm%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg27.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg27.pages.dev#👉🆔 @v2ray_configs_pool
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2Ftelegram-proxy_mtm%3Fed&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#👉🆔 @v2ray_configs_pool
+vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?path=%2FTelegram-proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=FaRAhDibA.pAgEs.dEv&fp=randomized&type=ws&sni=faRAHDIba.pagES.DEV#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOT2ZFVkplcWgxU0hSTVpTYTVJeHJB@38.175.202.132:3489/?outline=1#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSXprMzdac2pxQkRBMVFtT2Z3WUl5@88.218.206.227:29555/?outline=1#👉🆔 @v2ray_configs_pool
+vless://112435f2-9343-490c-a420-2e990f7f349f@46.245.64.129:32050?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool
+vless://384881f9-b821-4b4f-a304-a59f18de6467@172.67.130.66:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9C%8B%E5%95%A5%E4%BA%8B%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.hoursebe.monster.xornot.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool
+vless://f0d6fe0e-19e5-445c-a8d9-70c05289b6fa@185.146.173.50:8080?path=2560%2FDaily_Configs%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.vigilantecollection.com&type=ws#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTA0LjIxLjUxLjIwOCIsICJhaWQiOiAwLCAiYWxwbiI6ICJoMiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJkZS0wMi50cmFkZXgyMDgwLmNvbSIsICJpZCI6ICJjYjRmY2E1Zi1lZGY4LTQxNWItYWE4Zi1hYzUyZjQxNTI5NmEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzBmcFpGQjZJYnBOcHRHQXhBdEkwUU0iLCAicG9ydCI6IDQ0MywgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJkZS0wMi50cmFkZXgyMDgwLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+vmess://eyJhZGQiOiAiMTA0LjIxLjQuNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnbHdlaWRmLmNmZCIsICJpZCI6ICIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+trojan://telegram-id-directvpn@51.20.62.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
