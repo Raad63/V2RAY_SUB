@@ -1,15 +1,15 @@
-vless://TELEGRAM-NUFiLTER@www.parsvds.ir:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=yechizejadid.bklink.iR.&type=httpupgrade#😍 @v2ray_configs_pool 😍
-vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuOTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiQ2gyLnZtZXNzLnNpdGUuIiwgImlkIjogImE2ZjJjMTVmLTRlZTYtNTUzOS04Y2RiLWFiZTc2MDAzN2FmYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICIyMDUyIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkZTBkIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#😍 @v2ray_configs_pool 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#😍 @v2ray_configs_pool 😍
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=5.V.V2.www.speedtest.net.e.debian.org.mehpow.iR.&type=httpupgrade#😍 @v2ray_configs_pool 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#😍 @v2ray_configs_pool 😍
+vless://fb1f9bf2-81e9-4560-998e-f4f34e778416@www.speedtest.net:2052?path=%2Fdashboard%3F%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%2Ced%3D2048&security=none&encryption=none&host=IxIxIxIxNdNeJeJeJdDjDiD.ftp3.2debian.org.www.speedtest.net.AsVe.DaSh.SeRvIcEqUrY.iR.&type=ws#😍 @v2ray_configs_pool 😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#😍 @v2ray_configs_pool 😍
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.135:18755?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍
-vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuOTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiQ2gyLnZtZXNzLnNpdGUuIiwgImlkIjogImE2ZjJjMTVmLTRlZTYtNTUzOS04Y2RiLWFiZTc2MDAzN2FmYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICIyMDUyIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkZTBkIn0=
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#😍 @v2ray_configs_pool 😍
-vless://SAVTEAM1@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtesd.net&fp=firefox&type=ws&sni=speedtest.net#😍 @v2ray_configs_pool 😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#😍 @v2ray_configs_pool 😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#😍 @v2ray_configs_pool 😍
+vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuOTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiQ2gyLnZtZXNzLnNpdGUuIiwgImlkIjogImE2ZjJjMTVmLTRlZTYtNTUzOS04Y2RiLWFiZTc2MDAzN2FmYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICIyMDUyIiwgInNjeSI6ICJub25lIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkZTBkIn0=
+vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.135:18755?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍
+vless://ddaf6a53-0749-45f1-8773-0066452bbf14@zula.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=8050vless&sni=fotbeal.techiner.ir.#😍 @v2ray_configs_pool 😍
+vless://ddaf6a53-0749-45f1-8773-0066452bbf14@zula.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=8050vless&sni=fotbeal.techiner.ir.#😍 @v2ray_configs_pool 😍
+vless://758443d1-fe36-46c2-ba4f-bb2d403ca8d2@104.16.11.133:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=ws#😍 @v2ray_configs_pool 😍
+vless://bdf7eb38-41dc-46fd-8963-dfc04478e583@www.speedtest.net:8880?path=@mehrosaboran,@mehrosaboran&path=%2F-LiV2ry%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#😍 @v2ray_configs_pool 😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQm1RMU5KOU91ZXRDc1pMZEFlU0ww@outline.de.outlinekeys.net:20888#😍 @v2ray_configs_pool 😍
