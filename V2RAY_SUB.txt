@@ -1,10 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?path=%2Ff6QE1QHz0sEFAUIO%2FMjAyLjYxLjE5My4yNDg&security=none&encryption=none&host=bpb.KmEVPs.iR&type=ws#👉🆔 @v2ray_configs_pool
-vless://Parsashonam-28@104.24.185.137:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@45.145.42.70:25366#👉🆔 @v2ray_configs_pool
-vless://c39b8139-5a4a-4a6f-a80d-271ab55fca69@104.17.148.22:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#👉🆔 @v2ray_configs_pool
-vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D8080&security=none&encryption=none&host=15.v2.a.www.speedtest.net.dnschecker.tecH.&type=ws#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5ZTVYbko3eENOVWk1bnhNclg3NklT@outline.de.outlinekeys.net:20888#👉🆔 @v2ray_configs_pool
-vless://c4cf5d20-3c08-4f05-e905-f0731c2ad2fa@57.129.23.209:19542?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool
 vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.132:18101?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool
 vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.149:18224?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#👉🆔 @v2ray_configs_pool
@@ -13,3 +6,10 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&security
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#👉🆔 @v2ray_configs_pool
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#👉🆔 @v2ray_configs_pool
 vless://SAVTEAM2@speedtest.net:443?path=%2F%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=SAV.TEAM&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#👉🆔 @v2ray_configs_pool
+vless://Parsashonam-28@104.24.185.137:8080?path=%2F%3F%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%3Fed%3D2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#👉🆔 @v2ray_configs_pool
+vless://Parsashonam-28@104.24.185.137:8080?path=%2F%3F%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%3Fed%3D2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.digehkhastehshodamazbasdamanehkharidam.blog.&type=ws#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#👉🆔 @v2ray_configs_pool
