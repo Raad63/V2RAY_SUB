@@ -1,15 +1,15 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@195.15.243.171:2048#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.133:5003#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#👉🆔 @v2ray_configs_pool
+vless://47595df2-0c90-49fb-8436-4f5dfef3309a@85.209.195.217:6688?security=none&encryption=none&host=rezagem.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool
 ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@45.145.42.70:25366#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:810#👉🆔 @v2ray_configs_pool
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fraud.chase&type=ws#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsICJmcCI6ICJyYW5kb21pemVkIiwgImhvc3QiOiAic2hpcmFiLm5vc2hhYmUuY3lvdSIsICJpZCI6ICI2OGM4NDc2NS01ZDY3LTQ0YzQtODZlNC03MmJlYzI2MGEwZWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0B2cHBuX3N0b3JlP2VkPTgwIiwgInBvcnQiOiAiMjA4MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic2hpcmFiLm5vc2hhYmUuY3lvdS4iLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOXhjeTA0bHBidmpLemtYemlFZ0t1@80.71.157.175:38211#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@45.145.42.70:25366#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUdXJib29TZXJ2ZXI9@185.91.69.167:443#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.133:9102#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUdXJib29TZXJ2ZXI9@185.91.69.167:443#👉🆔 @v2ray_configs_pool
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.133:5003#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@195.15.243.171:2048#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.133:9102#👉🆔 @v2ray_configs_pool
+ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@45.145.42.70:25366#👉🆔 @v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:810#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsICJmcCI6ICJyYW5kb21pemVkIiwgImhvc3QiOiAic2hpcmFiLm5vc2hhYmUuY3lvdSIsICJpZCI6ICI2OGM4NDc2NS01ZDY3LTQ0YzQtODZlNC03MmJlYzI2MGEwZWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0B2cHBuX3N0b3JlP2VkPTgwIiwgInBvcnQiOiAiMjA4MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic2hpcmFiLm5vc2hhYmUuY3lvdS4iLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+vless://d8d3c82d-d655-4c93-a5ae-59072a962dbb@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc4.lebasnoo.ir.&type=ws#👉🆔 @v2ray_configs_pool
+vless://227da22a-ab08-4fcf-8ac0-5995e2056e7e@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc3.lebasnoo.ir.&type=ws#👉🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=fraud.chase&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@198.41.202.5:443?path=%2FXV2ray%3Fed%3D2560&security=tls&encryption=none&host=mc0.pages.dev&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@198.41.202.5:443?path=%2FXV2ray%3Fed%3D2560&security=tls&encryption=none&host=mc0.pages.dev&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTA0LjIxLjUxLjIwOCIsICJhaWQiOiAwLCAiYWxwbiI6ICJoMiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJkZS0wMi50cmFkZXgyMDgwLmNvbSIsICJpZCI6ICJjYjRmY2E1Zi1lZGY4LTQxNWItYWE4Zi1hYzUyZjQxNTI5NmEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzBmcFpGQjZJYnBOcHRHQXhBdEkwUU0iLCAicG9ydCI6IDQ0MywgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJkZS0wMi50cmFkZXgyMDgwLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
