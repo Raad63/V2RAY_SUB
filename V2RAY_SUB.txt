@@ -1,15 +1,15 @@
-vless://2bce897a-07a8-42b7-9d5f-540dfb350386@speedtest.net:443/?type=ws&encryption=none&host=basei.snapp.ir.sososlodigolas.com&path=%2Frezakiri&security=tls&sni=speedtest.net&fp=chrome#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:443/?type=ws&encryption=none&host=mc0.pages.dev&path=%2FXV2ray%3Fed%3D2560&security=tls&sni=pages.dev#💘 @v2ray_configs_pool 💘
-vless://f2afaeaf-aa1e-4835-853c-24d974ce02f7@[2a13:7c00:6:9:f816:3eff:fea0:153]:23887/?type=tcp&encryption=none#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443/?type=ws&encryption=none&host=fraud.chase&path=%2F%3Fed&security=tls&sni=www.Arizona.edu&fp=chrome#💘 @v2ray_configs_pool 💘
-vless://6a7c8f69-751b-4fb2-ac59-13ee8f0b5ca2@37.130.205.229:2087/?encryption=none&host=www.varzesh3.com&type=tcp&headerType=http#💘 @v2ray_configs_pool 💘
-vless://1cea4b92-aec1-48e2-bb8b-5aaee5fc5d01@www.parsvds.ir:80/?type=tcp&encryption=none#💘 @v2ray_configs_pool 💘
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@198.41.202.5:443/?type=ws&encryption=none&host=mc0.pages.dev&path=%2FXV2ray%3Fed%3D2560&security=tls&sni=pages.dev#💘 @v2ray_configs_pool 💘
-vless://2bce897a-07a8-42b7-9d5f-540dfb350386@speedtest.net:443/?type=ws&encryption=none&host=basei.snapp.ir.sososlodigolas.com&path=%2Frezakiri&security=tls&sni=speedtest.net&fp=chrome#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:443/?type=ws&encryption=none&host=mc0.pages.dev&path=%2FXV2ray%3Fed%3D2560&security=tls&sni=pages.dev#💘 @v2ray_configs_pool 💘
+vmess://eyJhZGQiOiAiMTcyLjY3LjE1Ni4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuZXp1a28ucmFpZGVuc2hvZ3VuLmNsb3VkbnMub3JnIiwgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzL2FmcmhtczE2di5iZXN0eHJheS5idXp6IiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJuZXp1a28ucmFpZGVuc2hvZ3VuLmNsb3VkbnMub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM5OCBAdjJyYXlfY29uZmlnc19wb29sIFx1ZDgzZFx1ZGM5OCJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.16:5001#💘 @v2ray_configs_pool 💘
+vmess://eyJhZGQiOiAiMTA0LjIxLjQ0LjEwNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ4bWl2aWRlby5jZmQiLCAiaWQiOiAiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtaXZpZGVvLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjOTggQHYycmF5X2NvbmZpZ3NfcG9vbCBcdWQ4M2RcdWRjOTgifQ==
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@45.89.52.66:9031#💘 @v2ray_configs_pool 💘
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.111.114.133:3306#💘 @v2ray_configs_pool 💘
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@45.89.52.66:9037#💘 @v2ray_configs_pool 💘
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8118#💘 @v2ray_configs_pool 💘
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@sha.majidcttls.ggff.net:443#💘 @v2ray_configs_pool 💘
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#💘 @v2ray_configs_pool 💘
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:812#💘 @v2ray_configs_pool 💘
+vmess://eyJhZGQiOiAiY2RuanMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImhkZnkxYzMuaXJhbmlhbmNwaS51ayIsICJpZCI6ICI2Yjg4MGIwNy1lOTUyLTRjMGItYjRhMy02YzlhYzRjZjlkM2YiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1F2dHZQZERYWElsU2RaTXFudXhHIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJoZGZ5MWMzLmlyYW5pYW5jcGkudWsiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzk4IEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkYzk4In0=
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8080#💘 @v2ray_configs_pool 💘
+vmess://eyJhZGQiOiAiMTcyLjY3LjE5Ni4xMTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjOTggQHYycmF5X2NvbmZpZ3NfcG9vbCBcdWQ4M2RcdWRjOTgifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2375#💘 @v2ray_configs_pool 💘
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#💘 @v2ray_configs_pool 💘
