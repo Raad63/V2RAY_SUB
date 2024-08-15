@@ -1,15 +1,15 @@
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5004#🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@45.89.52.66:9042#🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@179.27.200.28:989#🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTcyLjY3LjE2NC4xNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwgImlkIjogImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wgIn0=
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989#🆔 @v2ray_configs_pool
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989#🆔 @v2ray_configs_pool
+vless://c726f2fd-168d-4c3c-b28c-d54cc0f25850@vip1.halazzon.ir:5050?security=none&encryption=none&headerType=http&type=tcp#🆔 @v2ray_configs_pool
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#🆔 @v2ray_configs_pool
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.111.114.133:3306#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.47:5500#🆔 @v2ray_configs_pool
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8119#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.147:989#🆔 @v2ray_configs_pool
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.142.4:989#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.103:7001#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8080#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.59.16.146:989#🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989#🆔 @v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5ZUt0WlczMXFYZVpiQXo4SHNINHpGdWk3YXNlSW9nc3NFSzdYOVhac0xaY1VqdzY@89.185.84.34:51348#🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.59.16.146:989#🆔 @v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-4gi.pages.dev:8443?path=%2FwZkxIpWmF4f9YnOk%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoinmAHdIsErVER-4gi.pagES.DEV&fp=randomized&type=ws&sni=JoINmahDisERver-4gI.paGeS.dEV#🆔 @v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-4gi.pages.dev:2053?path=%2F9qiXsQ2YsNswgb5F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoINmAhDIsERver-4gI.PAgES.Dev&fp=randomized&type=ws&sni=JOiNMahDIserveR-4Gi.PAges.DeV#🆔 @v2ray_configs_pool
