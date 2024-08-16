@@ -1,15 +1,15 @@
-trojan://CMLiu@65.109.184.193:2087/?type=ws&host=aliorg.filegear-sg.me&path=%2F&security=tls&sni=aliorg.filegear-sg.me#🆔 @v2ray_configs_pool
-trojan://auto@104.20.19.168:2083/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
-trojan://auto@162.159.135.232:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
-trojan://Watashi_VPN@104.18.13.229:2053/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🆔 @v2ray_configs_pool
-vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Yek.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
-vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Do.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔 @v2ray_configs_pool
-vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Do.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
-vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Yek.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
-vless://3edb4046-af2d-498a-97b9-05ea60853895@germanys.malphatmbelivers.ir:8081?security=none&type=tcp&headerType=http&path=%2F&host=google.com#🆔 @v2ray_configs_pool
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082/?type=ws&encryption=none&host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&path=%2F#🆔 @v2ray_configs_pool
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082/?type=ws&encryption=none&host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&path=%2F#🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=fraud.chase&fp=chrome&type=ws&sni=speedtest.net#🆔 @v2ray_configs_pool
 vmess://eyJhZGQiOiAiMTA0LjE3LjE0OC4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1cy1jY3MueXVqaTIwMjIuZXUub3JnIiwgImlkIjogIjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvWFNqZWc3M282WmRzaGVhaENiNUpHIiwgInBvcnQiOiAiODg4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sICJ9
 vmess://eyJhZGQiOiAiMTA0LjE3LjE0OC4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1cy1jY3MueXVqaTIwMjIuZXUub3JnIiwgImlkIjogIjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvWFNqZWc3M282WmRzaGVhaENiNUpHIiwgInBvcnQiOiAiODg4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sICJ9
+vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443?path=%2Fsolid%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=solid.footballlovernews.com&type=ws&sni=solid.footballlovernews.com#🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=fraud.chase&fp=chrome&type=ws&sni=speedtest.net#🆔 @v2ray_configs_pool
+vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Yek.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
+vless://2384e215-c78d-44b8-af54-91b0a145e5af@www.parspack.com:2052?path=NetPie%3Fed%3D2560&security=none&encryption=none&host=netpie.1deb3a49.9ad3.467d.ad2f.820884ebfab4.speedtest.net.de.debian.org.NetPiefree.eu.&type=ws#🆔 @v2ray_configs_pool
+vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Do.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
+vless://Parsashonam-39@185.146.173.39:2052?path=%2FParsashonam%3Fed%3D2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.DigehKhastehShodamAzBasDamanehKharidam.BlOG.&type=httpupgrade#🆔 @v2ray_configs_pool
+vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Do.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
+vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@52.28.26.219:8880?security=none&encryption=none&headerType=none&type=tcp#🆔 @v2ray_configs_pool
+vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@35.84.121.253:8880?security=none&encryption=none&headerType=none&type=tcp#🆔 @v2ray_configs_pool
+vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Yek.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
+vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Do.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&security=tls&encryption=none&host=fastxv.pages.dev&type=ws&sni=pages.dev#🆔 @v2ray_configs_pool
