@@ -2,6 +2,7 @@ vless://e13b1aef-8e2d-46aa-b168-46eb3e1b7686@104.20.102.154:8080?path=%2FTelegra
 vless://e13b1aef-8e2d-46aa-b168-46eb3e1b7686@104.20.4.109:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#🆔 @v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔 @v2ray_configs_pool
 vless://34208027-101c-4e79-a0e3-87f62ef214e6@172.66.46.220:2083?path=%2Fv3mqqmhkvvozmhv5%3Fed%3D2560&security=tls&encryption=none&host=MoRtEzA865.paGES.DEV&type=ws&sni=MoRtEzA865.paGES.DEV#🆔 @v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-4gi.pages.dev:2053?path=%2F9qiXsQ2YsNswgb5F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoINmAhDIsERver-4gI.PAgES.Dev&fp=randomized&type=ws&sni=JOiNMahDIserveR-4Gi.PAges.DeV#🆔 @v2ray_configs_pool
 vless://e13b1aef-8e2d-46aa-b168-46eb3e1b7686@104.17.205.45:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#🆔 @v2ray_configs_pool
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🆔 @v2ray_configs_pool
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nooshin-2d9.pages.dev&fp=chrome&type=ws&sni=nooshin-2d9.pages.dev#🆔 @v2ray_configs_pool
@@ -9,7 +10,6 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.114.13:443?path=%2F&security
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#🆔 @v2ray_configs_pool
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2F5fz4m1ggihzpkyya%3Fed%3D2560&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#🆔 @v2ray_configs_pool
 vless://104380d8-f859-421a-bd11-29b2c9fbfa99@172.66.44.55:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=famil-5c8.pages.dev&fp=randomized&type=ws&sni=famil-5c8.pages.dev#🆔 @v2ray_configs_pool
-vless://0b182df1-eb4f-4852-8a4f-8a4d8bd81620@146.75.118.225:80?path=%2Fcontact%3Fed%3D2560&security=none&encryption=none&host=ramioncommunicationslimited.com&type=ws#🆔 @v2ray_configs_pool
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80?path=%2F&security=none&encryption=none&host=fraud.chase&type=ws#🆔 @v2ray_configs_pool
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#🆔 @v2ray_configs_pool
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🆔 @v2ray_configs_pool
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&security=tls&encryption=none&host=fastxv.pages.dev&type=ws&sni=pages.dev#🆔 @v2ray_configs_pool
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&security=tls&encryption=none&host=fastxv.pages.dev&type=ws&sni=pages.dev#🆔 @v2ray_configs_pool
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&security=tls&encryption=none&host=fastxv.pages.dev&type=ws&sni=pages.dev#🆔 @v2ray_configs_pool
