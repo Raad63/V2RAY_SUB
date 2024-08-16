@@ -1,15 +1,15 @@
-vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Do.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAiMTU1LjEzOC4yNDIuMjA3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIjE1NS4xMzguMjQyLjIwNyIsICJpZCI6ICI2Nzc5N2M2YS1lODk4LTQ5YmQtOGY2MS01ZmIxNTIzY2UwYmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjU0MzE2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wgIn0=
+trojan://CMLiu@65.109.184.193:2087/?type=ws&host=aliorg.filegear-sg.me&path=%2F&security=tls&sni=aliorg.filegear-sg.me#🆔 @v2ray_configs_pool
+trojan://auto@104.20.19.168:2083/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
+trojan://auto@162.159.135.232:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
+trojan://Watashi_VPN@104.18.13.229:2053/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🆔 @v2ray_configs_pool
 vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Yek.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
 vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Do.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
-vless://94f51d56-204b-466b-b1d7-d397df9273d0@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#🆔 @v2ray_configs_pool
-vless://94f51d56-204b-466b-b1d7-d397df9273d0@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#🆔 @v2ray_configs_pool
-trojan://TeleGram-VPNCTVIP@164.38.155.61:443/?type=ws&host=trojan-ws.vpnctvip.dns-dynamic.NeT&path=%2F&security=tls&sni=trojan-ws.vpnctvip.dns-dynamic.NeT#🆔 @v2ray_configs_pool
-trojan://Watashi_VPN@172.64.149.134:8443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🆔 @v2ray_configs_pool
-trojan://Watashi_VPN@104.18.12.229:2053/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#🆔 @v2ray_configs_pool
-trojan://CMLiu@65.109.184.193:2087/?type=ws&host=aliorg.filegear-sg.me&path=%2F&security=tls&sni=aliorg.filegear-sg.me#🆔 @v2ray_configs_pool
-trojan://auto@162.159.135.232:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
-trojan://auto@104.20.19.168:2083/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
-trojan://Watashi_VPN@104.18.13.229:2053/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🆔 @v2ray_configs_pool
-trojan://TeleGram-VPNCTVIP@164.38.155.61:443/?type=ws&host=trojan-ws.vpnctvip.dns-dynamic.NeT&path=%2F&security=tls&sni=trojan-ws.vpnctvip.dns-dynamic.NeT#🆔 @v2ray_configs_pool
-trojan://Watashi_VPN@172.64.149.134:8443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔 @v2ray_configs_pool
+vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Do.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
+vless://TeLeGram-SvnTeam@speedtest.net:443?type=ws&host=Yek.IR&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#🆔 @v2ray_configs_pool
+vless://3edb4046-af2d-498a-97b9-05ea60853895@germanys.malphatmbelivers.ir:8081?security=none&type=tcp&headerType=http&path=%2F&host=google.com#🆔 @v2ray_configs_pool
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082/?type=ws&encryption=none&host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&path=%2F#🆔 @v2ray_configs_pool
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@162.159.60.173:2082/?type=ws&encryption=none&host=UuOxTfVv27.eJaZeMaDaStE-KhOdScH.OrG&path=%2F#🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTA0LjE3LjE0OC4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1cy1jY3MueXVqaTIwMjIuZXUub3JnIiwgImlkIjogIjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvWFNqZWc3M282WmRzaGVhaENiNUpHIiwgInBvcnQiOiAiODg4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sICJ9
+vmess://eyJhZGQiOiAiMTA0LjE3LjE0OC4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1cy1jY3MueXVqaTIwMjIuZXUub3JnIiwgImlkIjogIjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvWFNqZWc3M282WmRzaGVhaENiNUpHIiwgInBvcnQiOiAiODg4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sICJ9
