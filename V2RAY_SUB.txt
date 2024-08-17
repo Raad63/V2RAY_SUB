@@ -1,10 +1,10 @@
+vless://e11cac8e-0769-47be-c243-6e7d1290ca8f@172.67.204.84:2082?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=c036251a-6d22-48d4-89e6-943ae96c2caa.xnqoqa70oca72rntcqkc12mm41amufic6281ebaaag7833aq1jl1t.SHOP.&type=httpupgrade#🆔 @v2ray_configs_pool
 vless://8af19b50-a1c2-4f6b-bad6-3e06f6cdf865@172.67.15.198:2082?path=%2F&security=none&encryption=none&host=workerr.strife-dc2.workers.dev&type=ws#🆔 @v2ray_configs_pool
 vless://baa2ae65-963f-492c-8fb5-8e3dc337d622@104.21.64.117:8080?path=%2Fdownload.zula_v1.8.10&security=none&encryption=none&host=dash.loadermodern.com&type=httpupgrade#🆔 @v2ray_configs_pool
 vless://b4588e81-4ece-4acf-aa03-31f30d51df31@128.140.96.174:80?security=none&encryption=none&headerType=http&type=tcp#🆔 @v2ray_configs_pool
 vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@172.67.133.177:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=bia-zod-falcunargo.545c437f13.workers.Dev&type=ws#🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔 @v2ray_configs_pool
 vless://1142470b-d8de-4e9d-99f9-dfefbbdb39e0@104.18.41.138:8443?path=%2FTELEGRAM-PROXY_MTM%3Fed%3D8443&security=tls&encryption=none&host=pardazeshvpn-tg27.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg27.pages.dev#🆔 @v2ray_configs_pool
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.17.195:443?path=%2FTELEGRAM-PROXY_MTM%3Fed%3D443&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🆔 @v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&security=tls&encryption=none&host=joiNv2ngFaST.PAgES.DeV&type=ws&sni=JOINv2nGFast.PagEs.dEv#🆔 @v2ray_configs_pool
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#🆔 @v2ray_configs_pool
+vless://b91b3053-9602-4a60-b848-ec0eafea2096@wWW.zulA.IR:2096?path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=VPz13sJUpuSKGcb4coAb722uF7351L6I0cpIduQVOgnxRsa9CGe8R8yHtp9.PAgES-DEv.SitE&fp=chrome&type=ws&sni=VPz13sJUpuSKGcb4coAb722uF7351L6I0cpIduQVOgnxRsa9CGe8R8yHtp9.PAgES-DEv.SitE#🆔 @v2ray_configs_pool
