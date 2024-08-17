@@ -1,10 +1,10 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.243.60.150:80/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048#🆔 @v2ray_configs_pool
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.218.204.128:80/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048#🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAiMTk4LjQxLjIwMi41IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZhc3R4di5wYWdlcy5kZXYiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jYTEiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogInBhZ2VzLmRldiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCAifQ==
-vless://5a01d769-24dc-4df8-83cd-b0c732c24877@ne.cpcod079.info:23695?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔 @v2ray_configs_pool
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🆔 @v2ray_configs_pool
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&security=tls&encryption=none&host=joiNv2ngFaST.PAgES.DeV&type=ws&sni=JOINv2nGFast.PagEs.dEv#🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🆔 @v2ray_configs_pool
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2Ftelegram-proxy_mtm%2F%3Fed%3D8443&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#🆔 @v2ray_configs_pool
 vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@104.17.93.85:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443#🆔 @v2ray_configs_pool
+vless://b0929c97-eddf-4516-838d-b7c32659cb0b@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Login.CafeBazaar.CYoU.&type=httpupgrade#🆔 @v2ray_configs_pool
+trojan://telegram-id-privatevpns@51.20.148.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔 @v2ray_configs_pool
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.250.244.202:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🆔 @v2ray_configs_pool
+trojan://telegram-id-directvpn@15.157.1.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🆔 @v2ray_configs_pool
