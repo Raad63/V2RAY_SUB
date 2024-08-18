@@ -1,10 +1,10 @@
-trojan://Watashi_VPN@104.27.7.142:2053/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#🆔 @v2ray_configs_pool
-trojan://auto@162.159.135.232:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
-trojan://Watashi_VPN@104.17.148.22:443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🆔 @v2ray_configs_pool
-trojan://Watashi_VPN@104.18.12.229:8443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#🆔 @v2ray_configs_pool
+trojan://moist@154.197.121.253:443/?type=ws&host=trojan.freenods.sbs&path=%2F%3Fed%3D2560&security=tls&sni=trojan.freenods.sbs#🆔 @v2ray_configs_pool
+trojan://Watashi_VPN@104.18.12.229:2053/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#🆔 @v2ray_configs_pool
+trojan://ComYEI7fQv@51.68.215.55:443/?type=ws&path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&security=tls&sni=uk-04.allhubb.info&alpn=http%2F1.1&fp=chrome#🆔 @v2ray_configs_pool
 trojan://Watashi_VPN@173.245.49.20:2096/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🆔 @v2ray_configs_pool
-trojan://auto@104.20.6.134:443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
 trojan://Watashi_VPN@141.101.113.89:443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🆔 @v2ray_configs_pool
 trojan://auto@162.159.136.232:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
 trojan://moist@154.197.121.127:443/?type=ws&host=trojan.freenods.sbs&path=%2F&security=tls&sni=trojan.freenods.sbs#🆔 @v2ray_configs_pool
+trojan://auto@104.20.6.134:443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443/?type=ws&host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com#🆔 @v2ray_configs_pool
+trojan://auto@162.159.138.232:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#🆔 @v2ray_configs_pool
