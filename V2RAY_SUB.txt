@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.111.114.133:8881#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.111.114.133:8091#🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.111.114.133:8080#🆔 @v2ray_configs_pool
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-4gi.pages.dev:8443?path=%2FwZkxIpWmF4f9YnOk%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoinmAHdIsErVER-4gi.pagES.DEV&fp=randomized&type=ws&sni=JoINmahDisERver-4gI.paGeS.dEV#🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+Doping_Azad_Original%40%E2%9C%85 #🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.111.114.133:9101#🆔 @v2ray_configs_pool
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-4gi.pages.dev:2053?path=%2F9qiXsQ2YsNswgb5F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoINmAhDIsERver-4gI.PAgES.Dev&fp=randomized&type=ws&sni=JOiNMahDIserveR-4Gi.PAges.DeV#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjcTA3OUZOQTZITGM3Z25mR1pJSFc5@195.2.76.71:60422#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#🆔 @v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🆔 @v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔 @v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔 @v2ray_configs_pool
