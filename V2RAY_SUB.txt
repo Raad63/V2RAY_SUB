@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.93.118:8080#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.111.114.133:8091#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.111.114.133:9090#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8080#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@45.89.52.66:9042#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.47:5500#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@15.204.87.225:8000#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5004#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#👉🆔 @v2ray_configs_pool
-ss://77-977-9Ou-_ve-_ve-_ve-_ve-_ve-_vTdzz7zvv73vv71-77-977-977-9PO-_vV95@speedtest.org:443#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8119#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTA0LjE4LjU3LjExMSIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4NiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ1LjQ3IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vless://94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#👉🆔 @v2ray_configs_pool
+vless://94f51d56-204b-466b-b1d7-d397df9273d4@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ3LjEyNiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTA0LjE5LjUxLjIzMiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4NiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ2LjI3IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@80.92.204.106:9024#👉🆔 @v2ray_configs_pool
