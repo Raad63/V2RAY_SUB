@@ -1,10 +1,10 @@
-vless://%54e%6ce%67ra%6d-%69p%562Ra%79-for@www.speedtest.net:80?type=grpc&serviceName=&mode=multi&security=tls&encryption=none&path=%2F%54e%6ce%67ra%6d-%69p%562Ra%79?ed%3D2048&security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#👉🆔 @v2ray_configs_pool
-vless://%50a%72sa%73%68%6fna%6d-42@185.146.173.39:8880?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.127.39.232:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.219.0.48:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.222.193.65:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.222.179.231:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.219.83.201:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.219.97.50:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.162.61.18:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.49.212.232:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@52.29.224.33:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.162.61.18:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@54.194.162.247:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.82.76.253:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@35.247.124.181:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.1.76.23:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.102.111.127:80/?type=ws&encryption=none&host=a.ssll.gay&path=TG%20%40WangCai_8%20%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
