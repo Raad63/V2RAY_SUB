@@ -1,10 +1,10 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2083?encryption=none&security=tls&sni=cxROlVPN.pages.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=cXROlVPN.pAgeS.DeV&path=%2FtJX0FPNvVTWdWyZW%3Fed%3D2560#👉🆔 @v2ray_configs_pool
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?encryption=none&security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V17.SiMansaNaT.Ir.#👉🆔 @v2ray_configs_pool
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@65.49.237.197:40766/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#👉🆔 @v2ray_configs_pool
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@35.221.131.178:10240/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#👉🆔 @v2ray_configs_pool
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@14.48.49.133:10000/?type=ws&encryption=none&host=cfed.tgzdyz2.top&path=%2FTG%40ZDYZ2%3Fed%3D2560&security=tls&sni=cfed.tgzdyz2.top&fp=random#👉🆔 @v2ray_configs_pool
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@146.56.144.32:11202/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#👉🆔 @v2ray_configs_pool
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTA0LjIxLjE1LjM2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wiLCAic2N5IjogImF1dG8iLCAic25pIjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@silver-east.autohome.icu:12011?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D1876d86d40f9.microsoft.com#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@silver-east.autohome.icu:12010?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D1876d86d40f9.microsoft.com#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@silver-east.autohome.icu:12012?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D1876d86d40f9.microsoft.com#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@silver-east.autohome.icu:13235?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D1876d86d40f9.microsoft.com#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@silver-east.autohome.icu:13024?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D1876d86d40f9.microsoft.com#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@silver-east.autohome.icu:13010?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D1876d86d40f9.microsoft.com#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@silver-east.autohome.icu:12706?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D1876d86d40f9.microsoft.com#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@silver-east.autohome.icu:13107?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D1876d86d40f9.microsoft.com#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA@silver-east.autohome.icu:13108?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D1876d86d40f9.microsoft.com#👉🆔 @v2ray_configs_pool
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.26.12.255:8080?encryption=none&security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.#👉🆔 @v2ray_configs_pool
