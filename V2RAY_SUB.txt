@@ -1,10 +1,10 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.213.38:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=42f8ad117d5141ee63ab4256b22d2e71d9a.nv2ron.ir&fp=chrome&type=ws&sni=42f8ad117d5141ee63ab4256b22d2e71d9a.nv2ron.ir#👉🆔 @v2ray_configs_pool
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.186.42:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=42f8ad117d5141ee63ab4256b22d2e71d9a.nv2ron.ir&fp=chrome&type=ws&sni=42f8ad117d5141ee63ab4256b22d2e71d9a.nv2ron.ir#👉🆔 @v2ray_configs_pool
-vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@100.21.131.48:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2083?path=%2FtJX0FPNvVTWdWyZW%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=cXROlVPN.pAgeS.DeV&fp=randomized&type=ws&sni=cxROlVPN.pages.dEv#👉🆔 @v2ray_configs_pool
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=%2FLkDCuLyAgB4jo1yb%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=cXrolvpn.pagEs.DEv&fp=randomized&type=ws&sni=cXrOLvPn.PAgEs.dev#👉🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.59.218:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.101:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.24.142:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.46.48:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.43.45:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.173.212:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.59.218:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.101:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.24.142:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.46.48:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool
