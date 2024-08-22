@@ -1,10 +1,10 @@
-vless://a3e25331-44c3-4dbf-90a4-13cfa3cbfd71@188.245.107.212:443?security=reality&encryption=none&pbk=N5N6tUte7fi29Vz1ICGIcTvbhl-l7mc0PCO0HGF7zEo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mdundo.com&sid=5c615570#👉🆔 @v2ray_configs_pool
-vless://%50a%72sa%73%68%6fna%6d-44@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.56.196.176:9443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dns68.putata.eu.org&fp=randomized&type=ws&sni=dns68.putata.eu.org#👉🆔 @v2ray_configs_pool
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#👉🆔 @v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&security=tls&encryption=none&host=joiNv2ngFaST.PAgES.DeV&type=ws&sni=JOINv2nGFast.PagEs.dEv#👉🆔 @v2ray_configs_pool
+vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@174.129.239.33:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
 vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@174.129.239.33:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
 vless://0e0b8819-0131-4579-85f2-2f84ddb32bf6@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc8.lebasnoo.ir.&type=ws#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiOTUuMzguMjEwLjE3OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZWM1OWRiYzUtODRjMy00N2RhLWE2NWYtNjkyOTA2NjdlOTFlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyNjYxMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool
 vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&security=tls&encryption=none&host=joiNv2ngFaST.PAgES.DeV&type=ws&sni=JOINv2nGFast.PagEs.dEv#👉🆔 @v2ray_configs_pool
-ss:ss:ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA==@silver-east.autohome.icu:13111#👉🆔 @v2ray_configs_pool
-ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA==@silver-east.autohome.icu:13005#👉🆔 @v2ray_configs_pool
