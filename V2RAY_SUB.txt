@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwQmxWUWEzeUJoYXpaVXBHVEFYTVJx@46.226.167.36:51476#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206c2tZeGZDQkJEM3BkV09NUkJHT3hlMA==@5.182.87.210:35961#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQkxPSzlIZUNsMDVaSExaNmV6cEEx@77.83.246.74:33320#👉🆔 @v2ray_configs_pool
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.37.18.75:7002#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQkxPSzlIZUNsMDVaSExaNmV6cEEx@77.83.246.74:33320#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwQmxWUWEzeUJoYXpaVXBHVEFYTVJx@46.226.167.36:51476#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRmplRFRGUjEydFNVRDJrVG1WQjJHODhnNzJQeGU4bTM4am1mdjZlZXczUVhTb1U4YVA1RDVmTFU3UTNZbjVDYWRraWF0UUU1akZDM0g0RFVoVm5mc3VDSFNxQkczM0E=@185.5.38.111:55988#👉🆔 @v2ray_configs_pool
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.18.75:5500#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYU5HMWFObEgwUUpSa2RzV1Z6VzYz@89.185.84.185:12575#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0V3BjZGMxdVF2YlV3eVlSNDB1a2hE@91.201.67.78:50669#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#👉🆔 @v2ray_configs_pool
+ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#👉🆔 @v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&security=tls&encryption=none&host=joiNv2ngFaST.PAgES.DeV&type=ws&sni=JOINv2nGFast.PagEs.dEv#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTg4LjExNC45OS4xODciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidmlkLjIxLnd3dy5zcGVlZHRlc3QubmV0LnBhLWJlemFuLWFzaGdoYWwuY3lvdS4iLCAiaWQiOiAiZTU0MzE2YWUtZGU3Zi00ZmRmLTljMjYtYmUxMmI2Y2JjMDMwIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi9AaXJ2cG5uLEBpcnZwbm4sQGlydnBubixAaXJ2cG5uP2VkPTIwODYiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vless://%50a%72sa%73%68%6fna%6d-45@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool
+vless://telegram-id-ArV2ray@www.speedtest.net:2095?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&security=none&encryption=none&host=6.www.speedtest.net.G.bahrane.iR.&type=ws#👉🆔 @v2ray_configs_pool
