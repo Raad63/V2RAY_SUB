@@ -1,10 +1,10 @@
-vless://%50a%72sa%73%68%6fna%6d-46@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#😍 @v2ray_configs_pool😍
-vless://Telegram-ipV2Ray-had@www.speedtest.net:80?type=httpupgrade&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&path=/Telegram-ipV2Ray?ed%3D2048&security=none#😍 @v2ray_configs_pool😍
-vless://Telegram-ipV2Ray-had@www.speedtest.net:80?type=httpupgrade&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&path=/Telegram-ipV2Ray?ed%3D2048&security=none#😍 @v2ray_configs_pool😍
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&security=none&encryption=none&host=7.www.speedtest.net.G.speedtest-1.Live.&type=httpupgrade#😍 @v2ray_configs_pool😍
-vless://Telegram-ipV2Ray-had@www.speedtest.net:80?type=httpupgrade&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&path=/Telegram-ipV2Ray?ed%3D2048&security=none#😍 @v2ray_configs_pool😍
-vless://Telegram-ipV2Ray-had@www.speedtest.net:80?type=httpupgrade&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&path=/Telegram-ipV2Ray?ed%3D2048&security=none#😍 @v2ray_configs_pool😍
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?type=httpupgrade&host=TdWwPlBs61.kOmAtSo.oRg&path=/&security=none#😍 @v2ray_configs_pool😍
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80?type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.&security=none#😍 @v2ray_configs_pool😍
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80?type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V25.SiMansaNaT.Ir.&security=none#😍 @v2ray_configs_pool😍
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80?type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V25.SiMansaNaT.Ir.&security=none#😍 @v2ray_configs_pool😍
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80?type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.&security=none#😍 @v2ray_configs_pool😍
 vless://ca85c55e-e995-4294-8050-34113454a2a4@185.146.173.58:8080?type=ws&host=lc9.lebasnoo.ir.&path=/servernett&security=none#😍 @v2ray_configs_pool😍
+vless://ca85c55e-e995-4294-8050-34113454a2a4@185.146.173.58:8080?type=ws&host=lc9.lebasnoo.ir.&path=/servernett&security=none#😍 @v2ray_configs_pool😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.43.7:443#😍 @v2ray_configs_pool😍
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#😍 @v2ray_configs_pool😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😍 @v2ray_configs_pool😍
