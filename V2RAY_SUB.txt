@@ -1,10 +1,10 @@
-vless://23724b9f-a8c7-490f-911b-6aa100bfe313@104.16.11.133:80/?type=tcp&encryption=none#😍 @v2ray_configs_pool😍
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.130:443/?type=ws&encryption=none&host=V2nGfasT-3Tm.pAgEs.dEV&path=%2F23UTNPNFMGj3lCvd%3Fed%3D2560&security=tls&sni=v2nGfast-3TM.PAGEs.DEv#😍 @v2ray_configs_pool😍
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-857.pages.dev:2053/?type=ws&encryption=none&host=joinMaHDIseRver-857.pageS.dev&path=%2FXU7bkJxPm2kQLM3z%3Fed%3D2560&security=tls&sni=joinMAHDisERVeR-857.PAGes.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized#😍 @v2ray_configs_pool😍
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053/?type=ws&encryption=none&host=mAhDiSerVer-AsL.PAgES.Dev&path=%2FfU2YMWiSrI36X2Nv%3Fed%3D2560&security=tls&sni=MahDIserveR-aSl.PageS.dev&alpn=h2%2Chttp%2F1.1&fp=randomized#😍 @v2ray_configs_pool😍
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.59.70:2053/?type=ws&encryption=none&host=mAHdIserveR-asL.paGES.dEv&path=%2F9wUhFMKgsGMqAUO6%3Fed%3D2560&security=tls&sni=MaHdisErVEr-asl.pAGEs.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized#😍 @v2ray_configs_pool😍
 vless://b120f372-72a9-4f83-ac24-31af46946849@104.21.88.50:2082/?type=tcp&encryption=none#😍 @v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😍 @v2ray_configs_pool😍
 vless://adf9b5d6-cfd4-4936-a0a1-429b4f4abb0c@94.242.60.130:34302/?type=grpc&encryption=none&sni=divarcdn.com&fp=chrome&security=reality&pbk=mhQvjXLWARVvVf0YyWbaJXLH8dWcl0v5lrp4abcLhys&sid=d4fcce2a#😍 @v2ray_configs_pool😍
-vless://6ad35588-e60e-47e7-aab1-49df45c08987@104.21.19.124:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#😍 @v2ray_configs_pool😍
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.130:443/?type=ws&encryption=none&host=V2nGfasT-3Tm.pAgEs.dEV&path=%2F23UTNPNFMGj3lCvd%3Fed%3D2560&security=tls&sni=v2nGfast-3TM.PAGEs.DEv#😍 @v2ray_configs_pool😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😍 @v2ray_configs_pool😍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.130:443?path=%2F23UTNPNFMGj3lCvd%3Fed%3D2560&security=tls&encryption=none&host=V2nGfasT-3Tm.pAgEs.dEV&type=ws&sni=v2nGfast-3TM.PAGEs.DEv#😍 @v2ray_configs_pool😍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.130:443?path=%2F23UTNPNFMGj3lCvd%3Fed%3D2560&security=tls&encryption=none&host=V2nGfasT-3Tm.pAgEs.dEV&type=ws&sni=v2nGfast-3TM.PAGEs.DEv#😍 @v2ray_configs_pool😍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.130:443?path=%2F23UTNPNFMGj3lCvd%3Fed%3D2560&security=tls&encryption=none&host=V2nGfasT-3Tm.pAgEs.dEV&type=ws&sni=v2nGfast-3TM.PAGEs.DEv#😍 @v2ray_configs_pool😍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-857.pages.dev:2053?path=%2FXU7bkJxPm2kQLM3z%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=joinMaHDIseRver-857.pageS.dev&fp=randomized&type=ws&sni=joinMAHDisERVeR-857.PAGes.dEv#😍 @v2ray_configs_pool😍
