@@ -1,10 +1,10 @@
-vless://b120f372-72a9-4f83-ac24-31af46946849@172.67.173.8:2082?path=%2F&security=none&encryption=none&host=blog-free.rubika.ir.bale.com.igap.net.zcx---cplus.hhtml.nice.hg.newbalace.com.panel.TelActive.Net.&type=httpupgrade#😍 @v2ray_configs_pool😍
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#😍 @v2ray_configs_pool😍
 vless://Parsashonam-47@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#😍 @v2ray_configs_pool😍
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&security=none&encryption=none&host=VtFzLlVc167.SaMaDzAdE.CoM&type=ws#😍 @v2ray_configs_pool😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#😍 @v2ray_configs_pool😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😍 @v2ray_configs_pool😍
-vless://b120f372-72a9-4f83-ac24-31af46946849@172.67.173.8:2082?path=%2F&security=none&encryption=none&host=blog-free.rubika.ir.bale.com.igap.net.zcx-cplus.hhtml.nice.hg.newbalace.com.panel.TelActive.Net.&type=httpupgrade#😍 @v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTY3Q1T3NBaTVrb1lydnYxR1lNTzZM@45.33.30.8:18789/?outline=1#😍 @v2ray_configs_pool😍
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#😍 @v2ray_configs_pool😍
-vless://b120f372-72a9-4f83-ac24-31af46946849@172.67.173.8:2082?path=%2F&security=none&encryption=none&host=blog-free.rubika.ir.bale.com.igap.net.zcx---cplus.hhtml.nice.hg.newbalace.com.panel.TelActive.Net.&type=httpupgrade#😍 @v2ray_configs_pool😍
+vless://Parsashonam-47@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#😍 @v2ray_configs_pool😍
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&security=none&encryption=none&host=VtFzLlVc167.SaMaDzAdE.CoM&type=ws#😍 @v2ray_configs_pool😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#😍 @v2ray_configs_pool😍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&security=tls&encryption=none&host=joiNv2ngFaST.PAgES.DeV&type=ws&sni=JOINv2nGFast.PagEs.dEv#😍 @v2ray_configs_pool😍
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?encryption=none&security=tls&sni=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2FTelegram..Free_V2rng%2F%3Fed%3D2048#😍 @v2ray_configs_pool😍
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?encryption=none&security=tls&sni=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2FTelegram..Free_V2rng%2F%3Fed%3D2048#😍 @v2ray_configs_pool😍
