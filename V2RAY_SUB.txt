@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443#😍 @v2ray_configs_pool😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzV25ZNEdZM2p1VnhreWZlN3VBMENN@185.247.141.87:58454#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.117:5499#😍 @v2ray_configs_pool😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#😍 @v2ray_configs_pool😍
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.69:80?path=%2F%3Fed&security=none&encryption=none&host=a.ssll.gay&type=ws#😍 @v2ray_configs_pool😍
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#😍 @v2ray_configs_pool😍
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&security=none&encryption=none&host=VtFzLlVc167.SaMaDzAdE.CoM&type=ws#😍 @v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#😍 @v2ray_configs_pool😍
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.59.70:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mAHdIserveR-asL.paGES.dEv&fp=randomized&type=ws&sni=MaHdisErVEr-asl.pAGEs.DEv#😍 @v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#😍 @v2ray_configs_pool😍
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#😍 @v2ray_configs_pool😍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.59.70:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mAHdIserveR-asL.paGES.dEv&fp=randomized&type=ws&sni=MaHdisErVEr-asl.pAGEs.DEv#😍 @v2ray_configs_pool😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUzdtb0JoRDZiVUxTdFBIdDFHRDFB@167.99.216.236:50250/?outline=1#😍 @v2ray_configs_pool😍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&security=tls&encryption=none&host=joiNv2ngFaST.PAgES.DeV&type=ws&sni=JOINv2nGFast.PagEs.dEv#😍 @v2ray_configs_pool😍
+vless://%50a%72sa%73%68%6fna%6d-48@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#😍 @v2ray_configs_pool😍
