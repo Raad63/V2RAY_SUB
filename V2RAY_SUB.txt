@@ -1,10 +1,10 @@
-trojan://telegram-id-privatevpns@18.171.51.132:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#😍 @v2ray_configs_pool😍
-trojan://telegram-id-directvpn@34.252.234.105:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@80.92.204.106:9046#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.16:5001#😍 @v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc@205.134.180.139:443#😍 @v2ray_configs_pool😍
-trojan://telegram-id-directvpn@3.137.6.109:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.93.118:8080#😍 @v2ray_configs_pool😍
+trojan://telegram-id-directvpn@35.182.96.34:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.93.117:5499#😍 @v2ray_configs_pool😍
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#😍 @v2ray_configs_pool😍
+trojan://telegram-id-privatevpns@3.248.65.238:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#😍 @v2ray_configs_pool😍
+trojan://telegram-id-privatevpns@18.153.233.51:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#😍 @v2ray_configs_pool😍
+vmess://eyJhZGQiOiAiMTA0LjIxLjI0LjE3MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhZGVuYzM2di54dG9vbHRlY2guY2ZkIiwgImlkIjogImIzMjFmZDVkLWU2ZWMtNDI5My1hNjQ0LTE2NGUzODg1ZjUyZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhZGVuYzM2di54dG9vbHRlY2guY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTA0LjE2LjYxLjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiN3docmFwaWQtcml2ZXItYTA4My5zaXNheTcwNzc5LndvcmtlcnMuZGV2IiwgImlkIjogImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkL2xpbmt3cyIsICJwb3J0IjogIjIwOTYiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIjd3aHJhcGlkLXJpdmVyLWEwODMuc2lzYXk3MDc3OS53b3JrZXJzLmRldiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.93.118:8882#😍 @v2ray_configs_pool😍
