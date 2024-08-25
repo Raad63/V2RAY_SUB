@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@80.92.204.106:9084#😍 @v2ray_configs_pool😍
-vmess://eyJhZGQiOiAiMTA0LjIxLjgzLjEwOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJobXMwMi5meGlhb21pLnNicyIsICJpZCI6ICI2YzE2OGZjYy0yMjMxLTRmM2ItOGMxZS1mNjM5MTY5MmRmNGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmsiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogImhtczAyLmZ4aWFvbWkuc2JzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAicy5tYXJrdHJlZC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYXZlaXJvci5jb20iLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhdmVpcm9yLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-trojan://telegram-id-privatevpns@13.37.207.66:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.118:2375#😍 @v2ray_configs_pool😍
-vmess://eyJhZGQiOiAiMTcyLjY3LjE0Ni4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJzYXJlaWtlbGEuY29tIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRlMGQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGUwZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic2FyZWlrZWxhLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-trojan://telegram-id-privatevpns@15.237.230.107:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.28:6679#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989#😍 @v2ray_configs_pool😍
+trojan://telegram-id-privatevpns@18.171.51.132:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#😍 @v2ray_configs_pool😍
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#😍 @v2ray_configs_pool😍
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#😍 @v2ray_configs_pool😍
+trojan://telegram-id-directvpn@34.252.234.105:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@80.92.204.106:9046#😍 @v2ray_configs_pool😍
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.16:5001#😍 @v2ray_configs_pool😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc@205.134.180.139:443#😍 @v2ray_configs_pool😍
+trojan://telegram-id-directvpn@3.137.6.109:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#😍 @v2ray_configs_pool😍
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.93.118:8080#😍 @v2ray_configs_pool😍
