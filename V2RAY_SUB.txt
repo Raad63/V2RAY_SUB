@@ -1,10 +1,10 @@
-vless://1d69c1fd-7eaa-4e26-8667-4a8a215aac05@speedtest.org:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1nY206MzU3NmFhYzItZDUzMS00Mjc1LWFhNjAtMzk0OThlMDM1ZGJi@hh-01.cdn-sgp.xyz:30040#😍 @v2ray_configs_pool😍
-ss://YWVzLTI1Ni1nY206MzU3NmFhYzItZDUzMS00Mjc1LWFhNjAtMzk0OThlMDM1ZGJi@hh-01.cdn-sgp.xyz:30040#😍 @v2ray_configs_pool😍
-vless://1d69c1fd-7eaa-4e26-8667-4a8a215aac05@speedtest.org:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#😍 @v2ray_configs_pool😍
 vless://9488c287-bbfc-4281-a1ef-d70797d00c29@parsvds.ir:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws86.cloudfront.net.kiava.fun&type=ws#😍 @v2ray_configs_pool😍
-vless://1d69c1fd-7eaa-4e26-8667-4a8a215aac05@104.21.19.124:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#😍 @v2ray_configs_pool😍
 vless://b120f372-72a9-4f83-ac24-31af46946849@172.67.173.8:2082?path=%2F&security=none&encryption=none&host=blog-free.rubika.ir.bale.com.igap.net.zcx---cplus.hhtml.nice.hg.newbalace.com.panel.TelActive.Net.&type=httpupgrade#😍 @v2ray_configs_pool😍
+vless://1d69c1fd-7eaa-4e26-8667-4a8a215aac05@104.21.19.124:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#😍 @v2ray_configs_pool😍
+vless://8adec0be-2874-476e-a998-f84f94624c72@70.34.198.120:443?type=tcp&security=reality&pbk=ZWK6K0SjHPLXS1TvsM0A6F7bFYw2_-RH65PGpPxT3yI&fp=chrome&sni=sto-se-ping.vultr.com&sid=e1e14cbf&spx=%2F&flow=xtls-rprx-vision#😍 @v2ray_configs_pool😍
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#😍 @v2ray_configs_pool😍
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#😍 @v2ray_configs_pool😍
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=cXrolvpn.pagEs.DEv&fp=randomized&type=ws&sni=cXrOLvPn.PAgEs.dev#😍 @v2ray_configs_pool😍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.59.70:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mAHdIserveR-asL.paGES.dEv&fp=randomized&type=ws&sni=MaHdisErVEr-asl.pAGEs.DEv#😍 @v2ray_configs_pool😍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=cXrolvpn.pagEs.DEv&type=ws&sni=cXrOLvPn.PAgEs.dev#😍 @v2ray_configs_pool😍
+vless://0a7eab66-3ec9-45f0-8856-d7adabb1c159@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2Fmakesxnswithmtnandmci%2Fwild%2F%3Fed%3D2048&host=en.ir&security=none#😍 @v2ray_configs_pool😍
