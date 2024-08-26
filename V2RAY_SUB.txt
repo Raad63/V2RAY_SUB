@@ -1,10 +1,10 @@
-vless://%50a%72sa%73%68%6fna%6d-48@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaUhvM2hCR0Y4aDFjTmc4eXF0Y080@45.153.231.33:46980#🤩@v2ray_configs_pool🤩
-vless://DIGIV2rAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#🤩@v2ray_configs_pool🤩
-vless://a666306e-f7d2-49ab-9502-fca2b69ce499@sport.k6n.ir:443?path=%2F%3Fed%3D1024&security=tls&encryption=none=@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO&alpn=h2,http/1.1&host=speed.io&fp=chrome&type=ws&sni=speedtest.net#🤩@v2ray_configs_pool🤩
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.199.19:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#🤩@v2ray_configs_pool🤩
+vless://Parsashonam-47@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🤩@v2ray_configs_pool🤩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#🤩@v2ray_configs_pool🤩
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#🤩@v2ray_configs_pool🤩
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a09kcG13VGpLUGdPVVNPN1E3Y0FPSi8rcHpQUnhYQWIzTjk3WDJJRnBrTT06bVM3NjRVNlVxZ1BxUkdWUXVkdXNNRW83enRrRlhPTHVJc1c0N2o4enAwND0=@167.172.111.237:21108#🤩@v2ray_configs_pool🤩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.31.159:443#🤩@v2ray_configs_pool🤩
 vless://1d69c1fd-7eaa-4e26-8667-4a8a215aac05@104.21.19.124:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#🤩@v2ray_configs_pool🤩
+vless://74b26212-3b66-465a-bc46-c6bfc36254dc@104.25.0.86:8080?security=none&encryption=none&host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir.&type=ws#🤩@v2ray_configs_pool🤩
+vless://8cee3937-8acb-4d52-e153-7db5faa62a5f@chanel-sn.lavazemkhoshina.ir:46101?mode=gun&security=reality&encryption=none&authority=&pbk=DPzR_HeOcmpnM-TkuGNxoKM4oa6qWmexemmeoOksfU8&fp=chrome&type=grpc&serviceName=&sni=help.mega.io#🤩@v2ray_configs_pool🤩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🤩@v2ray_configs_pool🤩
-vless://131f0fe7-9042-4180-b2a1-8dc51d3fdffe@adzxcbgsdf.vhghhh.meghdad-market2.ir:8443?type=grpc&serviceName=&mode=multi&security=none#🤩@v2ray_configs_pool🤩
+vless://74b26212-3b66-465a-bc46-c6bfc36254dc@SpeeDTeST.OrG:80?security=none&encryption=none&host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir.&type=ws#🤩@v2ray_configs_pool🤩
