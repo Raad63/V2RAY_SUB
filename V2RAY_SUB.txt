@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🤩@v2ray_configs_pool🤩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdm1ndVRiNks3SHpFdGVlMjJtbHM2@45.83.21.66:14783#🤩@v2ray_configs_pool🤩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1OElma0plaDk0VGFmZVJDOXRpdmFl@85.159.230.44:52842#🤩@v2ray_configs_pool🤩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdm1ndVRiNks3SHpFdGVlMjJtbHM2@45.83.21.66:14783#🤩@v2ray_configs_pool🤩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#🤩@v2ray_configs_pool🤩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0V3BjZGMxdVF2YlV3eVlSNDB1a2hE@91.201.67.78:50669#🤩@v2ray_configs_pool🤩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaUhvM2hCR0Y4aDFjTmc4eXF0Y080@45.153.231.33:46980#🤩@v2ray_configs_pool🤩
+vless://telegram-id-ArV2ray@www.speedtest.net:2095?type=ws&host=2.V2.j.www.speedtest.net.mehpow.iR.&path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none#🤩@v2ray_configs_pool🤩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🤩@v2ray_configs_pool🤩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaXNkQmRBME9KZjVZUjdzVWw2Zkl2@81.19.141.45:52873#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzV25ZNEdZM2p1VnhreWZlN3VBMENN@185.247.141.87:58454#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🤩@v2ray_configs_pool🤩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1OElma0plaDk0VGFmZVJDOXRpdmFl@85.159.230.44:52842#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#🤩@v2ray_configs_pool🤩
