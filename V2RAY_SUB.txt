@@ -1,10 +1,10 @@
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.162:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.98.109:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.86.158:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.201.86:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.249.133:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.49:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.162:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.86.158:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.249.133:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.1.94:443?encryption=none&security=tls&sni=edtunnel-csc.pages.dev&type=ws&host=edtunnel-csc.pages.dev&path=%2F%3Fed%3D2048#😍 @v2ray_configs_pool😍
+vless://81587701-5184-4999-b130-2c7a6f99bb24@www.visa.com.sg:8443?encryption=none&security=tls&sni=pardazeshvpn-tg34.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg34.pages.dev&path=%2F@VPNHTTPInjectorfree#😍 @v2ray_configs_pool😍
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.98.109:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.201.86:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.227.49:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.55.162:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#😍 @v2ray_configs_pool😍
