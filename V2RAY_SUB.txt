@@ -1,10 +1,10 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🤩@v2ray_configs_pool🤩
+vless://856d42aa-38b5-4c78-8321-c8d6562845fe@46.245.67.185:20652?security=none&encryption=none&host=webmail.yjc.ir&headerType=http&type=tcp#🤩@v2ray_configs_pool🤩
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443#🤩@v2ray_configs_pool🤩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzV25ZNEdZM2p1VnhreWZlN3VBMENN@185.247.141.87:58454#🤩@v2ray_configs_pool🤩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🤩@v2ray_configs_pool🤩
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1OElma0plaDk0VGFmZVJDOXRpdmFl@85.159.230.44:52842#🤩@v2ray_configs_pool🤩
+vless://91133cf7-7888-4dcd-bfce-a66a57f9c660@193.228.168.112:19296?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🤩@v2ray_configs_pool🤩
+vless://67d7b9f5-a10e-4491-e07f-3122bb8fadcc@46.245.67.185:30352?security=none&encryption=none&headerType=http&type=tcp#🤩@v2ray_configs_pool🤩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🤩@v2ray_configs_pool🤩
-vless://SVNTEAM17@speedtest.net:443?path=%2FSVNTEAM%2CPROVIP%2CSVNTEAM%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdm1ndVRiNks3SHpFdGVlMjJtbHM2@45.83.21.66:14783#🤩@v2ray_configs_pool🤩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaUhvM2hCR0Y4aDFjTmc4eXF0Y080@45.153.231.33:46980#🤩@v2ray_configs_pool🤩
-vless://a54b8cdb-1a25-469b-a48e-222fd92f7c44@62.60.219.145:443?security=none&encryption=none&headerType=none&type=tcp#🤩@v2ray_configs_pool🤩
+vless://77aa2623-e6aa-4997-b829-d83a963a0581@172.67.174.202:2052?path=%2F&security=none&encryption=none&host=blog-free.rubika.ir.bale.com.igap.net.zcx---cplus.hhtml.nice.hg.newbalace.com.panel.TelActive.Net.&type=ws#🤩@v2ray_configs_pool🤩
