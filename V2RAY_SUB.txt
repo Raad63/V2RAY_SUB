@@ -1,10 +1,10 @@
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#😊@v2ray_configs_pool😊
-vless://b120f372-72a9-4f83-ac24-31af46946849@172.67.173.8:2082?path=%2F&security=none&encryption=none&host=blog-free.rubika.ir.bale.com.igap.net.zcx---cplus.hhtml.nice.hg.newbalace.com.panel.TelActive.Net.&type=httpupgrade#😊@v2ray_configs_pool😊
 vless://SVNTEAM21@speedtest.net:443?path=/SVNTEAM,Channel,Telegram,SVNTEAM?ed=1024&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#😊@v2ray_configs_pool😊
-vless://%53%56%4E%54%45%41%4D18@speedtest.net:443?path=%2F%53%56%4E%54%45%41%4D%2CPROVIP%2C%53%56%4E%54%45%41%4D%3Fed%3D1024&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#😊@v2ray_configs_pool😊
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😊@v2ray_configs_pool😊
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=cXrolvpn.pagEs.DEv&fp=randomized&type=ws&sni=cXrOLvPn.PAgEs.dev#😊@v2ray_configs_pool😊
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=cXrolvpn.pagEs.DEv&fp=randomized&type=ws&sni=cXrOLvPn.PAgEs.dev#😊@v2ray_configs_pool😊
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😊@v2ray_configs_pool😊
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=cXrolvpn.pagEs.DEv&fp=randomized&type=ws&sni=cXrOLvPn.PAgEs.dev#😊@v2ray_configs_pool😊
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😊@v2ray_configs_pool😊
+vless://SVNTEAM21@speedtest.net:443?path=/SVNTEAM,Channel,Telegram,SVNTEAM?ed=1024&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#😊@v2ray_configs_pool😊
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😊@v2ray_configs_pool😊
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#😊@v2ray_configs_pool😊
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ@95.164.35.90:8388#😊@v2ray_configs_pool😊
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ@95.164.35.90:8388#😊@v2ray_configs_pool😊
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWWp0bkMyQmpZM1FZZVVsTk9lbWUx@80.66.64.39:21076#😊@v2ray_configs_pool😊
