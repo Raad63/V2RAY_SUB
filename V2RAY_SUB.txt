@@ -1,10 +1,10 @@
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=4.www.speedtest.net.A.speedtest2.Live.&type=httpupgrade#➡️@v2ray_configs_pool⬅️
-vmess://eyJhZGQiOiAiMTI4LjIwNC4yMjMuMTEyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNTM3MTk5OS01ZGFkLTRjYmEtYzY1Ni03M2QyODQ2OTNmZTgiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICJWMkdIbyIsICJwb3J0IjogIjU5Njc5IiwgInBzIjogIlx1MjdhMVx1ZmUwZkB2MnJheV9jb25maWdzX3Bvb2xcdTJiMDVcdWZlMGYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiZ3VuIiwgInYiOiAiMiJ9
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?path=%2FRaCVjPY5k7jy2rTZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BPB-a-montH-aFTER-July.pAGeS.dEV&fp=randomized&type=ws&sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev#➡️@v2ray_configs_pool⬅️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#➡️@v2ray_configs_pool⬅️
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a09kcG13VGpLUGdPVVNPN1E3Y0FPSi8rcHpQUnhYQWIzTjk3WDJJRnBrTT06bVM3NjRVNlVxZ1BxUkdWUXVkdXNNRW83enRrRlhPTHVJc1c0N2o4enAwND0=@167.172.111.237:21108#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNWNBeHBlWnpWdHVrRDJnejVGUTZn@212.118.54.195:443#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#➡️@v2ray_configs_pool⬅️
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=%2Ftelegram-proxy_mtm%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#➡️@v2ray_configs_pool⬅️
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?path=%2FRaCVjPY5k7jy2rTZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BPB-a-montH-aFTER-July.pAGeS.dEV&fp=randomized&type=ws&sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev#➡️@v2ray_configs_pool⬅️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#➡️@v2ray_configs_pool⬅️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#➡️@v2ray_configs_pool⬅️
