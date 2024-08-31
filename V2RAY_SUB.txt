@@ -1,10 +1,10 @@
-vless://825c2a6c-6e6b-486d-812d-d9f8bd386bfc@104.21.19.124:8880?type=httpupgrade&path=%2Fnazan%2Fpedar%2Fsag&host=splUs.Ir.DigIcYBer.CLIck.&security=none#➡️@v2ray_configs_pool⬅️
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=VFIvE-teLeGram.PAGEs.Dev&fp=chrome&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTTN0YWtPcW1VM3Z4eTBOZHN2Q2hE@147.45.136.147:41095#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNWNBeHBlWnpWdHVrRDJnejVGUTZn@212.118.54.195:443#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#➡️@v2ray_configs_pool⬅️
+vless://c1f9153b-d1d4-4e25-b466-085cc7cd320d@unlimiteddev-vpn.sabadyt.ir:8880?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=httpupgrade#➡️@v2ray_configs_pool⬅️
+vless://551cec03-459b-44c4-b2f1-e2b00d64c7a0@138.68.137.73:17293?type=grpc&encryption=none&serviceName=telegram%3A%40proxyforopeta&sni=discord.com&fp=firefox&security=reality&pbk=Vh49zRfE7BzeIquhoEOC6RdvTPz5IkmE1J2imSSZoHg&sid=5d694d7d#➡️@v2ray_configs_pool⬅️
+vless://telegram-id-ArV2ray@185.146.173.158:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=8.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.Zula.ir.cloudflare.com.mehpow.IR.&type=ws#➡️@v2ray_configs_pool⬅️
+vless://DIGIV2Ray@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#➡️@v2ray_configs_pool⬅️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#➡️@v2ray_configs_pool⬅️
-vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jAviDSHAH-ArIamEhR.PageS.deV&fp=randomized&type=ws&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV#➡️@v2ray_configs_pool⬅️
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.Dev&fp=chrome&type=ws&sni=hagh.pages.Dev#➡️@v2ray_configs_pool⬅️
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.202:2087?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=aZADNet-cVK.pAGES.dEv&fp=randomized&type=ws&sni=azaDNeT-cvK.PAgeS.dEV#➡️@v2ray_configs_pool⬅️
