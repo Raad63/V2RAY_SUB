@@ -1,10 +1,10 @@
-vless://922e96cd-7ed5-4836-a2f3-11c441716e53@www.bandmusic.ir:8880?encryption=none&security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws80.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#➡️@v2ray_configs_pool⬅️
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:8443?path=%2FmzIuX2SHNQsfSMPK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOinmAHdiserver-340.PAgeS.DEv&fp=randomized&type=ws&sni=jOinmahdiSeRVER-340.PAGES.DEV#➡️@v2ray_configs_pool⬅️
 vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=a1.mehran.ir&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
-vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=a1.mehran.ir&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:2053?path=%2F3VmWLTBaqH67eq8s%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoinmahDisErVer-340.PaGeS.DEv&fp=randomized&type=ws&sni=JOINMahDIsERvEr-340.pageS.dev#➡️@v2ray_configs_pool⬅️
-vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=a1.mehran.ir&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
-vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=a1.mehran.ir&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
 vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=cloudshop.majidhp.ir&path=/?ed%3D1024&security=tls&fp=chrome&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
+vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=cloudshop.majidhp.ir&path=/?ed%3D1024&security=tls&fp=chrome&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
+vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=a1.mehran.ir&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
+vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=cloud.majidrayan.ir&path=/?ed%3D1024&security=tls&fp=chrome&sni=speedtest.net&alpn=h2,http/1.1#➡️@v2ray_configs_pool⬅️
 vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=cloud.majidrayan.ir&path=/?ed%3D1024&security=tls&fp=chrome&sni=speedtest.net&alpn=h2,http/1.1#➡️@v2ray_configs_pool⬅️
 vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=Cpshop.pubggang.com&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
+vless://79d96609-8570-4473-96bf-efbe3f11524a@speedtest.net:443?type=ws&host=Cpshop.pubggang.com&path=/?ed%3D1024&security=tls&fp=firefox&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
+vless://79d96609-8570-4473-96bf-efbe3f11524a@zula.ir:2053?type=ws&host=api.samanpsd.ir.&path=/?ed%3D1024&security=tls&fp=chrome&sni=api.samanpsd.ir.&alpn=h2,http/1.1#➡️@v2ray_configs_pool⬅️
