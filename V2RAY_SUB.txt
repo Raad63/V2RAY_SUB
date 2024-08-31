@@ -1,10 +1,10 @@
+vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jAviDSHAH-ArIamEhR.PageS.deV&fp=randomized&type=ws&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV#➡️@v2ray_configs_pool⬅️
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.Dev&fp=chrome&type=ws&sni=hagh.pages.Dev#➡️@v2ray_configs_pool⬅️
+vless://5382f027-65b8-4b4d-bc55-cb7de11cdf2a@www.speedtest.net:80?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#➡️@v2ray_configs_pool⬅️
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.202:2087?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=aZADNet-cVK.pAGES.dEv&fp=randomized&type=ws&sni=azaDNeT-cvK.PAgeS.dEV#➡️@v2ray_configs_pool⬅️
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#➡️@v2ray_configs_pool⬅️
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=VFIvE-teLeGram.PAGEs.Dev&fp=chrome&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#➡️@v2ray_configs_pool⬅️
 vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&host=Sd.ir&type=ws&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
 vless://TELEGRAM-NUFiLTER@Speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Sd.ir&type=ws#➡️@v2ray_configs_pool⬅️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTTN0YWtPcW1VM3Z4eTBOZHN2Q2hE@147.45.136.147:41095#➡️@v2ray_configs_pool⬅️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNWNBeHBlWnpWdHVrRDJnejVGUTZn@212.118.54.195:443#➡️@v2ray_configs_pool⬅️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#➡️@v2ray_configs_pool⬅️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#➡️@v2ray_configs_pool⬅️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#➡️@v2ray_configs_pool⬅️
+vless://5382f027-65b8-4b4d-bc55-cb7de11cdf2a@iranserver.com:80?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#➡️@v2ray_configs_pool⬅️
