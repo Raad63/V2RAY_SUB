@@ -1,10 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#😍@v2ray_configs_pool😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#😍@v2ray_configs_pool😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#😍@v2ray_configs_pool😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#😍@v2ray_configs_pool😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#😍@v2ray_configs_pool😍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#😍@v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#😍@v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#😍@v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#😍@v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#😍@v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#😍@v2ray_configs_pool😍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#😍@v2ray_configs_pool😍
+vless://%54%65l%65g%72am-%69pV2%52%61y-man@www.speedtest.net:80?path=%2F%54%65l%65g%72am-%69pV2%52%61y%3Fed%3D2048&security=none&encryption=none=/@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#😍@v2ray_configs_pool😍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbFc5azcyMmZvaE84c2V3WDV2TVJk@45.33.30.8:18789/?outline=1#😍@v2ray_configs_pool😍
+vless://d5e9f164-e824-42ea-900f-5a49388ddba7@188.114.98.0:80?path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#😍@v2ray_configs_pool😍
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.23.103.47:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#😍@v2ray_configs_pool😍
