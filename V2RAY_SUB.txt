@@ -1,10 +1,10 @@
-vless://TELEGRAM-NUFiLTER@Speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Aq.ir&type=ws#🆔@v2ray_configs_pool
-vless://TELEGRAM-SVNTEAM2@www.speedtest.net:8880/?type=httpupgrade&path=%2FTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%3Fed%3D8880&host=MobileKaraj.wWw.SpeedTeSt.Net.MobileSvn.GiSvn.IR.&security=none#🆔@v2ray_configs_pool
+vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:16723?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
+vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&host=Aq.ir&type=ws&sni=speedtest.net#🆔@v2ray_configs_pool
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:16723?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
+vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
 vless://CHANNEL-SVNTEAM2@MobileCenter.Tehran.www.speedtest.net.C.Tabriz.gisvn.IR:2096/?type=grpc&serviceName=yas.mhgy.75656.iryg.ir&authority=&mode=multi&security=none#🆔@v2ray_configs_pool
 vless://Telegram-ipV2Ray-man@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@52.56.181.101:443#🆔@v2ray_configs_pool
 vless://TELEGRAM-SVNTEAM2@www.speedtest.net:8880/?type=httpupgrade&path=%2FTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%3Fed%3D8880&host=MobileKaraj.wWw.SpeedTeSt.Net.MobileSvn.GiSvn.IR.&security=none#🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.247.150:443#🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.49.58:443#🆔@v2ray_configs_pool
-vless://ec487fa8-302d-401f-b704-971b57206d62@151.101.66.219:443?path=%2Fvless%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn&security=tls&encryption=none&host=join-sho-telegram-ISVvpn.com&type=ws&sni=speedtest.net#🆔@v2ray_configs_pool
-vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
+vless://CHAANEL-SVNTEAM2@MobileCenter.Tehran.www.speedtest.net.C.Tabriz.gisvn.IR:2096/?type=grpc&serviceName=yas.mhgy.75656.iryg.ir&authority=&mode=multi&security=none#🆔@v2ray_configs_pool
+vless://TELEGRAM-SVNTEAM2@www.speedtest.net:8880/?type=httpupgrade&path=%2FTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%3Fed%3D8880&host=MobileKaraj.wWw.SpeedTeSt.Net.MobileSvn.GiSvn.IR.&security=none#🆔@v2ray_configs_pool
