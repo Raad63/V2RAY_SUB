@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5003#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.147:989#👉🆔 @v2ray_configs_pool🛜🇲🇩Moldova
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.75.136.21:8009#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8882#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.147:989#👉🆔 @v2ray_configs_pool🛜🇲🇩Moldova
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8882#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8080#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.75.136.21:8080#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.136.21:8888#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.150.152.112:8009#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://5b87fc3b-0190-46e5-8eec-943f652fa180@185.146.173.58:8080?type=ws&host=lc17.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden
+vless://145cf561-d565-42e6-9fe4-2006629758f8@185.146.173.58:8080?type=ws&host=lc19.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.75.136.21:8080#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.150.152.16:9102#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.150.152.112:8009#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.24:9090#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.150.152.16:9102#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
