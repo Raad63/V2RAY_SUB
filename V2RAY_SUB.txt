@@ -1,10 +1,10 @@
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.217.25.132:51194/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@34.150.72.226:20101/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@35.187.208.108:51637/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@193.122.102.79:18161/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@60.248.63.88:12832/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@64.64.246.237:13386/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔@v2ray_configs_pool
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@dns68.putata.eu.org:443/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@uuuu.nyc.mn:443/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.217.25.132:51194/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@64.64.246.237:13386/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@vern.ns.cloudflare.com:443/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@teresa.ns.cloudflare.com:443/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
+vless://e1913fbb-cc33-4e13-bb2b-db35b60e6a53@104.16.148.244:2053/?type=ws&encryption=none&host=CoDe911COmeTOIraNnsOdSNEFHhdkAlcOsHd.pAGEs.dev&path=%2F%3Fed%3D0&security=tls&sni=COde911comEtoIrAnNsOdSnefHHDKaLcOSHD.PAGES.dEV&alpn=http%2F1.1#🆔@v2ray_configs_pool
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.130.230:443/?type=ws&encryption=none&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev#🆔@v2ray_configs_pool
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@vern.ns.cloudflare.com:443/?type=ws&encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&fp=randomized#🆔@v2ray_configs_pool
