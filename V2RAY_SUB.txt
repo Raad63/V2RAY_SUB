@@ -1,10 +1,10 @@
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.93.118:8080#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.93.118:8882#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#👉🆔 @v2ray_configs_pool🛜🇹🇷Turkey
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#👉🆔 @v2ray_configs_pool🛜🇳🇴Norway
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.150.152.112:5498#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.118:2375#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE@205.134.180.137:443#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vmess://eyJhZGQiOiAiYmV5b25kZGJjLnNicyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJiZXlvbmRkYmMuc2JzIiwgImlkIjogIjhkOTBjMTI5LTQxNTYtNGQ2Yy05MTE1LTI0ZGYyNWYyNmEwMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJiZXlvbmRkYmMuc2JzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZWRjXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9
 vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4xODIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGVkY1x1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.28:6679#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@45.89.52.66:9031#👉🆔 @v2ray_configs_pool🛜🇹🇷Turkey
