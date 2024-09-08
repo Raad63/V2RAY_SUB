@@ -1,10 +1,10 @@
-vless://e1017ed0-cd20-4bf6-8d96-b2a052e19f0c@45.140.167.94:8443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=reality&encryption=none&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=104.20.68.118&sid=2880ee24bb417d46#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:8000#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5601#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:5600#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
 vless://BiaToo--ZEDMODEON@151.101.66.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=Ninisite.com&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:9090#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://BiaToo--ZEDMODEON@151.101.66.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=Ninisite.com&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://BiaToo--ZEDMODEON@151.101.66.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=Ninisite.com&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://TELEGRAM-NUFiLTER@Speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Ookbashetokkhobi.net&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.28:6679#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Okbashetokkhobi.net&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Okbashetokhobi.net&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.152:2375#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
