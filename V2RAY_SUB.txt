@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.152:2375#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
-vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
-vless://45f435e7-d09d-4412-b8a8-891c29644152@217.60.242.204:13189?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
-vless://ab954190-4554-4c09-9dfe-dc264069e9ee@5.223.41.114:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇸🇬Singapore
-vless://e1017ed0-cd20-4bf6-8d96-b2a052e19f0c@45.140.167.94:8443?security=reality&encryption=none&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=104.20.68.118&sid=2880ee24bb417d46#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
-vless://a1042a4a-d02f-42f1-bec8-ae6bf6527298@85.224.36.38:443?security=reality&encryption=none&pbk=KLQGU37PU52JQgb0fWgKCPpePrJSjRUcL2JZJjUfyUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatismyip.com&sid=49b7ac26#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden
-vless://58f90ed5-3dce-4023-ad0b-af42d20cf895@212.22.94.177:21844?security=reality&encryption=none&pbk=LHUss13swfFwTaV0GhNPBkbKRyt91pnVxBCdWhxBrwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.alibabagroup.com&sid=b41b108d926677#👉🆔 @v2ray_configs_pool🛜🇷🇺Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnJMR2xDVXdmUk1ha1J2TkI0UWVP@77.83.246.74:33320#👉🆔 @v2ray_configs_pool🛜🇵🇱Poland
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:8000#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaXNkQmRBME9KZjVZUjdzVWw2Zkl2@81.19.141.45:52873#👉🆔 @v2ray_configs_pool🛜🇩🇪Germany
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:9090#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5ZUt0WlczMXFYZVpiQXo4SHNINHpGdWk3YXNlSW9nc3NFSzdYOVhac0xaY1VqdzY=@89.185.84.34:51348#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5601#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMM0lDaTBBZFUjWUItSFo0YU9rRU1mdXY=@45.77.85.219:8101#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.28:6679#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
