@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@54.154.244.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇮🇪Ireland
-trojan://telegram-id-privatevpns@35.178.133.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZUN0YUs4dng0TTVVZllPWHpDWHQ1@167.71.77.212:62062#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#👉🆔 @v2ray_configs_pool🛜🇳🇱The Netherlands
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5499#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.202:2375#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.75:8000#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.85.74:6697#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.68:8119#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:3306#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://529d564d-f53b-4f9e-bc7b-42db32b8a019@www.speedtest.net:8080?path=/telegram-VPNCUSTOMIZE , telegram-VPNCUSTOMIZE , telegram-VPNCUSTOMIZE , telegram-VPNCUSTOMIZE , telegram-VPNCUSTOMIZE&security=none&encryption=none&host=dash.cloudflare.com.www.speedtest.net.dana.ir.iran.ir.Nanowash-shop.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+trojan://88903f70-b50b-11ed-8775-f23c9164ca5d@176.32.35.167:1007?security=tls&headerType=none&type=tcp&sni=97e355d4-sjlts0-sjblbk-wk2w.ru.z7zi.com#👉🆔 @v2ray_configs_pool🛜🇷🇺Russia
+trojan://ComYEI7fQv@51.68.215.55:443?path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=uk-04.allhubb.info#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
+trojan://1dfba761-c1e0-422e-98b6-062da56afb53@146.56.191.191:443?security=tls&headerType=none&type=tcp&sni=jkrf1.969799.xyz#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.66.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool🛜🇫🇷France
+vless://4004b4f2-d973-432f-8376-043a52cec187@57.129.41.217:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool🛜🇩🇪Germany
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool🛜🇩🇪Germany
+vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:80?path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM&security=none&encryption=none&host=viber.com&type=ws#👉🆔 @v2ray_configs_pool🛜🇩🇪Germany
+vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@moon.norwaylovers.com:2096?path=%2Fmoon&security=tls&encryption=none&type=ws&sni=moon.norwaylovers.com#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
