@@ -1,10 +1,10 @@
-vless://7b8400c7-a98b-470f-940d-a363f6c7cb0a@visa.com:80?path=%2FDaily_Configs-netmaster%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
-vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5601#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.75:8000#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.68:8119#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:9090#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:3306#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#👉🆔 @v2ray_configs_pool🛜🇳🇴Norway
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:5600#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+trojan://88903f70-b50b-11ed-8775-f23c9164ca5d@176.32.35.167:1007?security=tls&headerType=none&type=tcp&sni=97e355d4-sjlts0-sjblbk-wk2w.ru.z7zi.com#👉🆔 @v2ray_configs_pool🛜🇷🇺Russia
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.28:6679#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+trojan://ComYEI7fQv@51.68.215.55:443?path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=uk-04.allhubb.info#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+trojan://1dfba761-c1e0-422e-98b6-062da56afb53@146.56.191.191:443?security=tls&headerType=none&type=tcp&sni=jkrf1.969799.xyz#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+vless://ce0c7a47-944e-4ecf-ba11-249c561d6084@104.17.147.22:80?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@moon.norwaylovers.com:2096?path=%2Fmoon&security=tls&encryption=none&type=ws&sni=moon.norwaylovers.com#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool🛜🇫🇷France
+vless://4004b4f2-d973-432f-8376-043a52cec187@57.129.41.217:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool🛜🇩🇪Germany
