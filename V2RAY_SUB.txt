@@ -1,10 +1,10 @@
 vless://45f435e7-d09d-4412-b8a8-891c29644152@217.60.242.204:13189?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZUN0YUs4dng0TTVVZllPWHpDWHQ1@167.71.77.212:62062#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://3bbba349-18ea-4498-9a01-e3d068620623@iranserver.com:8880?path=%2FDaily_Configs%2CDaily_Configs%2CDaily_Configs&security=none&encryption=none&host=DailyConfigs-hhahVSHBbhh56ha.www.speedtest.net.blackoutconnection.ir.&type=splithttp#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnJMR2xDVXdmUk1ha1J2TkI0UWVP@77.83.246.74:33320#👉🆔 @v2ray_configs_pool🛜🇵🇱Poland
-vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#👉🆔 @v2ray_configs_pool🛜🇳🇱The Netherlands
-vless://3bbba349-18ea-4498-9a01-e3d068620623@visa.com:8880?path=%2FDaily_Configs%2CDaily_Configs%2CDaily_Configs&security=none&encryption=none&host=DailyConfigs-hhahVSHBbhh56ha.www.speedtest.net.blackoutconnection.ir.&type=splithttp#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaXNkQmRBME9KZjVZUjdzVWw2Zkl2@81.19.141.45:52873#👉🆔 @v2ray_configs_pool🛜🇩🇪Germany
-vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5499#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5ZUt0WlczMXFYZVpiQXo4SHNINHpGdWk3YXNlSW9nc3NFSzdYOVhac0xaY1VqdzY=@89.185.84.34:51348#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.202:2375#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://535a1765-6e27-4cce-a945-290454f721d3@www.speedtest.net:8080?path=%2FDaily_Configs-netmaster%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&type=httpupgrade#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.139.111:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=967a6F20.hoSSeinPool.PAGEs.Dev&fp=randomized&type=ws&sni=967A6f20.HosSeINpOOl.pagEs.deV#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://535a1765-6e27-4cce-a945-290454f721d3@104.16.232.2:8080?path=%2FDaily_Configs-netmaster%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&type=httpupgrade#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:8000#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.85.74:6697#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.16.16:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=967a6F20.hoSSeinPool.PAGEs.Dev&fp=randomized&type=ws&sni=967A6f20.HosSeINpOOl.pagEs.deV#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://7b8400c7-a98b-470f-940d-a363f6c7cb0a@104.16.232.2:80?path=%2FDaily_Configs-netmaster%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
