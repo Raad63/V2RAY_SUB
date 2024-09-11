@@ -1,10 +1,10 @@
-hy2://5f062e34-a8a2-40c9-b9be-58e58bbb76e6@cucc.xn--jbyq16e.xyz:41155?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
-hy2://116c6c3f-5db6-46f5-88c0-9de0d56d90cc@cmcc.xn--jbyq16e.xyz:41155?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
-vless://TeLeGram-SVNTEAM10@speedtest.net:443?path=%2F%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=http.www.speedtest.net.fast.com.life.ir&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+hy2://4a556a88-11ac-4f61-85fd-0c14975ef8c5@cmcc.xn--jbyq16e.xyz:41159?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇭🇰Hong Kong
+hy2://5f062e34-a8a2-40c9-b9be-58e58bbb76e6@cucc.xn--jbyq16e.xyz:41158?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+hy2://2d74af94-4fff-4d5e-8d16-bad431f9fc92@cucc.xn--jbyq16e.xyz:41156?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
+hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@ctcc.xn--jbyq16e.xyz:41156?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://TeLeGram-SVNTEAM10@151.101.2.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=http.www.speedtest.net.fast.com.life.ir&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@ctcc.xn--jbyq16e.xyz:41155?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+hy2://309938d8-1127-45ef-8930-5b60488e130c@cucc.xn--jbyq16e.xyz:41140?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+hy2://2d74af94-4fff-4d5e-8d16-bad431f9fc92@cucc.xn--jbyq16e.xyz:41112?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
 hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@ctcc.xn--jbyq16e.xyz:41159?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-hy2://5f062e34-a8a2-40c9-b9be-58e58bbb76e6@cucc.xn--jbyq16e.xyz:41158?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
-hy2://116c6c3f-5db6-46f5-88c0-9de0d56d90cc@cmcc.xn--jbyq16e.xyz:41159?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
-hy2://4a556a88-11ac-4f61-85fd-0c14975ef8c5@ctcc.xn--jbyq16e.xyz:41159?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
-hy2://309938d8-1127-45ef-8930-5b60488e130c@cmcc.xn--jbyq16e.xyz:41159?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
-hy2://4a556a88-11ac-4f61-85fd-0c14975ef8c5@cmcc.xn--jbyq16e.xyz:41158?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇭🇰Hong Kong
-vless://TeLeGram-SVNTEAM10@speedtest.net:443?path=%2F%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam----%40SvnTeam%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=http.www.speedtest.net.fast.com.life.ir&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+hy2://4a556a88-11ac-4f61-85fd-0c14975ef8c5@cmcc.xn--jbyq16e.xyz:41158?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
