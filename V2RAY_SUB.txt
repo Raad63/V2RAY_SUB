@@ -1,10 +1,10 @@
-vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v28.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdm1ndVRiNks3SHpFdGVlMjJtbHM2@45.83.21.66:14783#👉🆔 @v2ray_configs_pool🛜🇨🇾Cyprus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMDlBMWxoc05NVktNTHR2RUtRbG9m@146.19.233.101:29682#👉🆔 @v2ray_configs_pool🛜🇩🇪Germany
-vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.218:443?security=tls&sni=xf.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.218:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=tls&sni=xf.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v26.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://acabbac-baac-baac-cbad-cbabcabbacac@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool🛜🤷‍♀️🤷‍♂️
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@198.62.62.144:443?security=tls&sni=vf.ylkszy.eu.org&type=ws&path=%2F%3Fed#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v23.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.116:443?security=tls&sni=xf.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.218:443?security=tls&sni=xf.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.0.54.33:443?security=tls&sni=xf.ylks.xyz&type=ws&path=%2F%3Fproxyip#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.145:443?security=tls&sni=xf.ylks.xyz&type=ws&path=%2F%3Fproxyip#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.0.54.33:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=tls&sni=xf.ylks.xyz&type=ws&path=%2F%3Fproxyip#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.116:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=tls&sni=xf.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
