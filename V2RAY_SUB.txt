@@ -1,10 +1,10 @@
-hy2://309938d8-1127-45ef-8930-5b60488e130c@cucc.xn--jbyq16e.xyz:41154?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
-hy2://309938d8-1127-45ef-8930-5b60488e130c@cucc.xn--jbyq16e.xyz:41153?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
-hy2://309938d8-1127-45ef-8930-5b60488e130c@cucc.xn--jbyq16e.xyz:41154?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
-hy2://d4af3078-381b-4e33-b767-b9ebe4104779@cucc.xn--jbyq16e.xyz:41153?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
-hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@cucc.xn--jbyq16e.xyz:41153?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
-vless://2bf9e9f4-f8ef-4e46-8bfc-f5ef648817f7@172.67.66.177:443?path=%2F7D8L6oV0pjufcpvH%2FNDMuMTMxLjQ5LjI1MA%3D%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=gOogLe-9HA.pageS.dEV&fp=randomized&type=ws&sni=pAGeS.deV#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
-hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@cucc.xn--jbyq16e.xyz:41138?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
-hy2://d4af3078-381b-4e33-b767-b9ebe4104779@cucc.xn--jbyq16e.xyz:41154?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
-hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@cucc.xn--jbyq16e.xyz:41154?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
-hy2://309938d8-1127-45ef-8930-5b60488e130c@cucc.xn--jbyq16e.xyz:41153?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
+hy2://2d74af94-4fff-4d5e-8d16-bad431f9fc92@cucc.xn--jbyq16e.xyz:41138?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+hy2://d4af3078-381b-4e33-b767-b9ebe4104779@cucc.xn--jbyq16e.xyz:41153?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+hy2://d4af3078-381b-4e33-b767-b9ebe4104779@cucc.xn--jbyq16e.xyz:41138?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+hy2://d4af3078-381b-4e33-b767-b9ebe4104779@cucc.xn--jbyq16e.xyz:41154?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
+hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@cucc.xn--jbyq16e.xyz:41138?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
+hy2://309938d8-1127-45ef-8930-5b60488e130c@cucc.xn--jbyq16e.xyz:41138?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
+hy2://d4af3078-381b-4e33-b767-b9ebe4104779@cucc.xn--jbyq16e.xyz:41138?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+hy2://d4af3078-381b-4e33-b767-b9ebe4104779@ctcc.xn--jbyq16e.xyz:41156?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmVXpuajNubGhaMVJKMzJCb0JGelFk@165.22.238.239:44386/?outline=1#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+hy2://d4af3078-381b-4e33-b767-b9ebe4104779@ctcc.xn--jbyq16e.xyz:41156?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
