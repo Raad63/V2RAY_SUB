@@ -1,10 +1,10 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=967a6F20.hoSSeinPool.PAGEs.Dev&fp=randomized&type=ws&sni=967A6f20.HosSeINpOOl.pagEs.deV#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
-vless://BLUEV2RAYNG--cahnnel@104.16.16.16:8880?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&type=httpupgrade&path=%2Ftelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%2Ctelegram-BLUEVtowRAYNG%3Fed%3D8880&host=SHOMboLtaLa.shopSHiRvAn.IR.&security=none#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
-vless://9150c79f-db78-44f5-bdf0-cb82d194cf62@151.101.2.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS%3Fed%3D2048&security=tls&encryption=none&host=barkat5.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool🛜🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool🛜🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool🛜🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.123.147:443#👉🆔 @v2ray_configs_pool🛜🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.14.158:443#👉🆔 @v2ray_configs_pool🛜🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.215:8080#👉🆔 @v2ray_configs_pool🛜🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoSTlGbTNQWlphd1NGSDB2anhLeGwx@62.133.61.120:35187#👉🆔 @v2ray_configs_pool🛜🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#👉🆔 @v2ray_configs_pool🛜🇵🇱Poland
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5498#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:8888#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTksxYW9RdUVaYUM5UVRpdzk0Z1Z6TlhyQWRkNm04UVhIM0RSTlhZdkhDNXB2a0V1VmJyR2M1UURhNkZXb1lremQ1Unhlc0h0c2lGZHF3VVVEWVVyQkQ2YTd2cGk1TVM=@107.182.129.101:52249#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.85.74:6697#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
