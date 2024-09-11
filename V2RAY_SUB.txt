@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@16.170.104.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden
-trojan://telegram-id-directvpn@15.237.47.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇫🇷France
-trojan://telegram-id-directvpn@35.180.105.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇫🇷France
-trojan://telegram-id-directvpn@16.170.104.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden
-trojan://telegram-id-directvpn@51.21.122.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden
-trojan://telegram-id-directvpn@15.237.47.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇫🇷France
-trojan://telegram-id-directvpn@35.180.105.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇫🇷France
+trojan://telegram-id-directvpn@15.157.95.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+trojan://telegram-id-directvpn@15.222.75.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+trojan://telegram-id-directvpn@3.138.43.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+trojan://telegram-id-directvpn@3.143.140.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+trojan://telegram-id-directvpn@98.82.61.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+trojan://telegram-id-directvpn@13.53.81.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden
+trojan://telegram-id-directvpn@16.16.133.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden
 trojan://telegram-id-directvpn@13.43.78.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
 trojan://telegram-id-directvpn@18.171.81.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
-trojan://telegram-id-directvpn@54.217.172.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇮🇪Ireland
+trojan://telegram-id-directvpn@54.228.11.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇮🇪Ireland
