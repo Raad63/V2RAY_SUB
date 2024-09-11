@@ -1,10 +1,10 @@
-hy2://d4af3078-381b-4e33-b767-b9ebe4104779@cucc.xn--jbyq16e.xyz:41158?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
-vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.130.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=roocket.ir.&fp=randomized&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@cucc.xn--jbyq16e.xyz:41155?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
-hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@ctcc.xn--jbyq16e.xyz:41102?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@cucc.xn--jbyq16e.xyz:41139?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
-vless://TELEGRAM-NUFiLTER@Speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Baazamkebidaram207.net&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-hy2://925e14d8-fdab-4b3a-b9c9-5567b92ed4bc@cucc.xn--jbyq16e.xyz:41156?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
-hy2://4a556a88-11ac-4f61-85fd-0c14975ef8c5@ctcc.xn--jbyq16e.xyz:41158?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-hy2://4a556a88-11ac-4f61-85fd-0c14975ef8c5@ctcc.xn--jbyq16e.xyz:41102?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
-hy2://d4af3078-381b-4e33-b767-b9ebe4104779@cucc.xn--jbyq16e.xyz:41109?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+vmess://eyJhZGQiOiAic3BlZWR0ZXN0Lm5ldCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImZpcmVmb3giLCAiaG9zdCI6ICJEYmRqaGl3NzJlYnN1MjcyaHM1MTlqLmNvbSIsICJpZCI6ICI0ZDZlZWQ0My01ZmJhLTRkZmItYWQ2Zi0xMzBkNDM2NzQwM2MiLCAibmV0IjogIndzIiwgInBhdGgiOiAid3MvP2VkPTIwNDgiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogInNwZWVkdGVzdC5uZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlZGNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
+hy2://309938d8-1127-45ef-8930-5b60488e130c@cucc.xn--jbyq16e.xyz:41101?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
+vless://--V2RAXX--@104.17.148.22:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FV2raxx%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--79qr8bwg980ayroj80c.website.&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://TELEGRAM-NUFiLTER@151.101.2.219:80?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Baazamkebidaram207.net&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+hy2://116c6c3f-5db6-46f5-88c0-9de0d56d90cc@cmcc.xn--jbyq16e.xyz:41138?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇭🇰Hong Kong
+hy2://4a556a88-11ac-4f61-85fd-0c14975ef8c5@cmcc.xn--jbyq16e.xyz:41113?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
+hy2://2d74af94-4fff-4d5e-8d16-bad431f9fc92@cucc.xn--jbyq16e.xyz:41108?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇮🇳India
+hy2://309938d8-1127-45ef-8930-5b60488e130c@cucc.xn--jbyq16e.xyz:41108?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇯🇵Japan
+vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Baazamkebidaram65.net&fp=chrome&type=ws&sni=Speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+hy2://313cd44f-0748-4630-95e9-4ec937e92f23@ctcc.xn--jbyq16e.xyz:41113?insecure=1&sni=apple.com#👉🆔 @v2ray_configs_pool🛜🇰🇷South Korea
