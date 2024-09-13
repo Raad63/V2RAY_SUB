@@ -1,10 +1,10 @@
-vmess://eyJhZGQiOiAid3d3LnZpc2EuY29tLnNnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImpwY2YxLnB1dGFvNjY2LnRvcCIsICJpZCI6ICIwN2M5YjY2NC0yYjM3LTRlNGYtYjllOC1kYjg4NGM5OGFlMTAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjg4ODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
-hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@us11.putao666.top:40001/?insecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@us11.putao666.top:40002/?insecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@us22.putao666.top:40003/?insecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@us22.putao666.top:40004/?insecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@sg11.putao666.top:40001/?insecure=1#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@sg11.putao666.top:40002/?insecure=1#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@sg22.putao666.top:40003/?insecure=1#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@sg22.putao666.top:40004/?insecure=1#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@sg33.putao666.top:40005/?insecure=1#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@jp11.putao666.top:40001/?insecure=1#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://07c9b664-2b37-4e4f-b9e8-db884c98ae10@jp11.putao666.top:40002/?insecure=1#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://8d06ea66-2372-48cd-848f-c48af4814690@104.18.61.189:2052?type=ws&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiMTA5LjE2Ni4zOS45NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjUwMzg5YjMtYjNmYS00M2Y2LTgwM2EtYzA0ZTQ1YjFkNTY1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0MDA0NiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY3XHVkODNjXHVkZGY0Um9tYW5pYSJ9
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Parsashonam-52@speedtest.net:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b6bf7c77-6948-4c43-a409-5b24af8bc20c@95.38.250.93:35492?security=none&type=tcp&host=ubisoft.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://b1a441f5-ee43-4903-ab2e-a80c0d1a71eb@188.245.125.135:8443?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&pbk=f9yPFWY54wzWAvcPgsg8KqW1wvKhWbHHiP9pQzpD5mM&sid=9d152a93#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@34.194.177.180:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b6bf7c77-6948-4c43-a409-5b24af8bc20c@95.38.250.93:35492?security=none&type=tcp&host=ubisoft.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
