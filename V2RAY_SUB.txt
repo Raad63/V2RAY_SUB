@@ -1,10 +1,10 @@
-vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@nodl1.plas-nim.org:6012?type=tcp&headerType=http&host=speedtest.net&path=/&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@44.231.59.69:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@52.32.132.172:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.70.55.120:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.70.55.120:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://aaddb646-1658-42a3-9b02-29524376c0d5@3.223.204.176:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://aaddb646-1658-42a3-9b02-29524376c0d5@3.223.204.176:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@51.20.224.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@52.29.10.187:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://b02c0d8b-63e2-4a16-a6b8-6dcb5dd14aa7@13.39.205.177:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@52.29.10.187:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://b5149096-0c64-46cd-b7d3-6cef8762b7a9@44.231.59.69:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@52.32.132.172:8880?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=joinmahdiseRver-Az7.pAgES.dev&fp=randomized&type=ws&sni=jOInmAHDiSERVer-AZ7.paGes.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@51.20.224.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.61.194:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
