@@ -1,10 +1,10 @@
-vless://c122cb69-9913-4c5e-a422-cdacb6fb8ad7@client.area.zarmovies.com:33225?type=tcp&security=none&headerType=http&path=/&host=Fast.com#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-hy2://f206702e@82.152.142.65:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-hy2://f206702e@82.152.142.66:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-hy2://f206702e@82.152.142.67:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-hy2://f206702e@82.152.142.68:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-hy2://f206702e@82.152.142.69:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-hy2://4e9ee29b39a28277@66.135.11.68:443/?insecure=1&obfs=salamander&obfs-password=13f7ba5f#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://18240b2dfdd76484@70.34.207.153:443/?insecure=1&obfs=salamander&obfs-password=d2648ec2#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+hy2://e88d427e-39e9-4bef-8f82-ec957baf5ae3@down.with.israel.azarakhsh.monster:59948/?sni=down.with.israel.azarakhsh.monster&obfs=salamander&obfs-password=T4FIsbEVq0oh37YMkj3qcvUY#👉🆔 @v2ray_configs_pool📡🇫🇷France
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@141.148.182.2:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@144.22.197.28:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@140.245.27.220:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇮🇳India
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@168.75.68.172:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@129.159.97.206:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://3887a15a-18f4-4078-834b-cf7786c3b3a1@192.9.179.140:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+vless://7053a948-73c2-4c9e-907c-53cb2c81a0af@79.175.129.65:27703?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://612f4024-b6e5-49c2-bff1-aad708dcefe9@www.speedtest.net:80?path=%2Fhormozv.hormozv.hormozv.hormozv%3Fed%3D2048&security=none&encryption=none&host=hormoz.Paradisewarfare.ir.losehismind.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
