@@ -1,10 +1,10 @@
-vless://62ea6690-0f36-4713-8ce9-052aec9e2ef8@104.21.56.202:8880?encryption=none&security=none&type=ws&host=w5f3wjvjs4tszdntnp.wo-a7yj9n9h5jbfd9m3-01.shop&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://62ea6690-0f36-4713-8ce9-052aec9e2ef8@104.21.56.202:8880?encryption=none&security=none&type=ws&host=w5f3wjvjs4tszdntnp.wo-a7yj9n9h5jbfd9m3-01.shop&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://tg-dns68@162.159.153.5:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@13.36.110.97:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-trojan://tg-dns68@162.159.153.75:443/?type=ws&host=vip.putata.eu.org&path=%2F&security=tls&sni=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://754a7027-4bd3-5177-81a6-728ac05148b8@172.64.155.209:2096/?type=ws&host=www.uploadbots.WoRkerS.Dev&path=trojan-ws%2F%3Fed%3D2048&security=tls&sni=www.uploadbots.WoRkerS.Dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.18.12.229:2053/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443/?type=ws&host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@172.67.175.9:80?encryption=none&security=none&type=ws&host=private-codmhttp.teqqlzdw.workers.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://0fdc0235-0055-4203-a66f-f29e7e663d10@sky.rethinkdns.com:2096?encryption=none&security=tls&sni=tnetplus3.pages.dev&fp=randomized&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@172.67.175.9:80?encryption=none&security=none&type=ws&host=private-codmhttp.teqqlzdw.workers.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.18.192.65:8880?encryption=none&security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?encryption=none&security=tls&sni=4ef0b961.aru0006.pages.dev&fp=randomized&type=ws&host=4ef0b961.aru0006.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.18.192.65:8880?encryption=none&security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?encryption=none&security=tls&sni=4ef0b961.aru0006.pages.dev&fp=randomized&type=ws&host=4ef0b961.aru0006.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@node.vauth.workers.dev:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@node.vauth.workers.dev:2087?encryption=none&security=tls&sni=node.vauth.workers.dev&fp=random&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
