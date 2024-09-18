@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6aGdMQ2dmTFJnQjZk@205.134.180.145:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtcG9seTEzMDU6aGdMQ2dmTFJnQjZk@205.134.180.145:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:2086?encryption=none&security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:2086?encryption=none&security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ebbeeb9f-0842-5048-89b9-64643d3424e6@172.67.218.206:80?encryption=none&security=none&type=ws&host=sany.babaksalehi58.woRkeRs.dEv&path=%2Fvless-ws%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ebbeeb9f-0842-5048-89b9-64643d3424e6@172.67.218.206:80?encryption=none&security=none&type=ws&host=sany.babaksalehi58.woRkeRs.dEv&path=%2Fvless-ws%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@172.67.133.177:8880?encryption=none&security=none&type=ws&host=bia-zod-falcunargo.545c437f13.workers.Dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@172.67.133.177:8880?encryption=none&security=none&type=ws&host=bia-zod-falcunargo.545c437f13.workers.Dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://6034088f-b713-40dd-93be-eaea802eafe1@172.67.157.34:80?encryption=none&security=none&type=ws&host=5435.nhopzuei.workers.Dev&path=%2FTelegram%2Bchannel%2B%3A%2B@pandavpntc#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://6034088f-b713-40dd-93be-eaea802eafe1@172.67.157.34:80?encryption=none&security=none&type=ws&host=5435.nhopzuei.workers.Dev&path=%2FTelegram%2Bchannel%2B%3A%2B@pandavpntc#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.2.35:8880?encryption=none&security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.18.8.215:8080?encryption=none&security=none&type=ws&host=shuige3.cbj2bxt6.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.18.8.215:8080?encryption=none&security=none&type=ws&host=shuige3.cbj2bxt6.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d94a5437-c4a6-469f-8d8f-af25a717f1a8@172.67.176.195:80?encryption=none&security=none&type=ws&host=v2.raycv05.workers.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@www.speedtest.net:443?encryption=none&security=tls&sni=bypass-filter.jnqauel.workers.dev&type=ws&host=bypass-filter.jnqauel.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://SVNTEAM9@speedtest.net:443?path=%2FSVNTEAM%2CPROVIP%2CSVNTEAM%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://SVNTEAM9@speedtest.net:443?path=%2FSVNTEAM%2CPROVIP%2CSVNTEAM%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=Speed.Site&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Parsashonam-47@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://Parsashonam-47@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://TeLeGram-SVNTEAM2@speedtest.net:443?path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&security=tls&encryption=none&alpn=h2,http/1.1&host=http.www.speedtest.net.fast.com.life.ir.&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
