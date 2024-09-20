@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.152.16:8091#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.225:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.222:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.79:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=en.mfa.gov.ir&fp=randomized&type=ws&sni=en.mfa.gov.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMGtTRGZ5Uk5lM1h5VkZBcWU1QW50@13.212.250.185:18098#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.29:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=en.mfa.gov.ir&fp=randomized&type=ws&sni=en.mfa.gov.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.85:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://%50a%72sa%73%68%6fna%6d-65@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://deee77a8-6a00-47d1-a971-926df089645b@speedtest.net:443?path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm-telegram-%40proxy_mtm-proxy_mtm%3Fed%3D2056&security=tls&encryption=none&host=barkat1.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://abe96ae6-23f9-4442-9add-b6248264fbda@speedtest.net:443?path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm-telegram-%40proxy_mtm-proxy_mtm%3Fed%3D2056&security=tls&encryption=none&host=barkat1.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://e045bda4-e9b1-4806-a28c-15b21bd44479@speedtest.net:443?path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm-telegram-%40proxy_mtm-proxy_mtm%3Fed%3D2056&security=tls&encryption=none&host=barkat1.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://fec08370-87f7-4411-b6e9-162eeef9c70d@speedtest.net:443?path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm-telegram-%40proxy_mtm-proxy_mtm%3Fed%3D2056&security=tls&encryption=none&host=barkat1.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://deee77a8-6a00-47d1-a971-926df089645b@speedtest.net:443?path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm-telegram-%40proxy_mtm-proxy_mtm%3Fed%3D2056&security=tls&encryption=none&host=barkat1.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://abe96ae6-23f9-4442-9add-b6248264fbda@speedtest.net:443?path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm-telegram-%40proxy_mtm-proxy_mtm%3Fed%3D2056&security=tls&encryption=none&host=barkat1.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?path=%2F5MYfsbXPTJZd737O%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoInmaHDiseRveR-Az7.paGES.dEv&fp=randomized&type=ws&sni=JOInMahdIServER-Az7.PaGeS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e045bda4-e9b1-4806-a28c-15b21bd44479@speedtest.net:443?path=%2Ftelegram-%40proxy_mtm-telegram-%40proxy_mtm-telegram-%40proxy_mtm-proxy_mtm%3Fed%3D2056&security=tls&encryption=none&host=barkat1.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
