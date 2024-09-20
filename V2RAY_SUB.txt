@@ -1,10 +1,10 @@
-vmess://eyJhZGQiOiAiMTA0LjIxLjE1LjIxMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#👉🆔 @v2ray_configs_pool📡🇲🇰North Macedonia
-vmess://eyJhZGQiOiAiODAuODUuMTUyLjE3OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIyMi5sd2RoLnVzIiwgImlkIjogIjgyNTljYjFjLWRkNmMtNDczOS05Yzg4LWFmNTUwZDk3NzUyNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTI5MTAiLCAic2N5IjogImF1dG8iLCAic25pIjogIjIyLmx3ZGgudXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==
-ss://Y2hhY2hhMjAtaWV0ZjpZQ3hXVnpKNTI5MWM@154.205.139.44:6259#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989#👉🆔 @v2ray_configs_pool📡🇵🇪Peru
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@80.92.204.106:9097#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#👉🆔 @v2ray_configs_pool📡🇻🇳Vietnam
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@aksnmaioas.pages.dev:443?path=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&fp=randomized&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb2JTd1pBOTZFNWtiSnZNU0dlYnN4@vienna.telegavpn.com:61992#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZDZIVm5JeExFdTVqeGltdTZiVTRG@138.68.182.23:2248/?outline=1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://386bced7-2327-42f2-af2e-52f0a57f0728@api.speedtest.net:443?path=%2F%3Fed%3D443&security=tls&encryption=none&alpn=http/1.1&host=coredidgerov.com&fp=firefox&type=ws&sni=api.speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://386bced7-2327-42f2-af2e-52f0a57f0728@api.speedtest.net:443?path=%2F%3Fed%3D443&security=tls&encryption=none&alpn=http/1.1&host=vipstatususafd.com&fp=firefox&type=ws&sni=api.speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://386bced7-2327-42f2-af2e-52f0a57f0728@WwW.sPeEdTeSt.NeT:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=viptcpondertocdn.holABPQL.IR.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://386bced7-2327-42f2-af2e-52f0a57f0728@WwW.sPeEdTeSt.NeT:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=viptcpondertocds.holABPQL.IR.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
