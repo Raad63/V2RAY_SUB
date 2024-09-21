@@ -1,5 +1,3 @@
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.61.8:2052?security=none&type=ws&sni=vless-sub.n7p8ri7j.workers.dev&path=/ahmedquran19.xyz/current_time&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.46:80?security=none&type=ws&sni=Fi2.vless.site.&path=/vless&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@104.16.61.8:80?security=none&type=ws&sni=admin2.pythonic-ai.com&path=/vYoLL0j3yXajA2rNVYyVkeSUkkM&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://62ae1cc9-5940-4f21-a0ed-1c13b32b5908@172.64.35.129:80?security=none&type=ws&sni=de.ailicf.us.kg&path=/safaf&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.194.81:80?security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
@@ -8,3 +6,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.101.83:80?security=none&type
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:8080?security=none&type=ws&sni=vless-sub.n7p8ri7j.workers.dev&path=/ahmedquran19.xyz/current_time&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.61.8:2052?security=none&type=ws&sni=vless-sub.n7p8ri7j.workers.dev&path=/ahmedquran19.xyz/current_time&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.46:80?security=none&type=ws&sni=Fi2.vless.site.&path=/vless&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@104.16.61.8:80?security=none&type=ws&sni=admin2.pythonic-ai.com&path=/vYoLL0j3yXajA2rNVYyVkeSUkkM&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
