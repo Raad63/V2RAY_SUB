@@ -1,10 +1,10 @@
-vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.211:2082/?type=ws&encryption=none&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAy@www.speedtest.net:2095/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@speedtest.net:443/?type=ws&encryption=none&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=tls&sni=speedtest.net&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@iranserver.com:80/?type=ws&encryption=none&host=join-to.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFd0NPSFB3SzVxVlBJWk85bUlPMUhn@167.99.216.236:50250/?outline=1#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@2sgmax02.156786.xyz:829/?type=tcp&security=tls&sni=2sgmax02.156786.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@4sgmax02.156786.xyz:718/?type=tcp&security=tls&sni=4sgmax02.156786.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:35602/?type=tcp&security=tls&sni=2usmax01.170203.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:20263/?type=tcp&security=tls&sni=usmax03.170203.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw3.233235.xyz:11125/?type=tcp&security=tls&sni=tw3.233235.xyz#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
 trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:37107/?type=tcp&security=tls&sni=2jp04162531be-29a9-2764-8627-51a5f4436fbd.233235.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
 trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:55428/?type=tcp&security=tls&sni=hkmax04.170203.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw3.233235.xyz:11125/?type=tcp&security=tls&sni=tw3.233235.xyz#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw1.170203.xyz:6678/?type=tcp&security=tls&sni=tw1.170203.xyz#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw60.233235.xyz:703/?type=tcp&security=tls&sni=tw60.233235.xyz#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw1.170203.xyz:6678/?type=tcp&security=tls&sni=tw1.170203.xyz#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
