@@ -1,10 +1,10 @@
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@60.249.28.138:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@61.216.165.29:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@61.216.165.30:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@61.216.165.232:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@61.216.165.233:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@61.216.165.234:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@194.104.146.113:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@45.11.104.44:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@18.179.58.237:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=tnetplus-1wc.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://151d73c4-1ea0-4092-a4c7-b02570972691@speedtest.net:80?path=%2Fadmin&security=none&encryption=none&host=Gn85.io&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://410153ea-aecd-468e-912c-e0145831b2ee@199.232.57.57:80?path=%2Fadmin&security=none&encryption=none&host=Gn86.io&type=ws#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@35.72.184.29:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@54.249.79.143:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@57.180.35.76:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@18.183.245.244:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@43.207.142.72:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
