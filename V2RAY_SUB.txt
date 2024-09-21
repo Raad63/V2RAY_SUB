@@ -1,10 +1,10 @@
-vless://3f2a8ac5-f359-4333-865a-7064e31c2537@104.26.15.85:443/?type=ws&encryption=none&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=nufilter.pages.dev&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://68c31a7c-49df-456f-8df5-ac8d651b60b6@104.21.24.72:443/?type=ws&encryption=none&host=telegram-falcunargo.c54a5410b0.workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=telegram-falcunargo.c54a5410b0.workers.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.211:2082/?type=ws&encryption=none&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAy@www.speedtest.net:2095/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@speedtest.net:443/?type=ws&encryption=none&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=tls&sni=speedtest.net&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@iranserver.com:80/?type=ws&encryption=none&host=join-to.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80/?type=ws&encryption=none&host=zaq11000d.b835a8094d.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://0d762409-3dcc-40da-a2af-935f5afea1ff@185.126.11.253:22221/?encryption=none&host=81429612.divarcdn.com%2C%2081429612.snappfood.ir%2C%2081429612.yjc.ir%2C%2081429612.digikala.com%2C%2081429612.tic.ir&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.126.175:2083/?type=ws&encryption=none&host=id-falcunargo.sociy12386.workers.dev&path=%2FTelegram%40SinaBigo%40SINABIGO%2F%3Fed%3D2048&security=tls&sni=id-falcunargo.sociy12386.workers.dev&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3f2a8ac5-f359-4333-865a-7064e31c2537@104.26.15.85:443/?type=ws&encryption=none&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=nufilter.pages.dev&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFd0NPSFB3SzVxVlBJWk85bUlPMUhn@167.99.216.236:50250/?outline=1#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:37107/?type=tcp&security=tls&sni=2jp04162531be-29a9-2764-8627-51a5f4436fbd.233235.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:55428/?type=tcp&security=tls&sni=hkmax04.170203.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw3.233235.xyz:11125/?type=tcp&security=tls&sni=tw3.233235.xyz#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw1.170203.xyz:6678/?type=tcp&security=tls&sni=tw1.170203.xyz#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw60.233235.xyz:703/?type=tcp&security=tls&sni=tw60.233235.xyz#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
