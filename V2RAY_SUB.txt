@@ -1,10 +1,10 @@
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@18.183.184.241:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q%3DTG%20WangCai2@23.247.137.67:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnjp01.156786.xyz:8081/?sni=hyfnjp01.156786.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnjp03.156786.xyz:8080/?sni=hyfnjp03.156786.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnjp04.156786.xyz:8080/?sni=hyfnjp04.156786.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnjp06.156786.xyz:8080/?sni=hyfnjp06.156786.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@1sg002.156786.xyz:8080/?sni=1sg002.156786.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnsg01.156786.xyz:8080/?sni=hyfnsg01.156786.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnus01.156786.xyz:8080/?sni=hyfnus01.156786.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://ComYEI7fQv@51.68.215.55:443?path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=uk-04.allhubb.info#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@51.20.147.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-directvpn@51.20.147.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@16.16.23.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@speedtest.net:443/?type=ws&encryption=none&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=tls&sni=speedtest.net&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.230.146:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@speedtest.net:443/?type=ws&encryption=none&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=tls&sni=speedtest.net&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@16.16.23.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-directvpn@51.20.147.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
