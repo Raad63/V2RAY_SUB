@@ -1,10 +1,10 @@
-vless://177dfbdf-8337-40ea-8791-906924b9fb2f@212.86.114.50:12345?path=%2F&security=reality&encryption=none&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&fp=chrome&type=http&sni=telewebion.com&sid=c57d2373#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://177dfbdf-8337-40ea-8791-906924b9fb2f@185.203.241.117:12345?path=%2F&security=reality&encryption=none&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&fp=chrome&type=http&sni=telewebion.com&sid=c57d2373#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://177dfbdf-8337-40ea-8791-906924b9fb2f@45.132.107.196:12345?path=%2F&security=reality&encryption=none&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&fp=chrome&type=http&sni=telewebion.com&sid=c57d2373#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://50b677ae-980e-4d6f-bc33-6080dc887a38@87.107.164.234:53692?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K3FBKzkrZWVvSXJqRXA2KzBOUmJoVHlJU3ppWk0ybUQ4SlluVzRBK0pWbz0=@109.204.233.40:56365#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+ss://YWVzLTI1Ni1nY206Mk1WVFFtMlFkSWVYNEZ4UDZjd1U1Zg==@146.19.170.82:47777#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://410153ea-aecd-468e-912c-e0145831b2ee@199.232.57.57:80?path=%2Fadmin&security=none&encryption=none&host=Gn86.io&type=ws#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206Mk1WVFFtMlFkSWVYNEZ4UDZjd1U1Zg==@146.19.170.82:47777#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://94b50dec-4505-45f3-b1e1-2945d252fec9@iranserver.com:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=none&encryption=none&host=join-to.unlimiteddev.Community.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://112cf69f-be37-4188-a677-631d627c5e5b@212.80.18.169:5880?path=%2Fyourpath&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://4bfed29f-bd0b-4e5c-8724-189ca9284c16@95.164.68.37:8443?mode=gun&security=reality&encryption=none&authority=&pbk=cuDCgrTnGQZJ07hEuNqq10lp_XnAb-NYiBGvv_DOHzw&fp=chrome&type=grpc&serviceName=grpc&sni=104.16.220.229&sid=0b3d7e6a1ce3cee3#👉🆔 @v2ray_configs_pool📡🇬🇮Gibraltar
-vless://2ff61922-c798-410b-9417-6cb688355e3e@45.140.167.94:8443?mode=gun&security=reality&encryption=none&authority=&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&fp=chrome&type=grpc&serviceName=grpc&sni=185.162.228.98&sid=2880ee24bb417d46#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://8e1c348a-de32-41a8-8cbe-1c67593ffa34@79.127.70.118:2053?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@52.58.28.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
