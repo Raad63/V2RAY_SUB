@@ -1,10 +1,10 @@
-vless://3f22fdb9-ce34-4522-cf14-18eed393164d@speedtest.net:443?allowInsecure=false&alpn=h2%2Chttp%2F1.1&fp=firefox&host=i-am-melo.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&sni=speedtest.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://f206702e@82.152.142.65:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://4e011de8-93a2-4e2e-b89a-3a6cf2d3e04f@speedtest.net:443?allowInsecure=false&alpn=h2%2Chttp%2F1.1&fp=firefox&host=melofin.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&sni=speedtest.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://f206702e@82.152.142.66:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+hy2://4e9ee29b39a28277@[2001:19f0:1000:20d0:5400:5ff:fe19:3ba9]:443/?insecure=1&obfs=salamander&obfs-password=13f7ba5f#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+hy2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443/?insecure=1&obfs=salamander&obfs-password=4b817757#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+hy2://9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+hy2://f1f64dae6da66df5@178.128.113.131:30002/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://4e9ee29b39a28277@66.135.11.68:443/?insecure=1&obfs=salamander&obfs-password=13f7ba5f#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnjp01.156786.xyz:8081/?sni=hyfnjp01.156786.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnjp04.156786.xyz:8080/?sni=hyfnjp04.156786.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
 vless://c2eca939-f309-4518-96f7-0e9893d22b9b@185.146.173.52:8880?type=httpupgrade&security=none&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-hy2://f206702e@82.152.142.67:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://47a78eb2-f224-4d99-be8b-d659d82fbf0c@www.speedtest.net:8880?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F&security=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://f206702e@82.152.142.68:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-hy2://f206702e@82.152.142.69:3341/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-hy2://9bb452b106ffc217@207.148.22.93:443/?insecure=1&obfs=salamander&obfs-password=cd29099d#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnjp06.156786.xyz:8080/?sni=hyfnjp06.156786.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@hyfnsg01.156786.xyz:8080/?sni=hyfnsg01.156786.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
