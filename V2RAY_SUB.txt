@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K3FBKzkrZWVvSXJqRXA2KzBOUmJoVHlJU3ppWk0ybUQ4SlluVzRBK0pWbz0=@109.204.233.40:56365#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-ss://YWVzLTI1Ni1nY206Mk1WVFFtMlFkSWVYNEZ4UDZjd1U1Zg==@146.19.170.82:47777#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-vless://410153ea-aecd-468e-912c-e0145831b2ee@199.232.57.57:80?path=%2Fadmin&security=none&encryption=none&host=Gn86.io&type=ws#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206Mk1WVFFtMlFkSWVYNEZ4UDZjd1U1Zg==@146.19.170.82:47777#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-vless://94b50dec-4505-45f3-b1e1-2945d252fec9@iranserver.com:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=none&encryption=none&host=join-to.unlimiteddev.Community.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://112cf69f-be37-4188-a677-631d627c5e5b@212.80.18.169:5880?path=%2Fyourpath&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4bfed29f-bd0b-4e5c-8724-189ca9284c16@95.164.68.37:8443?mode=gun&security=reality&encryption=none&authority=&pbk=cuDCgrTnGQZJ07hEuNqq10lp_XnAb-NYiBGvv_DOHzw&fp=chrome&type=grpc&serviceName=grpc&sni=104.16.220.229&sid=0b3d7e6a1ce3cee3#👉🆔 @v2ray_configs_pool📡🇬🇮Gibraltar
 trojan://telegram-id-directvpn@52.58.28.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=joinmahdiseRver-Az7.pAgES.dev&fp=randomized&type=ws&sni=jOInmAHDiSERVer-AZ7.paGes.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://acc8a54f-f0e6-4355-8a26-22d2a99225f5@www.speedtest.net:8443?path=%2FdfTJbKUIdwe8TWXT%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNterNEt4eVerIEOnE7.Pages.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.64.223:443?path=%2FTelegram-Xv2ry2%3Fed%3D1080&security=tls&encryption=none&host=2v.com&type=ws&sni=python.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8957ca61-0922-48fd-949f-e96c170eeb1d@lc47.lebasnoo.ir:8080?path=%2Fservernett&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0c63fa2e-1140-4dd9-ad47-2edb18b7b96e@lc55.lebasnoo.ir:8080?path=%2Fservernett&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4bfed29f-bd0b-4e5c-8724-189ca9284c16@95.164.68.37:8443?mode=gun&security=reality&encryption=none&authority=&pbk=cuDCgrTnGQZJ07hEuNqq10lp_XnAb-NYiBGvv_DOHzw&fp=chrome&type=grpc&serviceName=grpc&sni=104.16.220.229&sid=0b3d7e6a1ce3cee3#👉🆔 @v2ray_configs_pool📡🇬🇮Gibraltar
