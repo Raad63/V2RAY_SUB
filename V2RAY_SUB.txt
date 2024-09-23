@@ -1,10 +1,10 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2095?encryption=none&security=none&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAy@www.speedtest.net:2095?encryption=none&security=none&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?encryption=none&security=tls&sni=iSaa1.PAGeS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=iSAA1.paGEs.DEV&path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?encryption=none&security=tls&sni=iSaa1.PAGeS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=iSAA1.paGEs.DEV&path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206cEJtaG1xU3JkYng4dHdLcHYxM0dFQQ==@147.45.75.246:36619#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://YWVzLTI1Ni1nY206cEJtaG1xU3JkYng4dHdLcHYxM0dFQQ==@147.45.75.246:36619#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?encryption=none&security=tls&sni=JOInMahdIServER-Az7.PaGeS.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=JoInmaHDiseRveR-Az7.paGES.dEv&path=%2F5MYfsbXPTJZd737O%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206cEJtaG1xU3JkYng4dHdLcHYxM0dFQQ==@147.45.75.246:36619#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQjdTa0JCcGhST2c4bjlPeXRoNXRN@134.122.40.160:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ1LjE1OS41MC4yMTkiLCAicG9ydCI6ICIyODg2NCIsICJpZCI6ICI3ODBkZTNmMy01Mjk5LTRlZGMtOGJhNy0zMzA1ZDM3MDA5MGYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFHZXJtYW55In0=
