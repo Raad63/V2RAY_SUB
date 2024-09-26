@@ -1,10 +1,10 @@
-vless://V2RAXX@www.speedtest.net:8080?path=%2FV2raxx%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn79qr8bwg980ayroj80c.website.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://SVNTEAM-TeLeGram-CDN14@www.speedtest.net:8880?path=%2F%40SvnTeam%40SvnTeam%40SvnTeam%40SvnTeam%40SvnTeam%40SvnTeam%40SvnTeam%40SvnTeam%40SvnTeam%40SvnTeam%40SvnTeam%40SvnTeam%3Fed%3D2560&security=none&encryption=none&host=svnteam-free1.com.www.speedtest.net.www.zula.ir.cloudflare.com.misvn.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://Parsashonam-67@speedtest.net:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://TELEGRAM-MainV2ray@www.speedtest.net:80?path=%2FTELEGRAM-%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%2C%40MainV2-ray%3Fed%3D2048&security=none&encryption=none&host=vipmain.ahang-alpha.IR&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://46f114e8-37cd-4e8f-d84c-4bc98dae2eb2@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.64.223:443?path=%2FTelegram-Xv2ry2-q1%3Fed%3D1080&security=tls&encryption=none&host=2v.com&type=ws&sni=python.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@www.speedtest.net:80?path=%2FTelegram-Xv2ry2-q1%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.25.15.432.20.20.20.20.ir.xng28h.dns-dynamic.net.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVTl2M3A1b096N2kzVVIxNzFXNDRT@174.138.17.254:52252#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFaXZvQWF0bGh5bDBwZEI4cFh2TndV@212.18.104.228:17889#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZDI5ZDdhZC01ZmRhLTRmNjQtYTU3ZS03MTZjYTYwMTBlNjU=@122.195.189.15:10706#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQN0xrSjlGZ0Q0c1c=@46.30.188.174:4923#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QVUxUlRqV0podTdnZlp2STk4dWxa@52.169.109.35:59208#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.157.154:990#👉🆔 @v2ray_configs_pool📡🇲🇦Morocco
+vless://telegram-id-ArV2ray@speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=alf13.ir&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#👉🆔 @v2ray_configs_pool📡🇮🇩Indonesia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@77.247.108.24:990#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#👉🆔 @v2ray_configs_pool📡🇧🇴Bolivia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
