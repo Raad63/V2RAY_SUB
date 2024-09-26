@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.96.203:990#👉🆔 @v2ray_configs_pool📡🇲🇾Malaysia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#👉🆔 @v2ray_configs_pool📡🇺🇦Ukraine
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.80.209.129:990#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.59.45:990#👉🆔 @v2ray_configs_pool📡🇪🇬Egypt
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#👉🆔 @v2ray_configs_pool📡🇹🇭Thailand
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+trojan://telegram-id-privatevpns@3.120.143.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.113.73:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@13.38.178.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-directvpn@13.38.178.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@3.120.143.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.46:80?path=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----%2F%3Fed%3D2048&security=none&encryption=none&host=Fi2.vless.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://799a1faf-0032-4be0-8573-ad80917aaba5@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=v2rayfast7.net&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#👉🆔 @v2ray_configs_pool📡🇧🇴Bolivia
+vless://0451f9d0-897a-4598-954c-72bb5e5adf7b@190.93.247.56:2082?path=%2Fspeedtest%3Fed%3D2560&security=none&encryption=none&host=webmail.hpcdn.info.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
