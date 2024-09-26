@@ -1,10 +1,10 @@
-vless://e8f27947-b951-47ea-9132-3edae1fdab86@185.146.173.58:8080?type=ws&host=lc57.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://c9e5cba7-938f-4f1f-8d56-ac9aa21d46c9@Zula.ir:2096?type=grpc&serviceName=%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel&authority=&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=Abc.unique69.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://e8f27947-b951-47ea-9132-3edae1fdab86@185.146.173.58:8080?type=ws&host=lc57.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 vless://c9e5cba7-938f-4f1f-8d56-ac9aa21d46c9@Zula.ir:2096?type=grpc&serviceName=%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel&authority=&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=Abc.unique69.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://e8f27947-b951-47ea-9132-3edae1fdab86@185.146.173.58:8080?type=ws&host=lc57.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+vless://a1585ae4-92c3-49c8-abec-4211710c870a@190.93.247.56:8080?path=%2Fspeedtest%3Fed%3D2560&security=none&encryption=none&host=webmail.palmex.iR.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c9e5cba7-938f-4f1f-8d56-ac9aa21d46c9@Zula.ir:2096?type=grpc&serviceName=%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel&authority=&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=Abc.unique69.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?path=%2F5MYfsbXPTJZd737O%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoInmaHDiseRveR-Az7.paGES.dEv&fp=randomized&type=ws&sni=JOInMahdIServER-Az7.PaGeS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
