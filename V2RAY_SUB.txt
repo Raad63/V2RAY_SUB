@@ -1,10 +1,10 @@
-vless://0fca6851-457c-50e0-b8af-fc1ef830626c@104.16.16.26:2095/?type=ws&encryption=none&host=www.speedtest.net.xn--join-FreeV2rng.com.be2.vless.Sitespeedtest.net.&path=%2F-join-%40FreeV2rng%3Fed%3D1024#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://5d4cdda1-e0e5-4109-8f53-b191f0027ea9@bartar.toncoins.site:10808?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vmess://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
-vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443/?type=ws&encryption=none&host=e420ceed.aryoo-vpn-friends.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=e420ceed.aryoo-vpn-friends.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.96.203:990#👉🆔 @v2ray_configs_pool📡🇲🇾Malaysia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@62.12.116.66:990#👉🆔 @v2ray_configs_pool📡🇰🇪Kenya
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.157.154:990#👉🆔 @v2ray_configs_pool📡🇲🇦Morocco
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.59.45:990#👉🆔 @v2ray_configs_pool📡🇪🇬Egypt
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.5.B.mehpow.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#👉🆔 @v2ray_configs_pool📡🇺🇦Ukraine
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@77.247.108.24:990#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.249:990#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.80.209.129:990#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#👉🆔 @v2ray_configs_pool📡🇬🇷Greece
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
