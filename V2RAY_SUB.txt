@@ -1,10 +1,10 @@
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm1.mangshe.xyz:2056/?insecure=1&sni=mm1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇮🇳India
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@mm2.mangshe.xyz:2056/?insecure=1&sni=mm2.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇮🇳India
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@hdlb1.mangshe.xyz:2056/?insecure=1&sni=hdlb1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇮🇳India
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj1.mangshe.xyz:2056/?insecure=1&sni=dj1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@dj2.mangshe.xyz:2056/?insecure=1&sni=dj2.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc1.mangshe.xyz:2056/?insecure=1&sni=cc1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@cc2.mangshe.xyz:2056/?insecure=1&sni=cc2.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sr1.mangshe.xyz:2056/?insecure=1&sni=sr1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
 vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp1.mangshe.xyz:2052/?insecure=1&sni=xjp1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@xjp2.mangshe.xyz:2056/?insecure=1&sni=xjp2.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@sbl.mangshe.xyz:2056/?insecure=1&sni=sbl.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@db1.mangshe.xyz:2056/?insecure=1&sni=db1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2056/?insecure=1&sni=bl1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇫🇷France
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl2.mangshe.xyz:2056/?insecure=1&sni=bl2.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇫🇷France
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@ld1.mangshe.xyz:2056/?insecure=1&sni=ld1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@asb1.mangshe.xyz:2056/?insecure=1&sni=asb1.mangshe.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://20391437-59fb-4f9c-8ebe-d4667dbde883@190.93.247.56:2086?type=ws&host=webmail.hpcdn.info.&path=/speedtest?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpned%3D2560&security=none#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
