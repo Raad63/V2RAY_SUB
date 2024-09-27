@@ -1,10 +1,10 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.185:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://476c9705-0ab2-4729-904b-3774179fad8b@185.146.173.58:8080?type=ws&host=lc58.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://1de40725-3e6b-42b1-9e3e-330c852d049e@172.66.45.31:8443?path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg56.pages.dev&type=ws&sni=pardazeshvpn-tg56.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2d94bc17-5b0a-4159-9b26-a20e2a24d0ef@37.32.31.3:80?path=%2FDrPing&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://29c1b63c-205f-4f91-a974-a51cb757df1c@79.127.70.84:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://884e09dd-bcb5-41a7-ab86-48d0b44c510e@79.127.70.107:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://89534625-0a84-44d6-da42-d516f8f2fcfe@81.12.27.85:22419?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://e7cae227-ffda-4612-a76c-adcf3a9e49b6@79.127.70.80:2082?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://89534625-0a84-44d6-da42-d516f8f2fcfe@81.12.27.85:22419?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@77.247.108.24:990#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAy@www.speedtest.net:2095?type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&path=/tm-Digiv2-teldIGIv2-DIGiv&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://476c9705-0ab2-4729-904b-3774179fad8b@185.146.173.58:8080?type=ws&host=lc58.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vmess://eyJhZGQiOiAiMTA0LjIxLjk1LjE2NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJzYXJlaWtlbGEuY29tIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic2FyZWlrZWxhLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://ff665f2a-bfd8-4baa-87de-5b10c200086b@195.254.165.42:8080?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@104.21.60.92:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=falcunargo-telegram.384f2ed785.workers.Dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@162.159.153.23:8080?path=%2F&security=none&encryption=none&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
