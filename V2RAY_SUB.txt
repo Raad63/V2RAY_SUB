@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://1b29e776-9c31-4e07-a584-0d3872d9eee6@104.19.239.120:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.Bede.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.Bede.VPNCUSTOMIZE.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ce7c31a4-5617-4d71-9130-2de17f270bda@92.61.180.113:4567?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-ss://YWVzLTI1Ni1nY206cEJtaG1xU3JkYng4dHdLcHYxM0dFQQ==@147.45.75.246:36619#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQN0xrSjlGZ0Q0c1c=@142.202.190.110:4923#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.255.123.146:990#👉🆔 @v2ray_configs_pool📡🇳🇬Nigeria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#👉🆔 @v2ray_configs_pool📡🇧🇴Bolivia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRGdRdjVlaERaUEdaY1EzT2NxcmZ0YlB0c2FMdXFObDMwVlB0Nmw1bHV3PQ==@185.73.202.5:31748#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRGdRdjVlaERaUEdaY1EzT2NxcmZ0YlB0c2FMdXFObDMwVlB0Nmw1bHV3PQ==@185.73.202.5:31748#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@5.226.54.105:40087#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@portal.blueyenia.org:40087#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
