@@ -1,10 +1,10 @@
-vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.129.67:2087/?type=ws&encryption=none&host=vless.sub.amclubs.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vless.sub.amclubs.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?path=%2F5MYfsbXPTJZd737O%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoInmaHDiseRveR-Az7.paGES.dEv&fp=randomized&type=ws&sni=JOInMahdIServER-Az7.PaGeS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=joinmahdiseRver-Az7.pAgES.dev&fp=randomized&type=ws&sni=jOInmAHDiSERVer-AZ7.paGes.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.133.1.13:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096?type=tcp&host=speedtest.net&headerType=http#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096?type=tcp&host=speedtest.net&headerType=http#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://85a23c7c-9fef-4a30-a9d5-8ebd3e3b699e@45.140.43.16:2087?security=tls&sni=Dl2.hUpcLouD.COm&type=tcp&host=playstation.com&headerType=http&fp=firefox&alpn=h2#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.133.1.13:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b9f90c6d-006b-411b-b3e6-ff14aabbd709@172.67.194.23:443?security=tls&sni=sony-shop.sonyai.biz.tr&type=grpc&serviceName=xzy#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://1773441d-8b07-43c0-81e6-226cce288e13@104.18.15.166:80?type=ws&host=cpy2.cpy-teel-1-32f.workers.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://85a23c7c-9fef-4a30-a9d5-8ebd3e3b699e@45.140.43.16:2087?security=tls&sni=Dl2.hUpcLouD.COm&type=tcp&host=playstation.com&headerType=http&fp=firefox&alpn=h2#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://5d4cdda1-e0e5-4109-8f53-b191f0027ea9@94.182.223.230:10808?security=none&type=tcp&host=zula.ir&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://a0436620-90b8-42c2-ac33-1f073e66bdfa@104.18.211.110:8880?security=none&type=httpupgrade&host=join.2.kiava.cloud.speedtest.net.xnmgba2h8quf.cdn.ht88.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@103.133.1.13:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b9f90c6d-006b-411b-b3e6-ff14aabbd709@172.67.194.23:443?security=tls&sni=sony-shop.sonyai.biz.tr&type=grpc&serviceName=xzy#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5c62b24a-2dfe-49c1-8c93-cc2c35bd4f26@104.20.18.168:80?security=none&type=ws&host=worker-floral-sun-5945.miyenep837.workers.DEV&path=%2Fvless-ws%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5d4cdda1-e0e5-4109-8f53-b191f0027ea9@94.182.223.230:10808?security=none&type=tcp&host=zula.ir&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://a0436620-90b8-42c2-ac33-1f073e66bdfa@104.18.211.110:8880?security=none&type=httpupgrade&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ht88.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5c62b24a-2dfe-49c1-8c93-cc2c35bd4f26@104.20.18.168:80?security=none&type=ws&host=worker-floral-sun-5945.miyenep837.workers.DEV&path=%2Fvless-ws%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
