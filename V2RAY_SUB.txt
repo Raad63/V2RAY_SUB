@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://873bc41f-1ebc-4744-b6fd-d090977899d9@speedtest.net:443?type=ws&host=barkat5.ir&path=/ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS-ConfigMS?ed%3D2048&security=tls&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://telegram-id-ArV2ray@speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://18d4bd52-269b-4a84-dc5b-4905e663b290@62.60.179.156:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.24.34:2052?path=%2FTELEGRAM...PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=worker-reza2.wbfoppa.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://79978027-ef16-4137-b18e-905f8c18f845@104.18.36.81:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdnanycasteuorg.fjacz6xe.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@172.67.153.74:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=node.vauth.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2601b9cc-8853-42a9-9bcb-fbdb2ceda399@79.127.70.81:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://89534625-0a84-44d6-da42-d516f8f2fcfe@81.12.27.85:22419?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://d9059c35-a221-46d5-b0c7-b0815438d9c8@62.60.212.101:8585?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?path=%2F&security=tls&encryption=none&host=ViRgInIaVpN-Nl.PaGeS.DeV&type=ws&sni=vIrGiNiAvPn-nL.pAgEs.dEv#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.122.175:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=falcunargo.1035ed931e.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ff665f2a-bfd8-4baa-87de-5b10c200086b@195.254.165.42:8080?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
