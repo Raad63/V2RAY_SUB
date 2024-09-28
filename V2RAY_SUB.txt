@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.12:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&headerType=none&type=tcp&sni=z-v2-002805.kailib.com#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSjRmVGRjYmowaVg5S0VXMlVHNVFi@52.169.109.160:18750#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?path=%2F5MYfsbXPTJZd737O%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoInmaHDiseRveR-Az7.paGES.dEv&fp=randomized&type=ws&sni=JOInMahdIServER-Az7.PaGeS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QVUxUlRqV0podTdnZlp2STk4dWxa@52.169.109.35:59208#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=joinmahdiseRver-Az7.pAgES.dev&fp=randomized&type=ws&sni=jOInmAHDiSERVer-AZ7.paGes.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGczTmpsbA==@91.194.161.7:8388#👉🆔 @v2ray_configs_pool📡🇲🇩Moldova
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@139.64.165.153:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&headerType=none&type=tcp&sni=z-v2-002750.kailib.com#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://auto@172.66.44.131:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://195339de-72a9-44b2-899f-e68cf63e6cf0@zxcfsdfbcv.irancell_mci.panel-juyom.ir:443?security=none&encryption=none&seed=VNrAUieq4F&headerType=wireguard&type=kcp#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
+vless://ac83bfed-7288-49d1-8c1c-2079f86aa76a@194.5.178.153:443?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6cffb34f-2197-4037-8bbe-54cd90410922@104.21.40.63:443?path=%2Fnimws&security=tls&encryption=none&host=jorum.toptechnonews.com&type=ws&sni=jorum.toptechnonews.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?path=6b777a91&security=tls&host=jobscareertoday.com&type=ws&sni=jobscareertoday.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?path=%2F5MYfsbXPTJZd737O%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
