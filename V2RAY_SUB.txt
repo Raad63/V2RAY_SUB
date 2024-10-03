@@ -1,10 +1,10 @@
-trojan://trojan@185.133.35.46:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=test-a23.pages.dev&fp=chrome&type=ws&sni=test-a23.pages.dev#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
-trojan://auto@172.66.44.131:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.20.6.134:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@172.67.2.238:2083?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@162.159.128.233:8443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@104.19.35.14:443?path=%2Ftrbo9SGocZQNTqq3Cd%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.26.12.54:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://auto@162.159.128.233:8443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@172.66.44.131:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.20.6.134:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@172.66.44.131:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.20.6.134:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://bpb-trojan@104.17.147.22:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@104.17.147.22:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.18.12.229:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
