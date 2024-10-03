@@ -1,10 +1,10 @@
-vless://Telegram-ID-ViraV2ray-3842@www.speedtest.net:2053?type=httpupgrade&path=Yasdl.com/@ViraV2ray#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@54.74.106.227:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.222:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.103:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.24:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.16:5001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.87.225:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.103:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@80.92.204.106:9024#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.47:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.24:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7335f744-15d0-4e85-b159-2f954b785e99@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.103:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.103:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuNTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjhiM2Y3MGJkLWQzYjUtNTI2Ny04ZmQ5LWEzNGU5MzVlYWViZCIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogInZtZXNzLWdycGMiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImZyMi52bWVzcy5zaXRlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJndW4iLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhU3dlZGVuIn0=
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#👉🆔 @v2ray_configs_pool📡🇻🇳Vietnam
