@@ -1,10 +1,10 @@
-vless://f1a5d46d-756c-4d91-9b12-50195a9dc026@94.182.222.14:8634/?encryption=none&host=ybsrxjzv.divarcdn.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://1a6abc83-f50b-4166-a0b6-b14f389deb29@94.182.222.24:388/?encryption=none&host=ezZboX5F.divarcdn.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-trojan://auto@104.21.90.210:2053/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d3afaf54-879c-4528-acf6-34a255b5916f@94.182.222.26:23179/?encryption=none&host=SpaceNetwork.divarcdn.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://a9675ecc-38cf-4de1-ac10-69cfd31fe608@94.182.222.16:323/?encryption=none&host=7z90w2qs.cafebazaar.ir%2C%207z90w2qs.divarcdn.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://529efef8-e541-4094-b3ab-f118c5866006@iranserver.com:80/?type=ws&encryption=none&host=join-to.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://trojan@185.133.35.46:443/?type=ws&host=test-a23.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=test-a23.pages.dev&alpn=h2%2Chttp%2F1.1&fp=chrome#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+trojan://auto@172.67.2.238:2083/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@172.66.44.131:443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c7cc48a1-6b68-4249-9457-b74b93ae053c@94.182.222.14:8615/?encryption=none&host=ybsrxjzv.divarcdn.com&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vmess://eyJhZGQiOiAidjIubXhmbG93ZXIuZXUub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInYyLm14Zmxvd2VyLmV1Lm9yZyIsICJpZCI6ICJhYzIyZDIyYy04YTM0LTRmNTItOGZiMy01OTUwYmE1ZTMyZjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3doYXRldmVyL3ZtZXNzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ2Mi5teGZsb3dlci5ldS5vcmciLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNTaW5nYXBvcmUifQ==
+trojan://auto@104.21.90.210:2053/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.67.68.101:443/?type=ws&encryption=none&host=ISAa1.PAGeS.deV&path=%2Fvlees_v2rayng%3Fed%3D2560&security=tls&sni=IsaA1.pAgEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.26.12.54:443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@104.19.35.14:443/?type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftrbo9SGocZQNTqq3Cd%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV&alpn=http%2F1.1&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.6.134:443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@104.17.147.22:2053/?type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@162.159.128.233:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
