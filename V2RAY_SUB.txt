@@ -1,10 +1,10 @@
-vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&fp=chrome&type=ws&sni=dc1bf227.vf-8co.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3b5985aa-8133-43bb-b43d-639533a304de@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.google.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=store.steampowered.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?encryption=none&security=tls&sni=5c53ca21.vpn-aryoo.pages.dev&type=ws&host=5c53ca21.vpn-aryoo.pages.dev&path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?encryption=none&security=tls&sni=iSaa1.PAGeS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=iSAA1.paGEs.DEV&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=config.imoim.app#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://76eecafc-7a8b-4337-b4d9-187dd4744220@techsonicfree.dinirudesilva.com:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
