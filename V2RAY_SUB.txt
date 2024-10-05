@@ -1,10 +1,10 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?path=6b777a91&security=tls&host=avianrecruit.com&type=ws&sni=avianrecruit.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f39c9c20-38da-41d7-ba2b-cd83ea45e8f8@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2056&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&obfs=salamander&obfs-password=4b817757#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://NTE5NDc5OjE3NTUwMzphOWUxYzg1MGY3MDUwODMz@18.179.58.237:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://NTE5NDc5OjE3NTUwMzphOWUxYzg1MGY3MDUwODMz@35.72.184.29:3074/?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443/?insecure=1&obfs=salamander&obfs-password=4b817757#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-hy2://bcd6ad44-0abf-42d7-9447-ac3deeb5b76d@cc.sux.lol:443/?mport=20000-50000#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-hy2://685d7252-0c4b-4540-b8d7-afe13c1fd08f@ca.gas51qwrhmzz8.top:443/?mport=6000-36000&insecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+hy2://a1f7cb0c-1a16-4315-a9ed-6742ebc306fc@oracle-amd-tokyo1.lanmaoyun.icu:30001/?insecure=1&sni=tokyo.nodes.lanmaoyun.icu#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://a1f7cb0c-1a16-4315-a9ed-6742ebc306fc@oracle-arm-london1.lanmaoyun.icu:30001/?insecure=1&sni=london1.nodes.lanmaoyun.icu#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+hy2://a1f7cb0c-1a16-4315-a9ed-6742ebc306fc@oracle-arm-frankfurt1.lanmaoyun.icu:30001/?insecure=1&sni=frankfurt1.nodes.lanmaoyun.icu#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+hy2://a1f7cb0c-1a16-4315-a9ed-6742ebc306fc@oracle-amd-singapore1.lanmaoyun.icu:30001/?insecure=1&sni=main.nodes.lanmaoyun.icu#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://a1f7cb0c-1a16-4315-a9ed-6742ebc306fc@oracle-arm-chuncheon2.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+hy2://a1f7cb0c-1a16-4315-a9ed-6742ebc306fc@oracle-amd-san-jose2.lanmaoyun.icu:30001/?insecure=1&sni=san-jose2.nodes.lanmaoyun.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://a1f7cb0c-1a16-4315-a9ed-6742ebc306fc@oracle-arm-chuncheon1.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+hy2://a1f7cb0c-1a16-4315-a9ed-6742ebc306fc@oracle-arm-seoul1.lanmaoyun.icu:30001/?insecure=1&sni=korea.nodes.lanmaoyun.icu#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+hy2://a42f72d8-de13-4d52-9f64-97564aecd299@aws-sgsg.aikunapp.com:5001/?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://a42f72d8-de13-4d52-9f64-97564aecd299@aws-hkhk.aikunapp.com:5001/?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
