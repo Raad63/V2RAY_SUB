@@ -1,10 +1,10 @@
-vless://af9c101a-64c3-4678-b588-7fe1fc8fe698@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc61.lebasnoo.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://353914ac-2042-4b7f-b5cf-392e0de6f914@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc62.lebasnoo.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://1f52a18e-586e-4c1b-a08d-56afb65b1278@37.152.176.24:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://05ddd7ea-f3ef-429b-b387-cf90bd0d26d1@152.42.211.4:55387?path=%2FFREE+%28%40z_z_z_zz_z%29++%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://7f834050-cc7a-465d-a4a7-4405082231f9@zmaoz.faculty.ucdavis.edu:443?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&security=tls&encryption=none&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&fp=firefox&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-directvpn@3.9.74.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.237.140:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://telegram-id-privatevpns@3.66.252.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-directvpn@3.9.74.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://353914ac-2042-4b7f-b5cf-392e0de6f914@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc62.lebasnoo.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://1de40725-3e6b-42b1-9e3e-330c852d049e@172.66.45.31:8443?encryption=none&security=tls&sni=pardazeshvpn-tg56.pages.dev&type=ws&host=pardazeshvpn-tg56.pages.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9b8e5b9c-cac0-44c9-b135-383c6c5c3eea@104.18.27.94:80?encryption=none&security=none&type=ws&host=esetsecuritylicense.tacofi5315.workers.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
