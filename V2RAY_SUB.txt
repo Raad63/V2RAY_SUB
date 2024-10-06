@@ -1,10 +1,10 @@
-vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://%74%65l%65g%72a%6d-%69d-%41r%562r%61y@bwdraper.faculty.ucdavis.edu:443?serviceName=@icv2ray#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://telegram-id-ArV2ray@bwdraper.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=bwdraper.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=jnhgfdkjn62.net&path=%2Ftelegram-ArV2ray#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@13.50.155.153:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZHQ2RkEwZk9SM3BCUWRGY3lIeWZ2@89.185.84.185:12575#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://0006f8c3-a694-4aee-9034-5b90c4dbdd31@151.101.193.140:80?security=tls&type=ws&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&sni=Upload.edu&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://12d6cf82-9eee-4b01-b1bb-e1c1a437a162@104.25.122.51:80?security=tls&type=ws&sni=us1-vless.ctunnel.xyz&path=/vless&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@139.64.165.153:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://12d6cf82-9eee-4b01-b1bb-e1c1a437a162@104.18.138.161:80?security=tls&type=ws&sni=us1-vless.ctunnel.xyz&path=/vless&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://12d6cf82-9eee-4b01-b1bb-e1c1a437a162@195.85.59.155:80?security=tls&type=ws&sni=us1-vless.ctunnel.xyz&path=/vless&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
+vless://0006f8c3-a694-4aee-9034-5b90c4dbdd31@151.101.1.140:80?security=tls&type=ws&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&sni=Upload.edu&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@139.64.165.153:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6a7383fe-dcc1-491d-89b1-c902e4be8eb1@151.101.194.219:80?security=tls&type=ws&path=/admin&sni=Gn85.io&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.236.95.86:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
