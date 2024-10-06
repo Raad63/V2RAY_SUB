@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f4e52226-7177-48be-be51-7e6091443fb9@www.parsvds.ir:8080/?type=ws&encryption=none&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.180:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiAiczFjLnYyLnYwMDFzc3MueHl6IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInMxYy52Mi52MDAxc3NzLnh5eiIsICJpZCI6ICIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwODIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989#👉🆔 @v2ray_configs_pool📡🇧🇦Bosnia and Herzegovina
-vless://31dba689-07a3-490b-977f-89fdca0f9686@tw2.helloco.xyz:60001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=python.org&fp=firefox&security=reality&pbk=ekMvKnIDsNHkvshZ3bK7D5qZpSwW0Iyaop9nMfZ2flU&sid=2500628e#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-vmess://eyJhZGQiOiAiMTA0LjIxLjQ2LjEyMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJpdmlkZW9zLnNicyIsICJpZCI6ICI0NDFkYTM0Mi1jZTkwLTQ0MWUtYmZmOS1kMmNlYjU1ZTY4Y2EiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiaXZpZGVvcy5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.24:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@51.20.207.230:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989#👉🆔 @v2ray_configs_pool📡🇲🇽Mexico
+vless://31dba689-07a3-490b-977f-89fdca0f9686@tw4.helloco.xyz:60001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=python.org&fp=safari&security=reality&pbk=ekMvKnIDsNHkvshZ3bK7D5qZpSwW0Iyaop9nMfZ2flU&sid=2500628e#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg@80.92.204.106:9080#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@52.57.81.66:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.95.103:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://31dba689-07a3-490b-977f-89fdca0f9686@tw3.helloco.xyz:60001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=python.org&fp=firefox&security=reality&pbk=ekMvKnIDsNHkvshZ3bK7D5qZpSwW0Iyaop9nMfZ2flU&sid=2500628e#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.142.4:989#👉🆔 @v2ray_configs_pool📡🇵🇦Panama
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.103:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@35.179.199.160:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
