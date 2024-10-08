@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E=@185.5.38.111:55988#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-trojan://3672449442956713984@champion-dog.lab300.lat:443?security=tls&headerType=none&type=tcp&sni=champion-dog.lab300.lat#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E=@185.5.38.111:55988#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://ComYEI7fQv@51.68.215.55:443?path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=uk-04.allhubb.info#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNE5va2ozWXFmdGE2dFdxdW02cjhr@46.29.238.83:28768#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-trojan://bpb-trojan@45.131.208.81:443?path=%2Ftrt3XSTgGNyK4r9U0o%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403B3611-99BC-43b7-88D7-26eD5d0825A9-3.PaGES.dEv#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.93.10:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMkx3bipMejRK@176.124.199.255:1431#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+trojan://azadnet-trojan@172.67.196.253:443?path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=xn----pmcnaac0dkn0rb71nda.pages.dev&fp=randomized&type=ws&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-v.pages.dev:2053?path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bpb-v.PaGEs.DeV&type=ws&sni=BpB-v.PAgEs.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@104.21.77.150:443?path=%2FtrHs32TkLnOBacvIv4%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.101:443?path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=0F4c3270.vPNHAVEN.PagES.DEV&fp=randomized&type=ws&sni=0F4c3270.vpNHAVEn.PAgEs.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&security=reality&encryption=none&alpn=h2,http/1.1&authority=&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=f77e5398#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vless://9a4bc15d-a7d4-4181-9485-405629c36894@104.21.46.85:443?path=Telegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=king-ae1.pages.dev&fp=android&type=ws&sni=king-ae1.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
