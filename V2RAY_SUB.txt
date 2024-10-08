@@ -1,10 +1,10 @@
-vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZGFzaC5jbG91ZGZsYXJlLmNvbS5iOWU1MTBhYmVmZjcxNjdmLmZ0cC5kZWJpYW4ub3JnLmI5ZTUxMGFiZWZmNzE2N2Yud3d3LnNwZWVkdGVzdC5uZXQuYjllNTEwYWJlZmY3MTY3Zi5kb2NoYW51Yi5jb20uIiwgImlkIjogImpvaW4tdnBuLXdoYWwtc2hvIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi9qb2luLXZwbi13aGFsP2VkPTIwNTYiLCAicG9ydCI6ICI4ODgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://a9a79923-9f60-41d3-bdd9-f66e346c4e1e@fx.nightwolf.shop:33517?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Daily_Configs@www.visa.com.mt:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=randomized&allowInsecure=1&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Daily_Configs@cis.visa.com:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=randomized&allowInsecure=1&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Daily_Configs@africa.visa.com:2083?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=randomized&allowInsecure=1&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Daily_Configs@icook.hk:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=randomized&allowInsecure=1&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ca85bcac-b875-4ccc-a1c3-4e0187c9067b@bwdraper.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=bwdraper.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Ygvtfruh54.net&path=%2Ftelegram-ArV2ray#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7354f9fa-7945-4b0a-bb68-1b97702743c8@167.82.79.0:443?encryption=none&security=tls&sni=live.skornorth.com&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=Telegram-Daily-Configs.com&path=%2FJoin%2FTelegram%3A%40Daily_Configs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7354f9fa-7945-4b0a-bb68-1b97702743c8@199.232.201.0:443?encryption=none&security=tls&sni=Telegram-Daily-Configs.com&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=Telegram-Daily-Configs.com&path=%2FJoin%2FTelegram%3A%40Daily_Configs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.243.191:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.243.191:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.59.38:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
