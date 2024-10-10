@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE0Mi4yMDIuNDkuODQ6ODA5MA==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDY5LjUwLjk1LjUzOjgxMTk=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?security=none&type=ws&host=Nl2.vless.site.&path=%2Fvless#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5QDQ1Ljg3LjE3NS4xODg6ODA4MA==#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjIxNjo2Njc5#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTQyLjIwMi40OS4xMjI6OTEwMg==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTQyLjIwMi40OS4xMjI6ODAwOA==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE0Mi4yMDIuNDkuODQ6NjY3OQ==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxNDIuMjAyLjQ5LjEyMjo1NTAw#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a62dea94-e327-4666-a4eb-ac6933f63dfc@146.75.54.133:443?hiddify=1&sni=unternehmen.rossmann.de&type=ws&alpn=http/1.1&path=/AOagIIfbJJ0hbXIwCE6mq&host=tara.ir&encryption=none&fp=firefox&headerType=None&security=tls#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQyLjIwMi40OS44NDo1MDAx#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQGJlZXN5YXIub3JnOjgwODA=#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+trojan://3672449442956713984@present-blowfish.sunbeam921.monster:443?allowInsecure=0&sni=present-blowfish.sunbeam921.monster#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDM4Ljc1LjEzNy40Mjo3MDAy#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@52.29.69.96:22222?security=tls&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://a62dea94-e327-4666-a4eb-ac6933f63dfc@www.speedtest.net:80?hiddify=1&sni=17.v.v2.www.speedtest.net.g.debian.org.2.nanvaiiisaeed.ir&type=ws&alpn=http/1.1&path=/AOagIIfbJJ0hbXIwCE6mq&host=17.v.v2.www.speedtest.net.g.debian.org.2.nanvaiiisaeed.ir&encryption=none&fp=firefox&headerType=None&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a62dea94-e327-4666-a4eb-ac6933f63dfc@69.48.218.2:443?hiddify=1&sni=g1.nanvaiiisaeed.ir&type=ws&alpn=http/1.1&path=/AOagIIfbJJ0hbXIwCE6mq&host=g1.nanvaiiisaeed.ir&encryption=none&fp=firefox&headerType=None&security=tls#👉🆔 @v2ray_configs_pool📡🇺🇸United States
