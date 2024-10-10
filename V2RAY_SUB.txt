@@ -1,10 +1,10 @@
-trojan://Bia-Daily-Configs@cis.visa.com:2053?path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&host=kanale-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&sni=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://282ef8a2-2718-41d2-a32e-fbfc8e11ac73@104.18.115.38:8443?path=%2FJoin%2FTelegram%3A%40Daily_Configs%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=join-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&sni=join-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Bia-Daily-Configs@www.wto.org:8443?path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&host=kanale-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&sni=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://282ef8a2-2718-41d2-a32e-fbfc8e11ac73@167.82.79.0:443?path=%2FJoin%2FTelegram%3A%40Daily_Configs%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Telegram-Daily-Configs.com&fp=randomized&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ca2c2b7a-5888-48bd-964b-52b5c5ee432d@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ca2c2b7a-5888-48bd-964b-52b5c5ee432d@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://282ef8a2-2718-41d2-a32e-fbfc8e11ac73@199.232.201.0:443?path=%2FJoin%2FTelegram%3A%40Daily_Configs%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Telegram-Daily-Configs.com&fp=randomized&type=ws&sni=Telegram-Daily-Configs.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Bia-Daily-Configs@www.visa.com.mt:8443?path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&host=kanale-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&sni=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5QDQ1Ljg3LjE3NS4xODE6ODA4MA==#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDM4Ljc1LjEzNy40Mjo4ODgy#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE2OS4xOTcuMTQyLjIxNjo3MDAy#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguNzUuMTM3LjQyOjU2MDA=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAwQHdhci5zc3ZwbmFwcC53aW46NTc0NTY=#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDM4Ljc1LjEzNy40MjoyMzc2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4Ljc1LjEzNy40Mjo4MDkx#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@16.16.72.199:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE0Mi4yMDIuNDkuODQ6NTAwMw==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE0Mi4yMDIuNDkuMTIyOjgxMTg=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEyMC4yMzIuMTUzLjQwIiwgInBvcnQiOiA0MzUyNiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyMWE5YmZmMi03MmRlLTRlNjItOTNmZi04YjE1OWY2NmQ4NzUiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNDaGluYSJ9
