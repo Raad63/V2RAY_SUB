@@ -1,10 +1,10 @@
-vless://8ecca039-6f84-414d-9a8e-590bb11e70c8@www.speedtest.net:2096?type=ws&host=g.yUSEFkharE.SBS&path=/Tel:@DOnald_vpn&security=tls&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://7daf6801-f3b9-4139-8394-2dd91723c26f@104.18.218.118:8443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D8443&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://cc35f6ba-be03-4d1e-b229-db443b5a7ce7@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://12d6cf82-9eee-4b01-b1bb-e1c1a437a162@195.85.59.155:80?security=tls&type=ws&path=/vless&sni=dl2.wwwiransell.ir.саетcанту.烏克爾.yркельп.wonkacapitano.buzz.&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?security=tls&type=ws&path=/vless&sni=Nl2.vless.site.&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://694f4e1e-5768-4065-a9be-5f3945c6b4c4@151.101.2.216:80?security=tls&type=ws&path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048&sni=barkatc1.ir&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@104.19.208.45:80?security=tls&type=ws&path=/vless&sni=30279.olielielie.store.&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.225:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://82b18d08-5aeb-414d-8545-07f26bcd75cb@193.107.48.46:38265?security=tls&type=tcp&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.64.35.129:80?security=tls&type=ws&path=/b5cdabf0-e04&sni=cc.ailicf.us.kg&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@15.204.87.225:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6Sk44cHNLb25jcWFxUzR1bA==@221.181.185.71:22064#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@169.197.141.84:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f6c86505-cd45-5204-a214-f2e85d06b8e4@185.109.21.201:80?security=tls&type=ws&path=/vless&sni=cd1e4.olielielie.store.&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://17714732-15b6-5b7a-9703-8c874ef8bef4@198.41.208.69:80?security=tls&type=ws&path=/vless&sni=55965.olielielie.store.&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://17714732-15b6-5b7a-9703-8c874ef8bef4@104.25.97.27:80?security=tls&type=ws&path=/vless&sni=55965.olielielie.store.&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
