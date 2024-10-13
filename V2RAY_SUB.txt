@@ -1,10 +1,10 @@
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=tnetplus-1wc.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@104.17.147.22:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://90fdaaaf-44fb-443a-a666-c5a6fadafddc@adroll.com:443?path=%2F%3Fed%3D8880&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@104.18.12.229:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@172.67.216.166:2052?encryption=none&security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@172.67.216.166:2052?encryption=none&security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?encryption=none&security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=%2FDU-7-v-InqDKABjE%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://90fdaaaf-44fb-443a-a666-c5a6fadafddc@adroll.com:443?path=%2F%3Fed%3D8880&security=tls&encryption=none&alpn=h2,http/1.1&host=w.ir&fp=firefox&type=ws&sni=adroll.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?encryption=none&security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=%2FDU-7-v-InqDKABjE%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://bpb-trojan@159.112.235.48:2083?path=%2FtrZTKk76m0W1AxpNcC%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403b3611-99bC-43B7-88d7-26ed5d0825A9-3.PAGes.dEv#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Awawaw.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://45d6db68-8895-468a-80f7-de24553e5b2f@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@tgju.org:2096?encryption=none&security=tls&sni=hagh.pages.dev&fp=random&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@tgju.org:2096?encryption=none&security=tls&sni=hagh.pages.dev&fp=random&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
