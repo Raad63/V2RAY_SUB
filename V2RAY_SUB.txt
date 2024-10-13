@@ -1,10 +1,10 @@
-vless://57af962e-a37c-47d7-89b1-b2d2ce06f1c3@www.speedtest.net:8880?path=%2FG%2Fb4t6hy5n%2F%3Fed%3D80120&security=none&encryption=none&host=test.flnsho.store.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.19:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.19:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://7daf6801-f3b9-4139-8394-2dd91723c26f@104.17.234.114:8443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D8080&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.21:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://695f1614-ae66-45a5-be48-0a8d34ddd459@gr-unli.velun.top:46279?security=none&encryption=none&host=bwm.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.64.84.90:8080?encryption=none&security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=tnetplus-1wc.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?encryption=none&security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=%2FDU-7-v-InqDKABjE%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://90fdaaaf-44fb-443a-a666-c5a6fadafddc@adroll.com:443?path=%2F%3Fed%3D8880&security=tls&encryption=none&alpn=h2,http/1.1&host=w.ir&fp=firefox&type=ws&sni=adroll.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?encryption=none&security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=%2FDU-7-v-InqDKABjE%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@159.112.235.48:2083?path=%2FtrZTKk76m0W1AxpNcC%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403b3611-99bC-43B7-88d7-26ed5d0825A9-3.PAGes.dEv#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Awawaw.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell&sni=adsl.felafel.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#👉🆔 @v2ray_configs_pool📡🇺🇸United States
