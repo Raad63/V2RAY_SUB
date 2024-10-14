@@ -1,10 +1,10 @@
-trojan://auto@194.53.53.4:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://d0f9437f-3c49-45c6-976b-ebea24158b39@190.93.247.155:2082?type=httpupgrade&host=finhztco.nipytee.info&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-trojan://auto@194.53.53.4:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-trojan://auto@194.53.53.4:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-vless://63330b51-81e0-4c6d-a3c7-0c877c3a4a5b@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell&sni=ConfigTell.felafel.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://63330b51-81e0-4c6d-a3c7-0c877c3a4a5b@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://63330b51-81e0-4c6d-a3c7-0c877c3a4a5b@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://63330b51-81e0-4c6d-a3c7-0c877c3a4a5b@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://63330b51-81e0-4c6d-a3c7-0c877c3a4a5b@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
