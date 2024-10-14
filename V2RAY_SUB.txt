@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWDc3Q3AyQ0hLcThKS1RIdXgyeFVp@13.74.65.144:32935#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://d2764cab-1ae2-4897-a773-dc0f434751c6@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWDc3Q3AyQ0hLcThKS1RIdXgyeFVp@13.74.65.144:32935#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVnJUbnNRcnZmSmhTeFd3Ukd0U1VrNDNUOEJMM005WFU2QVlzc0pLelNiVDZMcjJwYUh2cVdBeGNZV0haMjQzdkVxYzFmU1RNa1diUDZWcVVCYkZFVktlWDVwVnYxQ1U=@185.5.38.111:55988#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=uni.fi&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://eeb63435-fd3a-4f56-d680-c98f228329ad@upload.ir:2095?type=ws&path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048&host=www.speedtest.net.Jaricopen.Shop.&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b2fa687b-644a-454e-93c3-b6a6928743b0@zmaoz.faculty.ucdavis.edu:443?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=LGPTXPN.DEV&fp=edge&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://189af07c-4c65-4c88-9602-e529395a612a@tgju.org:2082?path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082&security=none&encryption=none&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=m.viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=play.google.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=WhatsApp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=add your host#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
