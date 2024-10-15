@@ -1,10 +1,10 @@
-vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?path=%2Fvless&security=none&encryption=none&host=Nl2.vless.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig.drroyazare.ir:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMZmoxZFpmOW02NkoxcmFVZ2Q2bWpz@91.103.253.171:16025#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vless://fb789853-e3f3-450f-9289-78e3e9f3d3e2@live.wkrq.com:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.191.29:443#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
 vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@104.19.208.45:80?security=none&type=ws&sni=30279.olielielie.store.&path=/vless&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c9510f5a-b268-4b10-b74e-35c4ae10ab19@104.17.147.22:2095?security=none&type=ws&sni=19.v.v2.www.speedtest.net.g.debian.org.nanvaiiisaeed.ir&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@23.227.38.114:80?security=none&type=ws&sni=30279.olielielie.store.&path=/vless&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://571f64c7-bff0-4d33-8765-56ad2334cb55@104.21.63.51:80?security=none&type=ws&sni=ca.ailicf.us.kg&path=/ascb&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@45.85.118.146:80?security=none&type=ws&sni=30279.olielielie.store.&path=/vless&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇷🇴Romania
+vless://4d3ef8c8-7ae6-4ea2-b42c-ed00dc4d3c34@104.26.6.149:2082?security=none&type=ws&sni=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.spdtest.ggff.net.&path=ws/?ed=8080&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.191.29:443#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@104.19.208.45:80?security=none&type=ws&sni=30279.olielielie.store.&path=/vless&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c9510f5a-b268-4b10-b74e-35c4ae10ab19@104.17.147.22:2095?security=none&type=ws&sni=19.v.v2.www.speedtest.net.g.debian.org.nanvaiiisaeed.ir&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
