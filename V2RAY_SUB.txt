@@ -1,10 +1,10 @@
-vless://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&fp=random&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://c9510f5a-b268-4b10-b74e-35c4ae10ab19@www.speedtest.net:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=19.v.v2.www.speedtest.net.g.debian.org.nanvaiiisaeed.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.252.123:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-directvpn@15.188.124.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.36:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.64.35.129:80?security=tls&type=ws&path=/b5cdabf0-e04&sni=cc.ailicf.us.kg&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://17714732-15b6-5b7a-9703-8c874ef8bef4@198.41.208.69:80?security=tls&type=ws&path=/vless&sni=55965.olielielie.store.&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6cab6cec-a5d7-4776-bc10-2d967cc202bf@172.67.131.51:80?security=tls&type=ws&path=/vless&sni=82bf4.breakwind.xyz&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://4d3ef8c8-7ae6-4ea2-b42c-ed00dc4d3c34@104.26.7.149:2082?security=tls&type=ws&path=ws/?ed=8080&sni=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.spdtest.ggff.net.&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0945a020-3d8f-4611-98d1-a206f44b5c50@151.101.2.165:80?security=tls&type=ws&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&sni=Awawaw.net&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4d3ef8c8-7ae6-4ea2-b42c-ed00dc4d3c34@104.26.6.149:2082?security=tls&type=ws&path=ws/?ed=8080&sni=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.spdtest.ggff.net.&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0945a020-3d8f-4611-98d1-a206f44b5c50@151.101.2.165:80?security=tls&type=ws&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&sni=Awawaw.net&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
