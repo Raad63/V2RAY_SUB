@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://c9510f5a-b268-4b10-b74e-35c4ae10ab19@www.speedtest.net:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=19.v.v2.www.speedtest.net.g.debian.org.nanvaiiisaeed.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?path=%2Fcassiusvpn.page۸s.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&fp=random&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://c9510f5a-b268-4b10-b74e-35c4ae10ab19@www.speedtest.net:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=19.v.v2.www.speedtest.net.g.debian.org.nanvaiiisaeed.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
 vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://87d803c7-f879-478e-e1f2-738d804de98e@zula.ir:80?path=%2F2FF4sNFEEm2rBDKp42yuiT3j1BVZCca79h2wzV&security=none&encryption=none&host=DIGI-029-bdz43GbSz5VB1B5oGzqNYu3E.BEsTholDHypErionblog-100.ORG&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
