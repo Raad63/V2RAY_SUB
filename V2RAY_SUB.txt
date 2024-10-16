@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.39:443?security=tls&sni=lo.ylks.us.kg&type=ws&path=%2F%3Fed#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.233:443?security=tls&sni=cm.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.245:443?security=tls&sni=do.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.203:443?security=tls&sni=lo.ylks.us.kg&type=ws&path=%2F%3Fed#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.203:443?security=tls&sni=lo.ylks.us.kg&type=ws&path=%2F%3Fed#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.134:443?security=tls&sni=do.ylks.xyz&type=ws&path=%2F%3Fproxyip#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
+vless://272342d6-deb4-4e9d-b779-0dd92086edff@live.wkrq.com:443?path=%2F%40Evay_vpn@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.245:443?security=tls&sni=do.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.67.200.82:443?security=tls&sni=co.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.203:443?security=tls&sni=lo.ylks.us.kg&type=ws&path=%2F%3Fed#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.233:443?security=tls&sni=cm.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.233:443?security=tls&sni=cm.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
