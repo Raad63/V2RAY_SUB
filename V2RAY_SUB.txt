@@ -1,3 +1,4 @@
+vless://4d3ef8c8-7ae6-4ea2-b42c-ed00dc4d3c34@172.67.73.213:2082?security=none&type=ws&sni=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.spdtest.ggff.net.&path=ws/?ed=8080&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://c9510f5a-b268-4b10-b74e-35c4ae10ab19@104.17.147.22:2095?security=none&type=ws&sni=19.v.v2.www.speedtest.net.g.debian.org.nanvaiiisaeed.ir&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://77a55f57-b0bb-403f-a3f3-e233b9ea0a5f@151.101.194.228:80?security=none&type=ws&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitT.CoM&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
@@ -7,4 +8,3 @@ vless://4d3ef8c8-7ae6-4ea2-b42c-ed00dc4d3c34@172.67.73.213:2082?security=none&ty
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://c9510f5a-b268-4b10-b74e-35c4ae10ab19@104.17.147.22:2095?security=none&type=ws&sni=19.v.v2.www.speedtest.net.g.debian.org.nanvaiiisaeed.ir&path=/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://77a55f57-b0bb-403f-a3f3-e233b9ea0a5f@151.101.194.228:80?security=none&type=ws&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitT.CoM&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://d13c3bd3-0ef3-4cd9-811a-f231130b577b@151.101.3.8:80?security=none&type=ws&sni=Babaaha.ir&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
