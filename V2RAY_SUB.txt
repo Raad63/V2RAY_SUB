@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
 vless://c9510f5a-b268-4b10-b74e-35c4ae10ab19@www.speedtest.net:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=19.v.v2.www.speedtest.net.g.debian.org.nanvaiiisaeed.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
 vless://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?path=%2Fcassiusvpn.page۸s.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&fp=random&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://c9510f5a-b268-4b10-b74e-35c4ae10ab19@www.speedtest.net:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=19.v.v2.www.speedtest.net.g.debian.org.nanvaiiisaeed.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
