@@ -1,10 +1,10 @@
-hy2://f76054ef-3566-44d4-b920-a9ea4b3f4c26@ru-01.cloudlion.me:8005/#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-vless://2b2b0c3e-ec85-49c9-9680-933867ffa5d7@151.101.194.133:443?security=tls&sni=live.989bull.com&type=ws&host=Golestanvpn.com&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://b2dd8b3f-f5aa-5e2a-a26b-3bd6dea9b3ff@199.232.33.62:443?type=ws&encryption=none&flow=&host=JoinBede-ELiV2RaY.ir&allowInsecure=1&path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY%3Fed%3D2560&security=tls&sni=JoinBede-ELiV2RaY.iR&alpn=h2%2Chttp%2F1.1&fp=randomized#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://34785c47-00a9-5743-a94c-44c9aa6e122d@Speedtest.net:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=join.ELiV2RaY.ai&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@129.146.249.162:443/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@140.245.52.9:443/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@144.22.129.240:443/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@139.185.32.100:443/?insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@139.185.34.29:443/?insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@159.13.38.138:443/?insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@152.69.186.200:443/?insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@132.145.28.17:65535/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@129.151.169.64:65535/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇿🇦South Africa
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.35:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
