@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.166.88.198:2376#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-trojan://telegram-id-directvpn@3.248.93.142:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.35:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vmess://eyJhZGQiOiAiZGVuYzM2Lnh0b29sdGVjaC5jZmQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsICJpZCI6ICJiMzIxZmQ1ZC1lNmVjLTQyOTMtYTY0NC0xNjRlMzg4NWY1MmUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@45.89.52.66:9037#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-privatevpns@15.237.167.247:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989#👉🆔 @v2ray_configs_pool📡🇧🇦Bosnia and Herzegovina
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZEdWZ3daMGZLWXdDN2t4VTJJUDdr@77.91.123.173:18332#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://3672449442956713984@champion-dog.lab300.lat:443/?type=tcp&security=tls&sni=champion-dog.lab300.lat#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a37d6179-6f51-4a0a-9809-9f99d7eab0c7@104.17.147.22:80?security=none&type=httpupgrade&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=/@Vpn_Mikey،@Vpn_Mikey#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://dc6059e1-b1d3-433a-9046-ea09e48d1857@104.21.70.16:8443?security=tls&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@80.92.204.106:9000#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3129f830-d45e-4a7d-9de4-1bb24000d250@151.101.2.228:443?security=tls&sni=Zmaoz.Faculty.Ucdavis.Edu&type=ws&host=tehran1.ir&path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%2F%3Fed%3D8443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bbacaca-acba-caba-bcad-bbaacacabccb@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6ddac671-efd6-4b13-b152-3d388148a546@151.101.130.228:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&type=ws&host=onlineshoppardis.com&path=%2F%40vistav2ray-%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
