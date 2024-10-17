@@ -1,10 +1,10 @@
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@144.22.129.240:443/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@139.185.32.100:443/?insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@139.185.34.29:443/?insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@159.13.38.138:443/?insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@152.69.186.200:443/?insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@132.145.28.17:65535/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-hy2://48af5ec7-4ef9-44c9-b825-f730e20024d3@129.151.169.64:65535/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇿🇦South Africa
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.35:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.44:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://6fd5b6b4-86b4-4e59-b0d9-c088009a74a0@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.36:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2b3788ed-d33f-478a-92f9-e8fe00e9982d@198.41.222.31:80?path=%2Ftelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%3Fed%3D80&security=none&encryption=none&host=at.www.speedtest.net.zula.ir.iranfastfod.iR.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
