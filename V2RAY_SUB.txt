@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@18.188.22.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@51.44.31.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.186:443?security=tls&sni=ao.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.196.47:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://telegram-id-directvpn@18.188.22.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d09ad8ed-cfe4-4a44-ba5b-860210a67460@167.82.38.228:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&type=ws&host=Parsnaz.com&path=%2Fde%3Fed%3D1048&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.41:443?security=tls&sni=ap.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@18.188.22.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@51.44.31.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
 trojan://bpb-trojan@172.67.209.80:443?allowInsecure=0&sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev&ws=1&wspath=%2FtrHs32TkLnOBacvIv4%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@144.24.200.164:443?security=tls&sni=dp.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://97cbc95d-5b0d-49b6-8ae4-b4c32e4781e2@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Awawaw.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.131.47:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@144.24.169.81:2053?security=tls&sni=bPB005.PAgES.Dev&type=ws&path=%2Fdbcwbez3amx4lyn4%2Fmtuyljy3ljiznc40oq#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
