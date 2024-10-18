@@ -1,10 +1,10 @@
-vless://27f3b25e-f880-444e-9528-adcea342451e@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&fp=randomized&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@live.wkrq.com:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://wkmY1R4EcP@78.141.221.194:443?allowInsecure=0&sni=z-v2-002750.kailib.com#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-trojan://wkmY1R4EcP@78.141.221.194:443?allowInsecure=0&sni=z-v2-002750.kailib.com#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://9a263917-3f48-4f4c-b4fe-2064093797ce@104.18.61.223:443?security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&fp=random&alpn=h3#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://cde29df6-2ac2-41ad-9c9a-8f94c2954c4f@79.127.70.123:2096?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://fd5091fb-bd5f-4a58-93ce-92534bcbc790@95.216.205.199:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://a051d4e1-1e6f-4969-8f67-99086f7f559e@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Dadachibodoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://cf43996d-cc45-458e-87ac-c9c933c9ed3e@104.17.147.22:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.fi2.v2vless.sitespeedtest.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6a653d76-cefb-4822-b419-0731ac15728e@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Morchechi.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 vless://9a4bc432-1937-4646-9462-68ca82154128@79.127.70.88:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
