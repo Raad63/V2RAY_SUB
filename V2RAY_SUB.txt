@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WW1OaQ%3D%3D@95.164.44.21:8388#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WW1OaQ%3D%3D@95.164.44.21:8388#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.36:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.36:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://fd5091fb-bd5f-4a58-93ce-92534bcbc790@5.161.227.205:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://cf43996d-cc45-458e-87ac-c9c933c9ed3e@104.17.147.22:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.fi2.v2vless.sitespeedtest.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://fd5091fb-bd5f-4a58-93ce-92534bcbc790@5.161.227.205:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.20.18.168:8880?encryption=none&security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.20.18.168:8880?encryption=none&security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3e33acba-13b9-4485-9c0c-ae5501e2b468@172.66.213.38:443?encryption=none&security=tls&sni=pardazeshvpn-tg31.pages.dev&alpn=h2&fp=chrome&type=ws&host=pardazeshvpn-tg31.pages.dev&path=%2F@VPNHTTPInjectorfree#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3e33acba-13b9-4485-9c0c-ae5501e2b468@172.66.213.38:443?encryption=none&security=tls&sni=pardazeshvpn-tg31.pages.dev&alpn=h2&fp=chrome&type=ws&host=pardazeshvpn-tg31.pages.dev&path=%2F@VPNHTTPInjectorfree#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://fd5091fb-bd5f-4a58-93ce-92534bcbc790@95.216.205.199:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://fd5091fb-bd5f-4a58-93ce-92534bcbc790@95.216.205.199:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
