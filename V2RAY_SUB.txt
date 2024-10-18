@@ -1,10 +1,10 @@
-hy2://0ab3aca8-d128-4f12-b5fc-41df409c974b@tokyo2-500m.node.xn--l6qx3lcvp58x.com:24205/?sni=2.nodes.yljc.online#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://2a12276a-6584-4efb-a5c0-fd91ca530dfc@hk-01.cloudlion.me:8005/#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-hy2://bdbd440d-bb7e-4cc9-8dc2-d5e0a2d60f50@132.226.171.133:443/?mport=20000-55000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-hy2://bdbd440d-bb7e-4cc9-8dc2-d5e0a2d60f50@193.122.106.44:443/?mport=20000-55000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-hy2://ab228da0-a064-4381-8f81-d185b9c50d8a@146.56.148.206:443/?mport=50000-53000&insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-hy2://bdbd440d-bb7e-4cc9-8dc2-d5e0a2d60f50@138.3.208.201:443/?mport=20000-55000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://ab228da0-a064-4381-8f81-d185b9c50d8a@131.186.42.162:443/?mport=50000-53000&insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://bdbd440d-bb7e-4cc9-8dc2-d5e0a2d60f50@138.2.31.176:443/?mport=20000-55000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://bdbd440d-bb7e-4cc9-8dc2-d5e0a2d60f50@138.2.2.120:443/?mport=20000-55000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-hy2://ab228da0-a064-4381-8f81-d185b9c50d8a@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://fb1e6568-e4dc-48bd-8853-c664de8fe4bb@zmaoz.faculty.ucdavis.edu:443?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&security=tls&encryption=none&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&fp=firefox&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ec3caa8b-df48-497a-889e-d5958e9d3f39@151.101.66.133:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Okhala.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@live.wkrq.com:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.238.118:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.238.118:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.238.118:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-directvpn@54.84.31.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@54.84.31.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@15.188.224.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
