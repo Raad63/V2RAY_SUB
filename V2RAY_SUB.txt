@@ -1,10 +1,10 @@
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3333?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3131?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv1.safeunity.space:3535?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3535?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3535?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv1.safeunity.space:3535?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3131?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3333?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv1.safeunity.space:3131?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3434?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv1.safeunity.space:3232?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv1.safeunity.space:3333?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3232?security=none&type=ws&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3535?security=none&type=ws&headerType=&path=&host#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@multi.srv2.safeunity.space:3333?security=none&type=ws&headerType=&path=&host#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://c995f1e2-3b82-44ce-a66f-36aadac8bb3b@79.127.70.123:2087?security=none&encryption=none&host=www.BugFreeNet.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://a051d4e1-1e6f-4969-8f67-99086f7f559e@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Dadachibodoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2493495b-d6b8-49b3-b793-536b79848cb2@79.127.70.93:2096?security=none&encryption=none&host=www.BugFreeNet.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.35:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@www.speedtest.net:8443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech#👉🆔 @v2ray_configs_pool📡🇺🇸United States
