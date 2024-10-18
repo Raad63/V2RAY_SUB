@@ -1,10 +1,10 @@
-trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=add your host#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=WhatsApp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1UThkUzF1cnY2TW9UdnVKZ3RuUnRi@5.180.45.142:18429#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.64.223:443?path=%2FTelegram-Xv2ry2-4%3Fed%3D1080&security=tls&encryption=none&host=telegram-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.xv2ray.ru&type=ws&sni=python.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.113:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80?path=%2FTelegram-Xv2ry2-4%3Fed%3D2048&security=none&encryption=none&host=telegram-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.xv2ray.ru&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0dc67a94-753e-4ce6-8b0c-ed8e0fea0a06@172.66.44.190:443?path=%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPNDAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPNDAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPNDAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPNDAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN.%40DAS_VPN&security=tls&encryption=none&alpn=http/1.1&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
