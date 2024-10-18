@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.14:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4d20b856-c8a8-49b8-88d8-77ea37be36a3@95.179.248.39:2096?security=reality&encryption=none&pbk=RHl7o7KFArPUZU42UGrfiF7mZxzoxtRbNooZHKuZOA8&headerType=none&fp=firefox&type=tcp&sni=al-islam.org#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://9368976c-0ade-442e-9908-9cc2af183850@209.38.27.239:443?path=%2F3%2Ftutorial%2Findex.html&security=reality&encryption=none&pbk=u-hj22dzaZJu4q8g8jT-ELo7_rTw9HYpOIMBIiec1lo&fp=randomized&type=http&sni=www.python.org&sid=ebb81c967a51#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&security=reality&encryption=none&alpn=h2,http/1.1&authority=&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=f77e5398#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vless://9368976c-0ade-442e-9908-9cc2af183850@209.38.27.239:443?path=%2F3%2Ftutorial%2Findex.html&security=reality&encryption=none&pbk=u-hj22dzaZJu4q8g8jT-ELo7_rTw9HYpOIMBIiec1lo&fp=randomized&type=http&sni=www.python.org&sid=ebb81c967a51#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.44:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?path=%2F%3Fed%3D8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?path=%2F%3Fed%3D8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.66.44.56:443?path=%2F%3Fed%3D8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://19291fa2-8c3b-4891-bfb5-ef8cb1c2c20b@www.speedtest.net:8080?path=%2F%3Fed%3D8880&security=none&encryption=none&host=p3.wWw.speedtest.net.6.7.8.9.cloudflare.cOm.sandycovebeach.cOm.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?path=%2F%3Fed%3D8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.11:443?path=%2FiaB9XFQkNK14OI76%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mAhdisErvEr-A73.PAges.dev&fp=randomized&type=ws&sni=mAHDiSerVEr-a73.PagES.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
