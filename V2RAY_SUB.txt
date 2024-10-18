@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@54.84.31.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@15.188.224.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@15.188.224.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.238.118:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://1dafc8e4-00e3-4fcc-80ae-593105f5e003@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1dafc8e4-00e3-4fcc-80ae-593105f5e003@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a04728bb-ebc0-474d-8784-4eea04124ff5@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://f76054ef-3566-44d4-b920-a9ea4b3f4c26@sg-01.cloudlion.me:8005/#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://f76054ef-3566-44d4-b920-a9ea4b3f4c26@sg-02.cloudlion.me:8005/#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://f76054ef-3566-44d4-b920-a9ea4b3f4c26@ru-01.cloudlion.me:8005/#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+hy2://ra9D9nHtxGQf80uPbfa2f3eY@47.128.157.34:3379/?insecure=1&sni=hsg.fobbc.xyz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://8ba19984-d309-4a0f-b27e-4134c79c3d7b@bgp.abyssvpn.com:31116/?insecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://d479733e-c9b3-4e6e-a9f7-90875dd87d31@seoul3-500m.node.xn--l6qx3lcvp58x.com:22969/?sni=1.nodes.yljc.online#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+hy2://2a12276a-6584-4efb-a5c0-fd91ca530dfc@tr-01.cloudlion.me:8005/#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://ab228da0-a064-4381-8f81-d185b9c50d8a@193.123.229.26:443/?mport=50000-53000&insecure=1&sni=www.hoyoverse.com#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+hy2://bdbd440d-bb7e-4cc9-8dc2-d5e0a2d60f50@152.70.234.101:443/?mport=20000-55000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
