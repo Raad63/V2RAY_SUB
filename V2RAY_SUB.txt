@@ -1,10 +1,10 @@
-vless://22c3edb8-d637-11ee-aaa8-00505603e70d@104.26.10.137:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.254.84.134:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.254.84.134:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.254.84.134:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://3690911436885991424@91.199.84.246:443?security=tls&sni=giving-marmoset.opossum872.cfd&type=tcp&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://3690911436885991424@91.199.84.246:443?security=tls&sni=giving-marmoset.opossum872.cfd&type=tcp&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.133:2083?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.248.29:3306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.133:2083?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.133:2083?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.72:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@139.64.165.115:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.33:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://18f09f4b-9941-4708-a9b1-b685da34bf60@198.41.209.2:443?path=%2F&security=tls&encryption=none&host=meta1.modinso.ir&type=ws&sni=meta1.modinso.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://18f09f4b-9941-4708-a9b1-b685da34bf60@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=meta1.modinso.ir&fp=firefox&type=grpc&serviceName=okala.com&sni=meta1.modinso.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
