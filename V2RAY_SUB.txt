@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.72.145:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.179.237.4:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://560a0f6c-9057-4d18-b88f-6512c2568481@DailyConfigs.fastly80.hosting-ip.com:80?encryption=none&security=none&type=ws&host=Morchechi.ir&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.23.72:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://3a5687b6-9f73-419a-9f66-bf6c18317921@www.speedtest.net:2086?encryption=none&security=none&type=httpupgrade&host=fiNland1.httpupgrademowji.bloG.&path=%2FApaRat.com%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@live.wkrq.com:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.72.145:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://6aca22bd-ddac-4e36-93ce-8586f295735c@199.232.5.153:443?path=%2FVLESS%3Fed%3D2048&allowInsecure=1&security=tls&encryption=none&alpn=h2,http/1.1&host=FullHD.4K.ELiV2RaY.ai&fp=randomized&type=ws&sni=FullHD.4K.ELiV2RaY.ai#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://743e3714-71b5-49ba-deb4-1ef7f44ea555@play.ultrasenal.club:443?security=tls&encryption=none&headerType=none&type=tcp&sni=m.whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://743e3714-71b5-49ba-deb4-1ef7f44ea555@play.ultrasenal.club:443?security=tls&encryption=none&headerType=none&type=tcp&sni=m.facebook.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://743e3714-71b5-49ba-deb4-1ef7f44ea555@play.ultrasenal.club:443?security=tls&encryption=none&headerType=none&type=tcp&sni=m.youtube.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://743e3714-71b5-49ba-deb4-1ef7f44ea555@play.ultrasenal.club:443?security=tls&encryption=none&headerType=none&type=tcp&sni=imo.im#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://743e3714-71b5-49ba-deb4-1ef7f44ea555@play.ultrasenal.club:443?security=tls&encryption=none&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://743e3714-71b5-49ba-deb4-1ef7f44ea555@play.ultrasenal.club:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.pubgmobile.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://743e3714-71b5-49ba-deb4-1ef7f44ea555@play.ultrasenal.club:443?security=tls&encryption=none&headerType=none&type=tcp&sni=market.android.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://743e3714-71b5-49ba-deb4-1ef7f44ea555@play.ultrasenal.club:443?security=tls&encryption=none&headerType=none&type=tcp&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://743e3714-71b5-49ba-deb4-1ef7f44ea555@play.ultrasenal.club:443?security=tls&encryption=none&headerType=none&type=tcp&sni=m.viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
