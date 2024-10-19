@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:5001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWDc3Q3AyQ0hLcThKS1RIdXgyeFVp@13.74.65.144:32935#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.91.102.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.95.180:5000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-v.pages.dev:2053?path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bpb-v.PaGEs.DeV&type=ws&sni=BpB-v.PAgEs.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0d1aba60-3b6b-422a-fd9c-69f0a7a5c897@104.21.28.188:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=join.2.kiava.cloud.speedtest.net.xnmgba2h8quf.cdn.ws102.awscloudfront.net.kiava.fun&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0d1aba60-3b6b-422a-fd9c-69f0a7a5c897@104.21.28.188:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws102.awscloudfront.net.kiava.fun&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0d1aba60-3b6b-422a-fd9c-69f0a7a5c897@104.21.28.188:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws102.awscloudfront.net.kiava.fun&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.63:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.21:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
