@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.42:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.95:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.119:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.74:6697#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://5da4ff75-3c01-459f-a65c-11bbe37801d1@199.232.33.62:443?path=/TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&allowInsecure=1&host=JoinBede-TEHRANARGO.ir&fp=randomized&type=ws&sni=JoinBede-TEHRANARGO.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://5da4ff75-3c01-459f-a65c-11bbe37801d1@199.232.33.62:443?path=/TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO TEL,@TEHRANARGO%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&allowInsecure=1&host=JoinBede-TEHRANARGO.ir&fp=randomized&type=ws&sni=JoinBede-TEHRANARGO.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.47:6697#👉🆔 @v2ray_configs_pool📡🇺🇸United States
