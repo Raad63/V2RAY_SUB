@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.53:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUA2OS41MC45NS41Mzo1NTAw#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEyMC4yMzcuNzkuMTU3IiwgInBvcnQiOiAiNDY2NjUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjNhYzgyMGFmLWJlY2ItNDVkNy05ZTdhLWUzM2QwMjk2MWJiMyIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJ0cm9qYW4uYnVyZ2VyaXAuY28udWsiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NoaW5hIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZGI2NGYxNS02ZDkxLTQ5NTAtODI0Yi05MTVmMTg0MmMxY2E=@soonfrk.soon.guru:40011#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.53:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIzLjE3MC40MC4xMTYiLCAicG9ydCI6ICIxMjM0NSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMGM3ZmUxMDAtZmNjZS00YzZkLTgyMDgtYTUzZjczZTkzZTE3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAid3d3LmJpbmcuY29tIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://0e7579f2-d136-57cd-b2de-c41e49b00c75@151.101.2.133:80?security=none&type=ws&host=mortezatv89.ir&path=%2Fvless#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlZAMTUuMjA0Ljg3LjIxNzo1NDk4#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUUAyMTcuMzAuMTAuMTg6OTA2MA==#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://194a3ee4-550f-4d93-9e69-67210a7131dd@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&fp=randomized&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIzLjE3MC40MC4xMTYiLCAicG9ydCI6ICIxMjM0NSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMGM3ZmUxMDAtZmNjZS00YzZkLTgyMDgtYTUzZjczZTkzZTE3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAid3d3LmJpbmcuY29tIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://194a3ee4-550f-4d93-9e69-67210a7131dd@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
