@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://058f5b19-0b47-482e-8024-445f93876e13@apple-carry-relay.cloudflare.com:2095?path=%2Fwww.cloudflare.com-www.cloudflare.com%3Fed%3D26378&security=none&encryption=none&host=hhgggdug63746-jfjfchg74764.lavazemkhoshina.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://058f5b19-0b47-482e-8024-445f93876e13@apple-carry-relay.cloudflare.com:2095?path=%2Fwww.cloudflare.com-www.cloudflare.com%3Fed%3D26378&security=none&encryption=none&host=hhgggdug63746-jfjfchg74764.lavazemkhoshina.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.66.216:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.53:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@live.wkrq.com:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@live.wkrq.com:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
