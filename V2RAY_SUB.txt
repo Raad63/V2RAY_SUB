@@ -1,10 +1,10 @@
-vless://058f5b19-0b47-482e-8024-445f93876e13@apple-carry-relay.cloudflare.com:2095?path=%2Fwww.cloudflare.com-www.cloudflare.com%3Fed%3D26378&security=none&encryption=none&host=hhgggdug63746-jfjfchg74764.lavazemkhoshina.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://058f5b19-0b47-482e-8024-445f93876e13@apple-carry-relay.cloudflare.com:2095?path=%2Fwww.cloudflare.com-www.cloudflare.com%3Fed%3D26378&security=none&encryption=none&host=hhgggdug63746-jfjfchg74764.lavazemkhoshina.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.66.216:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Watashi_VPN@172.64.149.134:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Watashi_VPN@172.64.149.134:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://fe0836b2-d59d-4d73-8e81-cf4d0b69a27b@winston.ariankaku.top:443?type=tcp&path=%2F&host=alibaba.ir&headerType=http&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://fe0836b2-d59d-4d73-8e81-cf4d0b69a27b@winston.ariankaku.top:443?type=tcp&path=%2F&host=alibaba.ir&headerType=http&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=%2F6b777a91&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=befreewithus.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@188.114.97.159:2053?security=tls&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2Ftr9pU4LSFNK5k8URSo%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
