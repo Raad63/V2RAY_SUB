@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.72.145:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://9b63a6e1-fba0-4ff9-91e4-fd6317dfc57a@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Aqakheylynamardin.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://fe0836b2-d59d-4d73-8e81-cf4d0b69a27b@winston.ariankaku.top:443?type=tcp&path=%2F&host=alibaba.ir&headerType=http&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@xraypsiphon.sassanidempire.com:443?type=ws&host=xraypsiphon.sassanidempire.com&path=/wspath&security=tls&fp=randomized&sni=xraypsiphon.sassanidempire.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://fe0836b2-d59d-4d73-8e81-cf4d0b69a27b@winston.ariankaku.top:443?type=tcp&path=%2F&host=alibaba.ir&headerType=http&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@xraypsiphon.sassanidempire.com:443?type=ws&host=xraypsiphon.sassanidempire.com&path=/wspath&security=tls&fp=randomized&sni=xraypsiphon.sassanidempire.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.179.237.4:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.23.72:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@xraypsiphon.sassanidempire.com:443?type=ws&host=xraypsiphon.sassanidempire.com&path=/wspath&security=tls&fp=randomized&sni=xraypsiphon.sassanidempire.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://aaf8a6c9-aaad-4f85-dd01-9ccd4ca554f9@xraypsiphon.sassanidempire.com:443?type=ws&host=xraypsiphon.sassanidempire.com&path=/wspath&security=tls&fp=randomized&sni=xraypsiphon.sassanidempire.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.26.12.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9387a903-aee5-474b-a18e-6dd8605eab0b@104.19.30.208:443?path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&fp=random&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9387a903-aee5-474b-a18e-6dd8605eab0b@104.19.30.208:443?path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&fp=random&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
