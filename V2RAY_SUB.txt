@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.72:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@139.64.165.115:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.33:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://18f09f4b-9941-4708-a9b1-b685da34bf60@198.41.209.2:443?path=%2F&security=tls&encryption=none&host=meta1.modinso.ir&type=ws&sni=meta1.modinso.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://18f09f4b-9941-4708-a9b1-b685da34bf60@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=meta1.modinso.ir&fp=firefox&type=grpc&serviceName=okala.com&sni=meta1.modinso.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://22c3edb8-d637-11ee-aaa8-00505603e70d@104.26.10.137:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.41:5000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.42:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.56:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.49.119:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d2d54435-dd71-4497-978c-d50c20aedb8e@193.107.48.191:49025?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
