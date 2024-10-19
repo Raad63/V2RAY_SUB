@@ -1,10 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.179.237.4:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3b7ac5ec-ff18-487b-938c-09fedbbfc0a3@172.66.44.243:8443?security=tls&sni=pardazeshvpn-tg57.pages.dev&type=ws&host=pardazeshvpn-tg57.pages.dev&path=%2F&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.133:2053?security=tls&sni=bPB-v.paGeS.Dev&type=ws&host=Bpb-V.pAges.DeV&path=%2F2L33jdhi5qfxGSGH%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?path=%2FvyvNhfXHnkRJCGfd%3Fed%3D2560&security=tls&serviceName=@icv2ray#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&fp=random#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3b7ac5ec-ff18-487b-938c-09fedbbfc0a3@172.66.44.243:8443?security=tls&sni=pardazeshvpn-tg57.pages.dev&type=ws&host=pardazeshvpn-tg57.pages.dev&path=%2F&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@13.49.96.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.133:2053?security=tls&sni=bPB-v.paGeS.Dev&type=ws&host=Bpb-V.pAges.DeV&path=%2F2L33jdhi5qfxGSGH%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.72.145:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.23.72:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.179.237.4:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?security=none&type=ws&host=071ll2532.16965a6a7d.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@104.17.61.133:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
