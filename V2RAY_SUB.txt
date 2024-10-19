@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.196.248:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lr.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.6:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=lr.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.9.157.76:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dr.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.251:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dr.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.119:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lr.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.67:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lr.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.233:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dr.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.140:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dr.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@152.70.242.246:443?path=%2FkGin6LAzD2CKPJ8j%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=SB-1u6.PAgeS.Dev#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.67.200.82:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=lr.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.175.202.195:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=ar.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@140.238.126.148:443?path=%2FkGin6LAzD2CKPJ8j%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=SB-1u6.PAgeS.Dev#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.63:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lr.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.71:443?path=%2Ffreecodes&security=tls&encryption=none&type=ws&sni=lp.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.197:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ar.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.9:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dr.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@143.47.187.101:443?path=%2FkGin6LAzD2CKPJ8j%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=SB-1u6.PAgeS.Dev#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.99:443?path=%2F%3Fproxyip%3Dproxyir.us.fxxr.dedyr.io&security=tls&encryption=none&type=ws&sni=dr.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.170:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ar.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.104:443?path=%2F%3Fproxyip%3Dproxyir.us.fxxr.dedyr.io&security=tls&encryption=none&type=ws&sni=dr.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
