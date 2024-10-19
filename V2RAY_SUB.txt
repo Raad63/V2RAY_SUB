@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6697#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJ2IjogIjIiLCAiYWRkIjogInJ1c3NpYS5jb20iLCAicG9ydCI6IDIwOTUsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsICJob3N0IjogImlwMTEuNjAxNjcyNS54eXoiLCAicGF0aCI6ICIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIzLjE3MC40MC4xMTYiLCAicG9ydCI6ICIxMjM0NSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMGM3ZmUxMDAtZmNjZS00YzZkLTgyMDgtYTUzZjczZTkzZTE3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAid3d3LmJpbmcuY29tIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
-vless://3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@live.wkrq.com:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.113.6.44:443#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.218:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c4439ad6-9fd8-42af-b937-64450bb9c455@81.12.27.85:14551?security=none&type=ws&host=%40FergalVpnMod&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.53:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUA2OS41MC45NS41Mzo1NTAw#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEyMC4yMzcuNzkuMTU3IiwgInBvcnQiOiAiNDY2NjUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjNhYzgyMGFmLWJlY2ItNDVkNy05ZTdhLWUzM2QwMjk2MWJiMyIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJ0cm9qYW4uYnVyZ2VyaXAuY28udWsiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NoaW5hIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZGI2NGYxNS02ZDkxLTQ5NTAtODI0Yi05MTVmMTg0MmMxY2E=@soonfrk.soon.guru:40011#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.53:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0e7579f2-d136-57cd-b2de-c41e49b00c75@151.101.2.133:80?security=none&type=ws&host=mortezatv89.ir&path=%2Fvless#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlZAMTUuMjA0Ljg3LjIxNzo1NDk4#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUUAyMTcuMzAuMTAuMTg6OTA2MA==#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
