@@ -1,10 +1,10 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.21:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ds.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.98:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=cr.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.114:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dt.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@109.172.95.93:443?path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=bpB005.paGeS.DEv#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.96:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lt.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@176.97.72.18:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=ls.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.236:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=as.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.232:443?path=%2Ffreecodes&security=tls&encryption=none&type=ws&sni=as.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.135:8443?path=%2Ffxhhv799mihz1xxp%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=bPb005.paGes.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.109:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=lr.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.24:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dr.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.116:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lt.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.237:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lt.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.185:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ds.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.84:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=as.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.196:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lr.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.130:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ct.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.254:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lr.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
