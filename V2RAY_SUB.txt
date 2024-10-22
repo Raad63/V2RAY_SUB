@@ -1,10 +1,10 @@
-vless://%50a%72sa%73%68%6fna%6d-82@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@5.104.75.252:8443?security=tls&sni=sB-1U6.PAgeS.deV&type=ws&path=%2Fbdbeqy5r01xte4fl%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@172.67.139.111:443?security=tls&sni=Pages.dev&type=ws&host=1v-2wk.pages.dev&path=%2FTelegram-%58v2ry2-5%3Fed%3D512#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.215:443?security=tls&sni=ds.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@5.104.75.252:8443?security=tls&sni=sB-1U6.PAgeS.deV&type=ws&path=%2Fbdbeqy5r01xte4fl%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://25dc75f9-b944-46bd-b36d-408b4a0879d8@104.21.59.216:443?security=tls&sni=furina.thelastronin.cloudns.org&type=ws&host=furina.thelastronin.cloudns.org&path=%2F&fp=random&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.35:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.215:443?security=tls&sni=ds.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.213.232:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.213.232:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@172.67.139.111:443?security=tls&sni=Pages.dev&type=ws&host=1v-2wk.pages.dev&path=%2FTelegram-%58v2ry2-5%3Fed%3D512#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d0f9437f-3c49-45c6-976b-ebea24158b39@5.10.245.15:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://25dc75f9-b944-46bd-b36d-408b4a0879d8@104.21.59.216:443?security=tls&sni=furina.thelastronin.cloudns.org&type=ws&host=furina.thelastronin.cloudns.org&path=%2F&fp=random&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@5.10.245.15:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
