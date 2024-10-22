@@ -1,10 +1,10 @@
-vless://110ef14f-276f-451f-9fe5-65b4c1898d55@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://%53%56NTEAM@104.17.234.128:8080?path=%2Ftelegram-%53%56NTEAM%3Fed%3D2056&security=none&encryption=none&host=JOIN.%53%56NTEAM.ger.speedtest.net.FiSvn.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://%50a%72sa%73%68%6fna%6d-83@Zmaoz.Faculty.Ucdavis.Edu:443?type=grpc&serviceName=Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://telegram-%41%66v2R%61y@re.iranfastfod.ir:8443?security=reality&encryption=none&pbk=0LI5bDltMLiL2_W9Sl4xp60UGlznmgR-b6TbsKFtKG4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=96c7#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://%53%56NTEAM@104.17.234.128:8080?path=%2Ftelegram-%53%56NTEAM%3Fed%3D2056&security=none&encryption=none&host=JOIN.SVNTEAM.eng.speedtest.net.FiSvn.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://94aa7030-2292-453d-b6ff-7f26ca3e7b56@www.speedtest.net:8443?type=grpc&serviceName=Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://94aa7030-2292-453d-b6ff-7f26ca3e7b56@www.speedtest.net:8443?type=grpc&serviceName=Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://94aa7030-2292-453d-b6ff-7f26ca3e7b56@104.17.234.128:443?type=grpc&serviceName=Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://94aa7030-2292-453d-b6ff-7f26ca3e7b56@104.17.234.128:443?type=grpc&serviceName=Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://110ef14f-276f-451f-9fe5-65b4c1898d55@104.17.234.128:443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://94aa7030-2292-453d-b6ff-7f26ca3e7b56@104.18.165.38:8443?type=grpc&serviceName=Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.102.71:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://94aa7030-2292-453d-b6ff-7f26ca3e7b56@104.18.165.38:8443?type=grpc&serviceName=Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://110ef14f-276f-451f-9fe5-65b4c1898d55@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=esetsecuritylicense.mtgmn.workers.dev&type=ws&sni=esetsecuritylicense.mtgmn.workers.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=esetsecuritylicense.mtgmn.workers.dev&type=ws&sni=esetsecuritylicense.mtgmn.workers.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://ef3eab60-d9fc-4e22-c4c8-4d50826757f2@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://ef3eab60-d9fc-4e22-c4c8-4d50826757f2@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://19291fa2-8c3b-4891-bfb5-ef8cb1c2c20b@www.speedtest.net:8080?path=%2F%3Fed%3D8880&security=none&encryption=none&host=p3.wWw.speedtest.net.6.7.8.9.cloudflare.cOm.sandycovebeach.cOm.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
