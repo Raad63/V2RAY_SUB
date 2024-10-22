@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.192:443?security=tls&sni=ls.ylks01.eu.org&type=ws&path=%2Ffreecodes#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6c76e884-b9cf-4e3c-b308-6f61d891f886@151.101.0.155:80?security=none&type=ws&host=Abnabat2chobi.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.192:443?security=tls&sni=ls.ylks01.eu.org&type=ws&path=%2Ffreecodes#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.177:2096?security=tls&sni=Sb-1U6.paGES.deV&type=ws&path=%2Fs6rb9yyj3qaak606%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.192:443?security=tls&sni=ls.ylks01.eu.org&type=ws&path=%2Ffreecodes#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.197:443?security=tls&sni=lu.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.166:443?security=tls&sni=as.ylks.xyz&type=ws&path=%2F%3Fproxyip%3Dproxyis.us.fxxs.dedys.io#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.166:443?security=tls&sni=as.ylks.xyz&type=ws&path=%2F%3Fproxyip%3Dproxyis.us.fxxs.dedys.io#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.197:443?security=tls&sni=lu.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.177:2096?security=tls&sni=Sb-1U6.paGES.deV&type=ws&path=%2Fs6rb9yyj3qaak606%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.70:443?security=tls&sni=lu.ylks01.eu.org&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.70:443?security=tls&sni=lu.ylks01.eu.org&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://ID-ViraV2ray-1660@hajlab.ucdavis.edu:443?security=tls&alpn=h2,http/1.1&fp=firefox&sni=hajlab.ucdavis.edu&type=ws&path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&host=pussy-nookian.com&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ID-ViraV2ray-8022@104.19.150.10:2053?type=httpupgrade&path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&host=PuSsY.SoFt980.iR&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=PuSsY.SoFt980.iR#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ID-ViraV2ray-2834@104.19.150.10:2095?type=httpupgrade&path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&host=PuSsY.SoFt980.iR&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://ID-ViraV2ray-2834@104.19.150.10:2095?type=httpupgrade&path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&host=PuSsY.SoFt980.iR&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@125.136.53.240:12391?security=tls&sni=dt.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
