@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.88.47:443?security=tls&sni=lt.ylks01.eu.org&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://2b47debd-d627-11ee-aaa8-00505603e70d@104.26.11.137:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.237:443?security=tls&sni=lt.ylks01.eu.org&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://86c08638-1eaa-42ff-a71e-704d1a2bf27f@79.127.70.84:443?security=none&type=tcp&host=www.@Fergalvpnmod.net&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.172:443?security=tls&sni=lu.ylks01.eu.org&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://682844c1-ee62-4517-b5c9-8f75b3f47af4@151.101.64.155:80?security=none&type=ws&host=Abdarchiejahanam5.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.22.37.243:2052?security=none&sni=Eddt-test.restvpn1.workers.deV&type=ws&host=Eddt-test.restvpn1.workers.deV&path=%2FLc9j0uf163JnJbJJ%3Fed%3D2560&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@104.17.147.22:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://cd6043f7-988a-4435-9c62-94e9a3231d12@95.217.176.106:55440?security=none&type=httpupgrade&host=speedtest.net&path=%2F#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.116:443?security=tls&sni=au.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.88.47:443?security=tls&sni=lt.ylks01.eu.org&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.88.47:443?security=tls&sni=lt.ylks01.eu.org&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.237:443?security=tls&sni=lt.ylks01.eu.org&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://86c08638-1eaa-42ff-a71e-704d1a2bf27f@79.127.70.84:443?security=none&type=tcp&host=www.@Fergalvpnmod.net&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.237:443?security=tls&sni=lt.ylks01.eu.org&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://86c08638-1eaa-42ff-a71e-704d1a2bf27f@79.127.70.84:443?security=none&type=tcp&host=www.@Fergalvpnmod.net&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://682844c1-ee62-4517-b5c9-8f75b3f47af4@151.101.64.155:80?security=none&type=ws&host=Abdarchiejahanam5.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://682844c1-ee62-4517-b5c9-8f75b3f47af4@151.101.64.155:80?security=none&type=ws&host=Abdarchiejahanam5.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
