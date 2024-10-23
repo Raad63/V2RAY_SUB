@@ -1,10 +1,10 @@
-vless://c604a918-7a77-4361-afda-95e38f0587fd@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Sarmayed3aran.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c604a918-7a77-4361-afda-95e38f0587fd@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Sarmayed3aran.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ad553eea-ca76-4bc6-8146-47bba50b47fe@45.83.143.251:12280?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
-vless://ad553eea-ca76-4bc6-8146-47bba50b47fe@45.83.143.251:12280?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.92.71:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://fd130ae4-6395-4006-b2c0-1bb2f057b39a@45.83.143.251:47540?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
-vless://60c245ce-18c0-429b-9653-1bb5efe105c1@87.248.133.220:23079?path=%2F&security=none&encryption=none&type=splithttp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://60c245ce-18c0-429b-9653-1bb5efe105c1@45.83.143.251:23079?path=%2F&security=none&encryption=none&type=splithttp#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
-vless://fd130ae4-6395-4006-b2c0-1bb2f057b39a@45.83.143.251:47540?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
 vless://fd130ae4-6395-4006-b2c0-1bb2f057b39a@87.248.133.220:47540?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://ad553eea-ca76-4bc6-8146-47bba50b47fe@87.248.133.220:12280?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://ad553eea-ca76-4bc6-8146-47bba50b47fe@87.248.133.220:12280?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://c604a918-7a77-4361-afda-95e38f0587fd@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Sarmayed3aran.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c604a918-7a77-4361-afda-95e38f0587fd@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Sarmayed3aran.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
