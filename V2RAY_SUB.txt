@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw@51.222.157.179:49602#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vmess://eyJhZGQiOiAiUGFyc1Zkcy5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgImlkIjogIjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.92.85:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@99.80.101.8:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 trojan://telegram-id-privatevpns@18.196.76.204:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@69.50.92.55:9102#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.95.180:5000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.166.88.198:4444#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FDTu8tAwDRUL1IijE%3Fed%3D2560..%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D.%40BugFreeNet%5B%40AB_841%5D&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-9ec.pages.dev&fp=randomized&type=ws&sni=BPb-WORKer-PanEL-9EC.pAgEs.Dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.180:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4xODIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@80.92.204.106:9010#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@52.28.242.93:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
