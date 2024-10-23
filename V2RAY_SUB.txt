@@ -1,10 +1,10 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.71:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.172.180:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHcnUuYS1YZ0t6WSs9Tmxf@167.88.62.50:1723#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.92.71:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://d27d7215-4457-4718-b228-6a0551965e35@Flux.LiveFrameAI.top:8443?security=reality&encryption=none&pbk=ujjyJoPM7zrXpFmQMDbmN_nWcOsH7eE5-a8qqd0zjQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dalfak.com&sid=a8a25f0af91f7817#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://f5979a06-fd75-439a-8ba6-080836a8467a@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1aaf4535-9817-420a-bc34-1c9c2b3364a9@172.67.171.49:443?security=tls&sni=ua1.v2vless.site&type=ws&host=ua1.v2vless.site&path=%2Fvless#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.87.161:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
