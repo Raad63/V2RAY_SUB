@@ -1,10 +1,10 @@
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.61.8:2083?path=%2Fws&security=tls&encryption=none&alpn=http/1.1&host=cpanel3.sassanidempire.com&fp=chrome&type=ws&sni=cpanel3.sassanidempire.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.61.8:2083?path=%2Fws&security=tls&encryption=none&alpn=http/1.1&host=cpanel3.sassanidempire.com&fp=chrome&type=ws&sni=cpanel3.sassanidempire.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://1d93eae1-ef79-44ad-b5f2-02e336ec59de@199.232.5.159:443?security=tls&sni=JoinBde.ELiV2RaY.io&type=ws&host=JoinBde.ELiV2RaY.io&path=%3Fed%3D2560&fp=random&alpn=h3,h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.60.8:2083?path=%2Fws&security=tls&encryption=none&alpn=http/1.1&host=cpanel3.sassanidempire.com&type=ws&sni=cpanel3.sassanidempire.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443/?type=ws&encryption=none&host=bpb-worker-panel1-e4p.pages.dev&path=%2FYE8wFQQnzARDsNUP%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV&alpn=http%2F1.1&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443/?type=ws&encryption=none&host=119f3a0b.chikiy123w.pages.dev&path=%40v2rayngzendegimamad%2F%3Fed%3D2048&security=tls&sni=119f3a0b.chikiy123w.pages.dev&fp=randomized#👉🆔 @v2ray_configs_pool📡🇺🇸United States
