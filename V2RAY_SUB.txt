@@ -1,10 +1,10 @@
+trojan://azadnet-trojan@104.21.36.165:443?path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=xn----pmcnaac0dkn0rb71nda.pages.dev&fp=randomized&type=ws&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@104.25.254.4:2087?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://9yu6m5okr@172.67.198.177:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.69.44:2096?path=trojan-ws%2F%3Fed&security=tls&host=trojan.trojan0.woRkeRS.deV&type=ws&sni=trojan.trojan0.woRkeRS.deV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://9yu6m5okr@104.21.50.5:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@172.64.150.145:443?path=%2FtrC8BM8bTsAF0AnLYL%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=mindroom-5cz.pages.dev&fp=chrome&type=ws&sni=mindrOOm-5cz.pAgEs.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://auto@172.67.213.48:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=esetsecuritylicense2.wawafec355.workers.dev&fp=randomized&type=ws&sni=esetsecuritylicense2.wawafec355.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://bpb-trojan@172.66.44.141:2083?path=%2FtrMK2zs2naPJSgJ7Pr%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=fb0887ca.bpb-worker-panel-e3c.pages.dev&fp=randomized&type=ws&sni=fB0887ca.BPB-WorkEr-pAnel-e3c.paGes.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://trojan@104.21.3.52:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=test-a23.pages.dev&fp=chrome&type=ws&sni=test-a23.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://bpb-trojan@185.176.24.2:443?path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-trojan://bpb-trojan@104.18.37.111:443?path=%2FtrC8BM8bTsAF0AnLYL%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=mindroom-5cz.pages.dev&fp=chrome&type=ws&sni=mindrOOm-5cz.pAgEs.dEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@172.67.180.238:443?path=%2Ftrep2km0aVhJcl29WO%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403b3611-99BC-43B7-88d7-26eD5D0825A9-3.PAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N3JiSWt6QlhleUJVeVBDcTRueUFO@13.74.65.20:42492#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRURMYVVFSFgwYTBVdnlqem13amgz@13.74.71.116:25579#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2UDhzbkRhdGcwOTdjMTlBM2VZUGpV@51.120.10.54:4567#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
