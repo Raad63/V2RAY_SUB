@@ -1,10 +1,10 @@
-vless://febb4e05-e105-4dde-bb3f-d42074d461ec@79.127.70.83:443?security=none&encryption=none&host=www.%40FergalVpnMod.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://Telegram___lombo_channel@speedtest.net:443?path=ws%2F%3Fed%3D2048%2Clombo_channel%2Clombo_channel%2Clombo_channel&security=tls&encryption=none&host=aminderonami.com&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://febb4e05-e105-4dde-bb3f-d42074d461ec@79.127.70.83:443?security=none&encryption=none&host=www.%40FergalVpnMod.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://Telegram___lombo_channel@speedtest.net:80?path=ws%2F%3Fed%3D2048%2Clombo_channel%2Clombo_channel%2Clombo_channel&security=none&encryption=none&host=aminderonami.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://Telegram___lombo_channel@speedtest.net:443?path=ws%2F%3Fed%3D2048%2Clombo_channel%2Clombo_channel%2Clombo_channel&security=tls&encryption=none&host=aminderonami.com&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@162.159.192.149:443?path=%2Fmobilesignal%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@3.67.65.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@3.67.65.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@3.67.65.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://telegram-id-privatevpns@52.30.85.89:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://Telegram___lombo_channel@speedtest.net:443?path=ws%2F%3Fed%3D2048%2Clombo_channel%2Clombo_channel%2Clombo_channel&security=tls&encryption=none&host=aminderonami.com&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@162.159.192.149:443?path=%2Fmobilesignal%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@162.159.192.149:443?path=%2Fmobilesignal%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
