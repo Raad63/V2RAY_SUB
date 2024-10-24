@@ -1,10 +1,10 @@
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.217.52.24:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@112.120.127.246:19?path=%2F%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=lu.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.145.217.226:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=lv.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@45.154.3.92:443?path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=bpB005.paGeS.DEv#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.244.210:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=av.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.50:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=av.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.50:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=av.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.121.194:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=lv.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.42:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=lt.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.113:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=lu.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.202.167:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=av.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.43:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=lv.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.240:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=lv.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.42:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=av.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
