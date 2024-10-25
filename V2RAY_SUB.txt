@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.230:443?security=tls&sni=lw.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.42:443?security=tls&sni=la.ylka.us.kg&type=ws&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://e481c368-59a0-471d-ad54-b08292c6e32b@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitT.CoM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@92.53.190.248:2096?security=tls&sni=Bpb005.pageS.dev&type=ws&path=%2Fhzhfpw9GKziUpYAD%2FMTUyLjY3LjIzNC40OQ%3D%3D%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇮Slovenia
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@207.174.31.150:443?security=tls&sni=cw.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.230:443?security=tls&sni=lw.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.138:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@92.53.190.248:2096?security=tls&sni=Bpb005.pageS.dev&type=ws&path=%2Fhzhfpw9GKziUpYAD%2FMTUyLjY3LjIzNC40OQ%3D%3D%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇮Slovenia
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.230:443?security=tls&sni=lw.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://e481c368-59a0-471d-ad54-b08292c6e32b@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitT.CoM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://ccaabba-caab-bcaa-bacd-abacabacccbb@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://telegram-id-directvpn@34.226.4.207:22222?sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@207.174.31.150:443?security=tls&sni=cw.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://90f2ef37-6398-4567-a0bb-447eec01ccfb@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
