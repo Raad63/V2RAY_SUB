@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://blue2024@104.18.160.63:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-trojan://blue2024@104.18.160.63:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://DailyConfigs@172.67.204.84:443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.113:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://tg-dns68@162.159.153.183:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://DailyConfigs@172.67.204.84:443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.113:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@104.18.160.63:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9c4810cd-cafe-4df3-88a6-fa36f14ba573@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://64658da1-85dd-4309-8530-5551e7e026ab@Enim.ImageFlowAI.ir:2083?security=reality&encryption=none&pbk=Ih-LCrE9WvUVrHWS5w7YfFvI6Ugzh22dh5kHGqu4Xkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filimo.com&sid=2a10fd1c8a11efe8#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://64658da1-85dd-4309-8530-5551e7e026ab@Enim.ImageFlowAI.ir:2083?security=reality&encryption=none&pbk=Ih-LCrE9WvUVrHWS5w7YfFvI6Ugzh22dh5kHGqu4Xkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filimo.com&sid=2a10fd1c8a11efe8#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
