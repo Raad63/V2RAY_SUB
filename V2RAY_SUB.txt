@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjU1LjIzNy4yNDk6NDQz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMTAuMzMuMjExOjQ0Mw==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuODcuMTg1LjI0ODo0NDM=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC4yMTE6NDQz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjA5LjEwMy4yNTQ6NDQz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.136:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snappshop.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snappshop.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://%50a%72sa%73%68%6fna%6d-89@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4SWphUzViMXFBT1ppVW4wVlF5b01M@81.19.141.45:52873#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjaFp0MDcyQlBDZExyR2UzNm4ybGR0@51.158.252.130:443#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://69c21ef5-7bf5-4493-8d15-e29d06bd6ead@www.speedtest.net:8080?path=%2FG%2Fb4t6hy5n%2F%3Fed%3D80120&security=none&encryption=none&host=test.flnsho.store.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC4yMTE6NDQz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?path=6b777a91&security=tls&host=avianrecruit.com&type=ws&sni=avianrecruit.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?path=%2F6b777a91&security=tls&host=sherasheba.com&type=ws&sni=sherasheba.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@104.17.147.22:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http%2F1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bd2914ed-69b1-4533-a7f0-929527541c35@104.24.196.20:80?path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80&security=none&encryption=none&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?path=6b777a91&security=tls&host=avianrecruit.com&type=ws&sni=avianrecruit.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?path=%2F6b777a91&security=tls&host=sherasheba.com&type=ws&sni=sherasheba.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
