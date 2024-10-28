@@ -1,10 +1,10 @@
 trojan://Tel-DailyConfigs@104.18.6.21:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://tg-dns68@162.159.153.68:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.179.224.170:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://6c27e859-9870-455b-b938-1ef4ddf62843@151.101.2.133:443?security=tls&sni=live.wkrq.com&type=ws&host=%55%4e%4c%49%4d%49%54%45%44%44%45%56.zr.ir&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://tg-dns68@162.159.153.68:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://76a94950-eaf0-4389-9f8a-58c7de45e52d@89.47.197.39:4001?security=none&encryption=none&host=zara.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://6c27e859-9870-455b-b938-1ef4ddf62843@151.101.2.133:443?security=tls&sni=live.wkrq.com&type=ws&host=%55%4e%4c%49%4d%49%54%45%44%44%45%56.zr.ir&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6c27e859-9870-455b-b938-1ef4ddf62843@151.101.2.133:443?security=tls&sni=live.wkrq.com&type=ws&host=%55%4e%4c%49%4d%49%54%45%44%44%45%56.zr.ir&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.177.178.118:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://auto@172.67.75.208:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://64e0ee38-2874-3f3f-b7d2-34f5a03cbaab@103.136.185.28:3511?sni=steampipe-partner.akamaized.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://76a94950-eaf0-4389-9f8a-58c7de45e52d@89.47.197.39:4001?security=none&encryption=none&host=zara.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
