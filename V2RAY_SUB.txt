@@ -1,10 +1,10 @@
-trojan://blue2024@173.245.49.162:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#👉🆔 @v2ray_configs_pool📡🇮🇳India
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.203:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.84:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://ASRpD3DYlZTNagqjxKS2BcF39y3y8DO30e85zCZXaCau6EO7RwxF4YAIenplSC@tobster.freetrade.link:28343?security=tls&headerType=none&type=tcp&sni=tobster.freetrade.link#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.254.240:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#👉🆔 @v2ray_configs_pool📡🇨🇳China
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.203:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#👉🆔 @v2ray_configs_pool📡🇮🇳India
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.203:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://tg-dns68@162.159.152.232:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@funnelytics.io:8443?type=grpc&serviceName=Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG&mode=multi&security=tls&encryption=none&path=/%54e%6ce%67ra%6d,%56%50N%43%55%53T%4fM%49%5a%45%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=%6aoin.bede.%56%50N%43%55%53T%4fM%49%5a%45.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=%6aoin.bede.%56%50N%43%55%53T%4fM%49%5a%45.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.17.234.114:8443?type=grpc&serviceName=Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG&mode=multi&security=tls&encryption=none&path=/%54e%6ce%67ra%6d,%56%50N%43%55%53T%4fM%49%5a%45%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=%6aoin.bede.%56%50N%43%55%53T%4fM%49%5a%45.www.speedtest.net.nl.Powerfullserver.de&fp=chrome&type=ws&sni=%6aoin.bede.%56%50N%43%55%53T%4fM%49%5a%45.www.speedtest.net.nl.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@63.35.42.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://0bb2fc37-62b1-498f-bdbb-7432e479a020@109.94.165.248:8094?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://0bb2fc37-62b1-498f-bdbb-7432e479a020@109.94.165.248:8094?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://0bb2fc37-62b1-498f-bdbb-7432e479a020@109.94.165.248:8094?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://0bb2fc37-62b1-498f-bdbb-7432e479a020@109.94.165.248:8094?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.89.172:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
