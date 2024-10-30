@@ -1,10 +1,10 @@
-vless://699c4dbd-e082-47ca-c62b-9e9de927d4b8@sahanbit.menaka.online:443?security=tls&encryption=none&headerType=none&type=tcp&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://699c4dbd-e082-47ca-c62b-9e9de927d4b8@sahanbit.menaka.online:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://699c4dbd-e082-47ca-c62b-9e9de927d4b8@sahanbit.menaka.online:443?security=tls&encryption=none&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://699c4dbd-e082-47ca-c62b-9e9de927d4b8@sahanbit.menaka.online:443?security=tls&encryption=none&headerType=none&type=tcp&sni=google.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://699c4dbd-e082-47ca-c62b-9e9de927d4b8@sahanbit.menaka.online:443?security=tls&encryption=none&headerType=none&type=tcp&sni=gstatic.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://699c4dbd-e082-47ca-c62b-9e9de927d4b8@sahanbit.menaka.online:443?security=tls&encryption=none&headerType=none&type=tcp&sni=static.whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://699c4dbd-e082-47ca-c62b-9e9de927d4b8@sahanbit.menaka.online:443?security=tls&encryption=none&headerType=none&type=tcp&sni=host#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MWFCZDZJSklnRndUMWxxY29qU3pL@52.164.203.76:20143/?outline=1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitTNeW.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMjA2LjIzOC4yMzYuMzYiLCAiYWlkIjogMCwgImhvc3QiOiAibXlzYW4yLmphcXVheTIyLndvcmtlcnMuZGV2IiwgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enovbGlua3dzIiwgInBvcnQiOiAyMDUyLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibXlzYW4yLmphcXVheTIyLndvcmtlcnMuZGV2IiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjU2luZ2Fwb3JlIn0=
+vless://5fecde22-247a-462d-aab0-ce945f5616dc@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitTNeW.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://699c4dbd-e082-47ca-c62b-9e9de927d4b8@sahanbit.menaka.online:443?security=tls&encryption=none&headerType=none&type=tcp&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Abdarchiejahanam5.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
