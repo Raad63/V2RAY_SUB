@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@3.9.77.231:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://blue2024@173.245.49.162:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b9a4b21f-e2db-4dc0-a78c-c6a800805d95@104.17.234.128:443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-directvpn@3.9.77.231:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://bpb-trojan@172.66.44.141:2083?security=tls&type=ws&sni=fB0887ca.BPB-WorkEr-pAnel-e3c.paGes.DeV&path=/trMK2zs2naPJSgJ7Pr?ed=2560&host=fb0887ca.bpb-worker-panel-e3c.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b9a4b21f-e2db-4dc0-a78c-c6a800805d95@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@3.9.77.231:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://blue2024@173.245.49.162:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://b9a4b21f-e2db-4dc0-a78c-c6a800805d95@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b9a4b21f-e2db-4dc0-a78c-c6a800805d95@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@172.66.44.141:2083?security=tls&type=ws&sni=fB0887ca.BPB-WorkEr-pAnel-e3c.paGes.DeV&path=/trMK2zs2naPJSgJ7Pr?ed=2560&host=fb0887ca.bpb-worker-panel-e3c.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b9a4b21f-e2db-4dc0-a78c-c6a800805d95@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇺🇸United States
