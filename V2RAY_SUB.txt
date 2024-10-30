@@ -1,10 +1,10 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig.drroyazare.ir:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://7d3020a1-f293-4442-86ca-392b533fd0b4@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&fp=firefox&type=ws&path=/%54%65%6C%65%67%72%61%6D:%40%76%6D%65%73%73%6F%72%67-%54%65%6C%65%67%72%61%6D:%40%76%6D%65%73%73%6F%72%67-%54%65%6C%65%67%72%61%6D%3A%40%76%6D%65%73%73%6F%72%67?ed%3D8880&host=%54%45%4C.%56%4D%45%53%53%4F%52%47.http.www.speedtest.net.fast.com.vmessorgg.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://51b8d161-20da-4aeb-8454-c3a0d1d2d442@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN---@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN?ed%3D8880&host=Moft_VPN.net&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5eb32d76-7b18-4e01-fa09-99fc5424712a@103.215.221.219:20425/?type=ws&encryption=none&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5eb32d76-7b18-4e01-fa09-99fc5424712a@103.215.221.219:20425/?type=ws&encryption=none&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5eb32d76-7b18-4e01-fa09-99fc5424712a@103.215.221.219:20425/?type=ws&encryption=none&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@104.21.54.192:8080/?type=ws&encryption=none&host=lc71.lebasnoo.ir.&path=%2Fservernett#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.216.240.225:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
