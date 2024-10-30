@@ -1,10 +1,10 @@
 vless://%50a%72sa%73%68%6fna%6d-91@185.146.173.39:8880?path=%2F#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://cbbcaaa-abca-acba-cbda-aaabcbbbccca@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.1.131:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://%50a%72sa%73%68%6fna%6d-91@185.146.173.39:8880?path=%2F#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.16:5001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://%50a%72sa%73%68%6fna%6d-91@185.146.173.39:8880?path=%2F#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=%2FYE8wFQQnzARDsNUP%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇲🇽Mexico
-vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=%2FYE8wFQQnzARDsNUP%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA@80.92.204.106:9061#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://%50a%72sa%73%68%6fna%6d-91@185.146.173.39:8880?path=%2F#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.101.11:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://bm9uZTpiY2JhYWNhLWFiY2EtYWNhYi1kYWNiLWNhY2JhY2NhYmJhYg==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://0183c5f5-482f-4481-bd18-bb3c4e211392@108.162.193.212:443?security=tls&sni=newt.ns.cloudflare.com&path=%2F%40%55nlimitedDev%40%55nlimitedDev-%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%3Fed%3D8080&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0183c5f5-482f-4481-bd18-bb3c4e211392@108.162.193.212:443?security=tls&sni=newt.ns.cloudflare.com&path=%2F%40%55nlimitedDev%40%55nlimitedDev-%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%40%55nlimitedDev%3Fed%3D8080&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
