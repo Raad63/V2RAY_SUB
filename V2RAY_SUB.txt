@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.77.53.200:5601#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdW45b0ZEN255c2txaEhzQ1hYeFg5@92.118.112.111:18622#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGQ09SNEpGb3hhOVI5SGs1bHBGTTl3@77.83.246.74:33320#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7002#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3b1ZoNGNCZ241OTc1MjBBUjFhb25Y@77.83.246.74:33320#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGQ09SNEpGb3hhOVI5SGs1bHBGTTl3@77.83.246.74:33320#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://%50a%72sa%73%68%6fna%6d-91@185.146.173.39:8880?path=%2F#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#👉🆔 @v2ray_configs_pool📡🇵🇾Paraguay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UEM0S3p0UXdSaXhDUzgwOVpGRWxsUXBtQU1uNG9FME85cWRyQ1lvNE1kRVhKVTU3N2NqWWVhRzB0WkR5Umww@ist1.fromblancwithlove.com:21657#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.53:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3b1ZoNGNCZ241OTc1MjBBUjFhb25Y@77.83.246.74:33320#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UEM0S3p0UXdSaXhDUzgwOVpGRWxsUXBtQU1uNG9FME85cWRyQ1lvNE1kRVhKVTU3N2NqWWVhRzB0WkR5Umww@95.173.180.35:21657#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.101:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://01c30a46-117e-4b5b-91d5-571f46006b1f@freedom-ge.proxy-mtm.com:4884?security=reality&encryption=none&pbk=3TrvJr0BfbCPdv-e4LZcUBotYcuifQZH3YER8FIZcS4&headerType=none&fp=chrome&spx=%2F%2FTelegram-------%40PROXY_MTM-_-_-_-Telegram-------%40PROXY_MTM-%40PROXY_MTM-%40PROXY_MTM-PROXY_MTM-%40PROXY_MTM-%40PROXY_MTM&type=tcp&sni=business.stackoverflow.com&sid=6d256a141a9ccb53#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://01c30a46-117e-4b5b-91d5-571f46006b1f@freedom-ge.proxy-mtm.com:4884?security=reality&encryption=none&pbk=3TrvJr0BfbCPdv-e4LZcUBotYcuifQZH3YER8FIZcS4&headerType=none&fp=chrome&spx=%2F%2FTelegram-------%40PROXY_MTM-_-_-_-Telegram-------%40PROXY_MTM-%40PROXY_MTM-%40PROXY_MTM-PROXY_MTM-%40PROXY_MTM-%40PROXY_MTM&type=tcp&sni=business.stackoverflow.com&sid=6d256a141a9ccb53#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.67.68.101:443?path=%2Fvlees_v2rayng%3Fed%3D2560&security=tls&encryption=none&host=ISAa1.PAGeS.deV&type=ws&sni=IsaA1.pAgEs.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
