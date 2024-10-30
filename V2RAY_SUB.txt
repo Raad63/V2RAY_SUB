@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ@217.30.10.70:9044#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=poORiaReD--PErsePOlIs.PagES.DEv&fp=randomized&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=poORiaReD--PErsePOlIs.PagES.DEv&fp=randomized&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UEM0S3p0UXdSaXhDUzgwOVpGRWxsUXBtQU1uNG9FME85cWRyQ1lvNE1kRVhKVTU3N2NqWWVhRzB0WkR5Umww@95.173.180.35:21657#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vmess://eyJhZGQiOiAiMTI4LjIwNC4yMjMuNDIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjYyNjA4N2ZhLWZkYjktNDAzYy05MGM2LTNmYjQ5NGEyMjUxMyIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogIkBNX0J1eSIsICJwb3J0IjogIjM1OTY0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjFQb2xhbmQifQ==
-ss://YWVzLTI1Ni1jZmI6UGVIU0htNVNxRWpCdUVYRQ@45.89.52.66:9065#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.166.88.198:3306#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@80.92.204.106:9015#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@45.89.52.66:9041#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
