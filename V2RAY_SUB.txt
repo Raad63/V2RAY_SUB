@@ -1,10 +1,10 @@
-vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.66.44.56:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3df56fd0-d1b7-4793-b877-acd356d960f3@zula.ir:443?security=tls&sni=pages.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=aestingdownloadupload.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3df56fd0-d1b7-4793-b877-acd356d960f3@zula.ir:443?security=tls&sni=pages.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=aestingdownloadupload.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://3df56fd0-d1b7-4793-b877-acd356d960f3@45.67.215.4:443?security=tls&sni=pages.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=aestingdownloadupload.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://%50a%72sa%73%68%6fna%6d-91@185.146.173.39:8880?path=%2F#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3df56fd0-d1b7-4793-b877-acd356d960f3@zula.ir:443?security=tls&sni=pages.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=aestingdownloadupload.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.66.44.56:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c7258af0-6b42-4395-9e49-0dcf3856290b@www.speedtest.net:2082?security=none&type=ws&headerType=&path=%2Fcontainers%2Fse%3Fed%3D1024&host=M1A2b3C4D5e6M1A2B3c4D5e6M1A2b3C4D5E6.cloudstars.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
