@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@217.182.198.219:9101#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@217.182.198.219:5001#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@217.182.198.219:7306#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ajMzQWFUYlgxbHNEVnVQQ0xsUzZ6@81.19.141.45:52873#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSR002bUVheml5M2V2NEdqY2t2enZO@81.19.141.45:52873#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@217.182.198.219:8009#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?path=%2Ff5pvJ1vR6QZ0WX9v%2FMTI5LjE1OS4yNDEuMTcy&security=tls&encryption=none&alpn=http/1.1&host=Bpb-v.PAges.deV&type=ws&sni=bPB-V.pageS.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://28c27cde-5cf8-4cdb-af94-f773b0263729@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://28c27cde-5cf8-4cdb-af94-f773b0263729@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?path=%2Ff5pvJ1vR6QZ0WX9v%2FMTI5LjE1OS4yNDEuMTcy&security=tls&encryption=none&alpn=http/1.1&host=Bpb-v.PAges.deV&type=ws&sni=bPB-V.pageS.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://28c27cde-5cf8-4cdb-af94-f773b0263729@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
