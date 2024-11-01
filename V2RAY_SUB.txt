@@ -1,10 +1,10 @@
+vless://aa7ac727-d60d-11ee-aaa8-00505603e70d@st-fr-1.brocdn.com:443?encryption=none&security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.203:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096?security=tls&type=ws&sni=nicorobin.eula.cloudns.org&path=/Telegram@Linkvws?ed=2560&host=nicorobin.eula.cloudns.org#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.103:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://95466c9f-e759-400b-9e3c-38f68da575fa@DArk.JUdGEMent-cRow.COm:2087?path=%40a_waay_out%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=DArk.JUdGEMent-cRow.COm&fp=firefox&type=httpupgrade&sni=dArK.jUdGEmENT-cROw.CoM#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.203:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://95466c9f-e759-400b-9e3c-38f68da575fa@DArk.JUdGEMent-cRow.COm:2087?path=%40a_waay_out%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=DArk.JUdGEMent-cRow.COm&fp=firefox&type=httpupgrade&sni=dArK.jUdGEmENT-cROw.CoM#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096?security=tls&type=ws&sni=nicorobin.eula.cloudns.org&path=/Telegram@Linkvws?ed=2560&host=nicorobin.eula.cloudns.org#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4yMS45LjIzNiIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImhtczE5LmJlc3QtdGl6aS50b3AiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMiLCAic25pIjogImhtczE5LmJlc3QtdGl6aS50b3AiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@104.17.147.22:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http%2F1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://%50a%72sa%73%68%6fna%6d-93@185.146.173.39:8880?path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ppal03.tinojo7099.workers.dev:443?encryption=none&security=tls&sni=PPal03.tiNOjo7099.wORkERs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PpAL03.TinoJo7099.woRkers.dEV&path=%2FJKbxmXBxcd4t1Vdf%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
