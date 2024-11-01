@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.116:443?path=%2Fblue&security=tls&encryption=none&host=lb.kpcloud.eu.org&type=ws&sni=lb.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.151.254.48:443?path=%2Fblue&security=tls&encryption=none&host=lc.ylks01.eu.org&type=ws&sni=lc.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.98.61:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ab.ylks.xyz&type=ws&sni=ab.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.92:443?path=%2Fblue&security=tls&encryption=none&host=ld.ylks01.eu.org&type=ws&sni=ld.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.91:443?path=%2Fblue&security=tls&encryption=none&host=ld.ylks01.eu.org&type=ws&sni=ld.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://9fa56b31-3766-4eff-b5f9-f1a272539031@89.110.107.89:1517?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.19:443?path=%2Fblue&security=tls&encryption=none&host=dc.ylks.xyz&type=ws&sni=dc.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.102:443?path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&host=da.ylks.xyz&type=ws&sni=da.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.81:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ld.ylks01.eu.org&type=ws&sni=ld.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.10:443?path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&host=la.ylka.us.kg&type=ws&sni=la.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.206.230:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ab.ylks.xyz&type=ws&sni=ab.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.35.119.193:443?path=%2Fblue&security=tls&encryption=none&host=ld.ylks01.eu.org&type=ws&sni=ld.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.35:443?path=%2Fblue&security=tls&encryption=none&host=ld.ylks01.eu.org&type=ws&sni=ld.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.198:443?path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&host=la.ylka.us.kg&type=ws&sni=la.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@14.39.254.65:50000?path=%2Fblue&security=tls&encryption=none&host=dc.ylks.xyz&type=ws&sni=dc.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.213.172:443?path=%2Fblue&security=tls&encryption=none&host=ld.ylks01.eu.org&type=ws&sni=ld.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.63.159:443?path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&host=la.ylka.us.kg&type=ws&sni=la.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.100:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ld.ylks01.eu.org&type=ws&sni=ld.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.42:443?path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&host=la.ylka.us.kg&type=ws&sni=la.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@144.34.247.227:13506?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ld.ylks01.eu.org&type=ws&sni=ld.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
