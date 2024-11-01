@@ -1,10 +1,10 @@
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://e62820cb-e32b-454c-9fb7-520c3ab93452@79.127.70.120:2083?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://e62820cb-e32b-454c-9fb7-520c3ab93452@79.127.70.120:2083?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://8b09d94f-4a96-4aa7-9bd2-f7ac14515e1d@79.127.70.120:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://8b09d94f-4a96-4aa7-9bd2-f7ac14515e1d@79.127.70.120:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://8ce5a4b4-903a-4eb7-bc1d-0e9860dc5476@104.18.165.38:8443?security=tls&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@104.20.21.43:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://3a4ee2fb-ed28-4501-9733-029fa2c36728@37.27.185.191:19838?security=reality&sni=microsoft.com&type=grpc&serviceName=%40proprojec&fp=firefox&pbk=KxXn_gdGsiXtOm6oioTT8COzs869Xu-mLOWxodvitBw#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 trojan://NISHIKUITAN222@188.114.96.113:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3a4ee2fb-ed28-4501-9733-029fa2c36728@37.27.185.191:19838?security=reality&sni=microsoft.com&type=grpc&serviceName=%40proprojec&fp=firefox&pbk=KxXn_gdGsiXtOm6oioTT8COzs869Xu-mLOWxodvitBw#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://3a4ee2fb-ed28-4501-9733-029fa2c36728@37.27.185.191:19838?security=reality&sni=microsoft.com&type=grpc&serviceName=%40proprojec&fp=firefox&pbk=KxXn_gdGsiXtOm6oioTT8COzs869Xu-mLOWxodvitBw#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 trojan://NISHIKUITAN222@188.114.96.96:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@188.114.96.96:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@188.114.96.113:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://8313d8e5-7c9a-4dc7-996b-877a8009b234@5.182.87.141:443?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=random&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&sid=a7c159&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://bm9uZTpjYmFhY2JhLWFjYWItY2JhYS1iYWRjLWFjYWJiYWNjY2JiYQ==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
