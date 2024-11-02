@@ -1,10 +1,10 @@
-trojan://NISHIKUITAN222@104.18.27.217:443?#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@188.114.99.208:2053?security=tls&type=ws&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev&path=/tr9pU4LSFNK5k8URSo/ZGUucmFkaWNhbGx5LnBybw==&host=bpb-worker-panel1-e4p.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.72:5001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://DailyConfigs@104.21.90.210:443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/@Daily_Configs,@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.203:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.189:443?security=tls&sni=mefa.ir&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@104.26.9.160:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&host=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN222@104.18.27.217:443?#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN222@104.18.27.217:443?#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN222@104.18.27.217:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.203:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.189:443?security=tls&sni=mefa.ir&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.72:5001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://bpb-trojan@188.114.99.208:2053?security=tls&type=ws&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev&path=/tr9pU4LSFNK5k8URSo/ZGUucmFkaWNhbGx5LnBybw==&host=bpb-worker-panel1-e4p.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://auto@104.26.9.160:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&host=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#👉🆔 @v2ray_configs_pool📡🇺🇸United States
