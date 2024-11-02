@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://2eb5b712-118b-4c15-8d31-ec77a9c3b028@199.232.8.139:443?path=%2FVLESS%3Fed%3D2560&security=tls&encryption=none&host=joinbede-Eliv2ray.com&fp=edge&type=ws&sni=JoinBede-ELiV2RaY.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.43:3306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.227:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇻🇳Vietnam
-vless://2eb5b712-118b-4c15-8d31-ec77a9c3b028@199.232.0.128:443?path=%2FVLESS%3Fed%3D2560&security=tls&encryption=none&host=joinbede-Eliv2ray.com&fp=edge&type=ws&sni=JoinBede-ELiV2RaY.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.227:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇻🇳Vietnam
+trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.225:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇻🇳Vietnam
 vless://e479efd2-30a5-4b26-b503-7b0d42b30009@151.101.128.155:80?security=none&type=ws&host=Abnabat2chobi.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://NISHIKUITAN222@104.25.171.225:443?#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.225:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇻🇳Vietnam
+trojan://aabccab-caba-caba-bdca-accbbcababca@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.225:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇻🇳Vietnam
+vless://c938d203-f304-45cc-d411-181a60fdc806@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7157b026-a321-4fa8-d1ec-46bb50525aaf@Zmaoz.Faculty.UcdavIS.Edu:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=chfin.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.UcdavIS.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://17b1e512-d89d-4320-c258-a7cb980b71f6@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.225:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇻🇳Vietnam
+hy2://NDI3NjMxOjE0MTIzNzozYmUwYjExZTNjYzQ4ZWY1=TG%20WangCai2@45.11.104.113:3074?insecure=1&sni=TG.%40WangCai2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
