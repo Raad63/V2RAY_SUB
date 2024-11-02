@@ -1,10 +1,10 @@
-vless://fac48107-2ec4-4540-bb73-3307fbc607a6@151.101.194.133:443?type=ws&security=tls&path=%2F%3Fed%3D2560&host=publiceston.com&fp=chrome&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTolLU1WYTExJnpw@176.124.199.255:19999#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ%3D@205.134.180.145:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.87:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.198:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
