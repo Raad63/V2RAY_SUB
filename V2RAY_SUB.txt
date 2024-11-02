@@ -1,10 +1,10 @@
-vless://309be56b-9884-48cf-8be6-77403cdad6d3@18.143.94.158:443?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://309be56b-9884-48cf-8be6-77403cdad6d3@18.143.94.158:443?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=store.steampowered.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://309be56b-9884-48cf-8be6-77403cdad6d3@18.143.94.158:443?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://309be56b-9884-48cf-8be6-77403cdad6d3@18.143.94.158:443?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://309be56b-9884-48cf-8be6-77403cdad6d3@18.143.94.158:443?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=static.whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://309be56b-9884-48cf-8be6-77403cdad6d3@18.143.94.158:443?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=content.cdn.viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://309be56b-9884-48cf-8be6-77403cdad6d3@18.143.94.158:443?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://309be56b-9884-48cf-8be6-77403cdad6d3@18.143.94.158:443?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=store.steampowered.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://309be56b-9884-48cf-8be6-77403cdad6d3@18.143.94.158:443?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-trojan://telegram-id-privatevpns@63.176.3.245:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vmess://eyJhZGQiOiAianB2YnNob2hjZ2MuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImpwdmJzaG9oY2djLmNvbSIsICJpZCI6ICJmYTE4OTdkYi0xOTI1LTRjODYtYTQ5NS05MzlhOTU5YWY5MDAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JicXF2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImpwdmJzaG9oY2djLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+trojan://telegram-id-privatevpns@35.180.102.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.117.195:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=poORiaReD--PErsePOlIs.PagES.DEv&fp=randomized&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://28c27cde-5cf8-4cdb-af94-f773b0263729@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@35.180.102.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.117.195:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.117.195:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPa2lzYzZ0WVRydFlKN2ZRbHducjFN@92.243.27.51:9802#👉🆔 @v2ray_configs_pool📡🇫🇷France
