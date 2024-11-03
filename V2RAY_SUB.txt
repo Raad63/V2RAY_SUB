@@ -1,10 +1,10 @@
-trojan://NISHIKUITAN222@173.245.49.133:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://bm9uZTpiYmFjYWFjLWFjYmEtYWNiYS1iYWRjLWNjYWJiYmJhYWNhYw==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://NISHIKUITAN222@188.114.98.221:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://NISHIKUITAN222@172.67.37.60:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087?type=grpc#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087?type=grpc#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087?type=grpc#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://NISHIKUITAN222@173.245.59.107:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://NISHIKUITAN222@173.245.59.107:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://NISHIKUITAN222@172.67.60.216:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@173.245.59.107:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://NISHIKUITAN222@162.159.1.27:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://bm9uZTpiYmFjYWFjLWFjYmEtYWNiYS1iYWRjLWNjYWJiYmJhYWNhYw==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://NISHIKUITAN222@188.114.98.221:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
