@@ -1,10 +1,10 @@
-vless://76c1cf10-8cef-47ce-ba03-076ada44d4c4@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@162.159.133.85:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://NISHIKUITAN222@172.67.37.60:443?allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://NISHIKUITAN222@172.67.37.60:443?allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://NISHIKUITAN222@172.67.37.60:443?allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.21.45:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN222@104.20.109.102:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN222@162.159.1.27:443?allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@104.25.203.49:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://NISHIKUITAN222@162.159.1.27:443?allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://bbacaac-acba-acba-badc-ccabbbbaacac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.195.221.26:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.195.221.26:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eDVXd1lhUmRJd2F3VjFvcGxhVm5L@13.79.219.182:50894#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.21.45:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇺🇸United States
