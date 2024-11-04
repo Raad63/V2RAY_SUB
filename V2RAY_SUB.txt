@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.105:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDM4LjExMC4xLjEwNTo4MTE5#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.255.237.249:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.105:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@44.243.115.246:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.10.33.211:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@77.247.108.24:990#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.117:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://c938d203-f304-45cc-d411-181a60fdc806@104.17.147.22:8880?security=none&type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://e3738fca-d289-4637-841d-bf19c3c0fb6e@151.101.130.219:80?security=none&type=ws&host=hcjcjcjfjcjfjfnfufjfigkhj7gkgnfjfig.com&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://0490f440-b47e-4f98-9f13-44db5cb82667@151.101.3.8:80#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbWhubEtpTjVwcmo2MUxZSTlIMFlM@13.79.219.138:53728#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMzguMTEwLjEuMTA1OjkxMDI=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
