@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.21.244.125:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.115.23:443?path=%2Fblue&security=tls&encryption=none&host=cg.ylks.xyz&type=ws&sni=cg.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.196.102:443?path=%2Fblue&security=tls&encryption=none&host=lg.ylks01.eu.org&type=ws&sni=lg.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.220:443?path=%2Fblue&security=tls&encryption=none&host=lg.ylks01.eu.org&type=ws&sni=lg.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.214.160:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.53:443?path=%2Fblue&security=tls&encryption=none&host=cg.ylks.xyz&type=ws&sni=cg.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.117:443?path=%2Fblue&security=tls&encryption=none&host=cg.ylks.xyz&type=ws&sni=cg.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.22.142.117:443?path=%2Fblue&security=tls&encryption=none&host=lg.ylks01.eu.org&type=ws&sni=lg.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇧🇪Belgium
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.99.205:443?path=%2Fblue&security=tls&encryption=none&host=cg.ylks.xyz&type=ws&sni=cg.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.21.244.116:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.114.56:443?path=%2Fblue&security=tls&encryption=none&host=cg.ylks.xyz&type=ws&sni=cg.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.49.166:443?path=%2Fblue&security=tls&encryption=none&host=cf.ylks.xyz&type=ws&sni=cf.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.113.203:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@20.127.201.36:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.143:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.195.98:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.147:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.196.225:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.21.244.76:443?path=%2Fblue&security=tls&encryption=none&host=cg.ylks.xyz&type=ws&sni=cg.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.19:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lg.kpcloud.eu.org&type=ws&sni=lg.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
