@@ -1,10 +1,10 @@
+trojan://cbaabca-acba-aacb-badc-bcabcbacabac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd05qZ3pZalJpWkMwMVlURTVMVFJrWVdVdFltWXdOeTAzWlRkbVpUVmtabVE0TVRN@183.240.255.75:11001#👉🆔 @v2ray_configs_pool📡🇨🇳China
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@206.119.175.50:8388#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.117:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ1Ljk0LjY4LjIxMCIsICJwb3J0IjogIjQxNTEwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxOGUxMWJiMS0yZWNjLTQ3MDAtOTAyZS05YTE3MmI3NjJiYmQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1VuaXRlZCBLaW5nZG9tIn0=
-trojan://cbaabca-acba-aacb-badc-bcabcbacabac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@206.119.175.50:8388#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.58.252:443?security=tls&sni=lg.ylks01.eu.org&type=ws&host=lg.ylks01.eu.org&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.216.16:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.117:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.58.252:443?security=tls&sni=lg.ylks01.eu.org&type=ws&host=lg.ylks01.eu.org&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.216.16:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://cbaabca-acba-aacb-badc-bcabcbacabac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd05qZ3pZalJpWkMwMVlURTVMVFJrWVdVdFltWXdOeTAzWlRkbVpUVmtabVE0TVRN@183.240.255.75:11001#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@206.119.175.50:8388#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
