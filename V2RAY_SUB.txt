@@ -1,10 +1,10 @@
-vless://95d9b3cf-0aed-4085-8ee0-44bbed93ba3f@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=qwe.com&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://6babb657-1524-43bb-b421-11bda27bc9de@185.170.166.51:2087?encryption=none&security=tls&sni=smart.titimoji-f6.fun&type=grpc#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.88.47:443?encryption=none&security=tls&sni=la.ylks01.eu.org&type=ws&path=%2Ffreecodes#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?encryption=none&security=tls&sni=edgood.889876.xyz&fp=chrome&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://6babb657-1524-43bb-b421-11bda27bc9de@185.170.166.51:2087?encryption=none&security=tls&sni=smart.titimoji-f6.fun&type=grpc#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?encryption=none&security=tls&sni=edgood.889876.xyz&fp=chrome&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBc2V5dFNsK0hZWC92VmpVbFRvSFpkMXhzeTF1cWw3RDVjT1RYTE9ydDNzPQ==@ams3-v6.accountio.ir:9014#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbXFDRHpNUjFZSDVXYVdTOUdySmthNkJDdFBHYXpuRzJ6d1d3ckpuTDgxenVWa3FjRWVOTDdNM2VDcGlKb056RHN5eTNuZDQyZW9LV2J2OTc0THRUenVYMWY4V2RIeWM=@mx2.drawnrisha.one:55988#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://aabccab-baac-acab-cadb-cabbcaaccbba@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://bpb-trojan@172.66.47.53:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=ws&path=/trLb1imnrxPEhfzfwk?ed&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://55737b22-c50a-491a-8cd3-69f84e67e3f7@172.67.204.84:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.&path=%2Ftelegram%3DV_2RAYNGVPN#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@172.66.47.53:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=ws&path=/trLb1imnrxPEhfzfwk?ed&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@13.37.101.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://55737b22-c50a-491a-8cd3-69f84e67e3f7@172.67.204.84:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.&path=%2Ftelegram%3DV_2RAYNGVPN#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@172.66.47.53:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=ws&path=/trLb1imnrxPEhfzfwk?ed&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://55737b22-c50a-491a-8cd3-69f84e67e3f7@172.67.204.84:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.&path=%2Ftelegram%3DV_2RAYNGVPN#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@13.37.101.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://aabccab-baac-acab-cadb-cabbcaaccbba@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
