@@ -1,10 +1,10 @@
-vless://88cdfbf6-352d-4731-9e46-2ad40b130e29@104.22.3.218:8080?path=%2FwmmPnU2qChIUlaQM%3Fed%3D8080&security=none&encryption=none&host=behnooshdklwenfeio.bpbpanel762.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.85.119.109:8880?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇷🇴Romania
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.183.178:80?path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560&security=none&encryption=none&host=aliii.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@172.67.175.9:80?path=%2F%3Fed&security=none&encryption=none&host=private-codmhttp.teqqlzdw.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5TUJyeGRUNXJaaTJ6RncyQUJKQ1VC@62.210.88.22:443#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
-vless://88cdfbf6-352d-4731-9e46-2ad40b130e29@172.67.40.25:8080?path=%2FwmmPnU2qChIUlaQM%3Fed%3D8080&security=none&encryption=none&host=behnooshdklwenfeio.bpbpanel762.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.85.119.127:8880?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇷🇴Romania
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed&security=none&encryption=none&host=samane.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+trojan://telegram-id-privatevpns@34.252.77.130:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.ukhttp/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.85.119.138:8880?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇷🇴Romania
+vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@198.41.198.177:80?path=%2F&security=none&encryption=none&host=workerr.babray.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80?path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560&security=none&encryption=none&host=aliii.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+trojan://telegram-id-privatevpns@52.213.11.162:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.ukhttp/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.37.15:80?path=%2FBCXzvAcvSB7JzMWj%3Fed&security=none&encryption=none&host=sara193.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.0.35:2052?path=%2FTELEGRAM...PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=worker-reza2.wbfoppa.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
