@@ -1,10 +1,10 @@
-vless://d2c8b708-9f65-484a-b643-8e783d954dab@103.215.221.219:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://aacbbca-caab-abac-abdc-acccbbaacbab@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://aabcbca-acba-cbaa-bcad-aacbcbcabbca@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://auto@104.20.22.236:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.22.1:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.22.236:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.22.1:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://893fceb2-75b4-4d7f-9503-401c1e342740@151.101.2.165:80?security=none&type=ws&host=springhq.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://893fceb2-75b4-4d7f-9503-401c1e342740@151.101.2.165:80?security=none&type=ws&host=springhq.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UzJsNFRIWkxlbmRxWld0SE1EQnliUQ@142.202.49.119:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.22.1:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.22.1:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.22.236:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UzJsNFRIWkxlbmRxWld0SE1EQnliUQ@142.202.49.119:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
