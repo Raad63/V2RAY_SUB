@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@23.150.152.112:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://%30%33%66%36%34%62%61%63%2d%63%31%32%65%2d%34%62%64%64%2d%38%62%30%36%2d%33%34%35%34%30%30%62%61%31%65%62%30@151.101.64.155:80?Telegram=@V2RayTz,@V2RayTz&path=/te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52?ed%3d204%38&security=none&encryption=none&host=Nah%61r2n%61kho%72dim%2enet&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://%37%64%30%66%38%30%62%36%2d%35%31%32%39%2d%34%66%32%34%2d%39%61%31%33%2d%39%62%61%64%34%61%61%65%37%37%38%35@151.101.64.155:80?Telegram=@V2RayTz,@V2RayTz&path=/te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52?ed%3d204%38&security=none&encryption=none&host=Anq%61d3s%61rma%73.ne%74&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7d0f80b6-5129-4f24-9a13-9bad4aae7785@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Anqad3sarmas.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.103:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@23.154.136.51:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@23.150.152.112:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=jNgfdkjn2.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.103:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@23.154.136.51:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@15.188.227.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
