@@ -1,10 +1,10 @@
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.66.177:443?security=tls&sni=bPB-V.paGEs.dEV&type=ws&host=bPB-V.paGEs.dEV&path=%2FjdMMEgBE5RGsuynR%2FMTI5LjE1OS4yNDEuMTcy#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@162.159.44.187:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.66.177:443?security=tls&sni=bPB-V.paGEs.dEV&type=ws&host=bPB-V.paGEs.dEV&path=%2FjdMMEgBE5RGsuynR%2FMTI5LjE1OS4yNDEuMTcy#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-privatevpns@3.79.71.87:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://auto@172.64.35.207:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://auto@104.20.22.182:443?sni=b96ef9ae.trojanfree-76s.pages.dev&allowInsecure=0#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-directvpn@18.168.191.10:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.59:2096?security=tls&sni=BPb-worker-paNeL-brh.pAgES.dev&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FGSIEb4Zs4mbCWhqi%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@3.79.71.87:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 trojan://auto@172.64.35.207:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.59:2096?security=tls&sni=BPb-worker-paNeL-brh.pAgES.dev&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FGSIEb4Zs4mbCWhqi%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.188:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@104.20.22.182:443?sni=b96ef9ae.trojanfree-76s.pages.dev&allowInsecure=0#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@18.168.191.10:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://auto@162.159.44.187:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
