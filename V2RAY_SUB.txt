@@ -1,10 +1,10 @@
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=%2Fif1pdmbi6sinplj2%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560&security=tls&encryption=none&host=sB-1u6.Pages.DEV&type=ws&sni=sB-1u6.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://58879c43-6ad9-49f6-bc4b-3000f262b7ad@lu.lwjyj.com:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-hy2://58879c43-6ad9-49f6-bc4b-3000f262b7ad@lu.lwjyj.com:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-hy2://58879c43-6ad9-49f6-bc4b-3000f262b7ad@lu.lwjyj.com:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-hy2://58879c43-6ad9-49f6-bc4b-3000f262b7ad@lu.lwjyj.com:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=%2Fif1pdmbi6sinplj2%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560&security=tls&encryption=none&host=sB-1u6.Pages.DEV&type=ws&sni=sB-1u6.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.35:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@18.199.0.55:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@52.54.240.50:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b882be34-d731-421f-8c8f-f818d475075c@172.67.148.163:443?path=%2Fwhite&security=tls&encryption=none&host=white.bitiboot.com&type=ws&sni=white.bitiboot.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.35:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://b882be34-d731-421f-8c8f-f818d475075c@172.67.148.163:443?path=%2Fwhite&security=tls&encryption=none&host=white.bitiboot.com&type=ws&sni=white.bitiboot.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b882be34-d731-421f-8c8f-f818d475075c@172.67.148.163:443?path=%2Fwhite&security=tls&encryption=none&host=white.bitiboot.com&type=ws&sni=white.bitiboot.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b882be34-d731-421f-8c8f-f818d475075c@172.67.148.163:443?path=%2Fwhite&security=tls&encryption=none&host=white.bitiboot.com&type=ws&sni=white.bitiboot.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.6.245:443?encryption=none&security=tls&sni=PPAL03.TIrIKEk541.workErs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PpAL03.TiRiKEk541.workERS.dEV&path=%2FASfYT7dxDjRiEnwl%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.135.128:443?encryption=none&security=tls&sni=ppaL03.TirIKek541.WOrkErs.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=pPAl03.TirIKEk541.wOrKers.DEV&path=%2FuB7NdItW3TTGn8xk%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
