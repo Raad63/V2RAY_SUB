@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.44:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://9da1d14b-7a35-4528-b8ce-4d11f4108337@live.skornorth.com:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.skornorth.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://9da1d14b-7a35-4528-b8ce-4d11f4108337@live.skornorth.com:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.skornorth.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.203.109:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://672a7a10-7e7a-40c6-8a45-2b2f799ae1dc@79.127.70.123:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://d2c8b708-9f65-484a-b643-8e783d954dab@103.215.221.219:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://aacbbca-caab-abac-abdc-acccbbaacbab@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://aabcbca-acba-cbaa-bcad-aacbcbcabbca@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://893fceb2-75b4-4d7f-9503-401c1e342740@151.101.2.165:80?security=none&type=ws&host=springhq.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.203.109:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://672a7a10-7e7a-40c6-8a45-2b2f799ae1dc@79.127.70.123:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://672a7a10-7e7a-40c6-8a45-2b2f799ae1dc@79.127.70.123:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://893fceb2-75b4-4d7f-9503-401c1e342740@151.101.2.165:80?security=none&type=ws&host=springhq.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UzJsNFRIWkxlbmRxWld0SE1EQnliUQ@142.202.49.119:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UzJsNFRIWkxlbmRxWld0SE1EQnliUQ@142.202.49.119:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
