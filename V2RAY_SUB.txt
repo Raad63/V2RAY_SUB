@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.10:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.93.10:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d164a739-da87-449d-addd-3d165c42fbf2@dogechain.info:443?path=%2FELENA&security=tls&encryption=none&host=join-eliv2ray-join-eliv2ray.pages.dev&fp=randomized&type=ws&sni=JOiN-ELiV2RaY-JOiN-ELiV2rAY.pagEs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+vless://d164a739-da87-449d-addd-3d165c42fbf2@172.66.44.154:443?path=%2FELENA&security=tls&encryption=none&host=join-eliv2ray-join-eliv2ray.pages.dev&fp=edge&type=ws&sni=JOiN-ELiV2RaY-JOiN-ELiV2rAY.pagEs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://98e13612-5400-54b2-951c-1abaf1406313@199.232.8.99:443?path=/TEL,@ELiV2RAY--TEL,@ELiV2RAY&allowInsecure=1&security=tls&alpn=h3%2Ch2&encryption=none&host=joinbede.eliv2.io&fp=random&type=ws&sni=JOinBEDE.ELiV2.iO#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://98e13612-5400-54b2-951c-1abaf1406313@199.232.0.97:443?path=/TEL,@ELiV2RAY--TEL,@ELiV2RAY&allowInsecure=1&security=tls&alpn=h3%2Ch2&encryption=none&host=joinbede.eliv2.io&fp=qq&type=ws&sni=JOinBEDE.ELiV2.iO#👉🆔 @v2ray_configs_pool📡🇺🇸United States
