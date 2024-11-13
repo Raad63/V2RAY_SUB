@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.209.2:443#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.156.129.206:6666?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.177:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lp.ylka.us.kg&fp=chrome&type=ws&sni=lp.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.133.35.115:443?path=%2Fblue&security=tls&encryption=none&host=ap.ylks.xyz&type=ws&sni=ap.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
-vmess://eyJhZGQiOiAiOTIuMzguMTc4LjkzIiwgImFpZCI6ICIxIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1SmFwYW4ifQ==
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.105.31.9:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lo.ylks.us.kg&fp=chrome&type=ws&sni=lo.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM2NjYTVkMy1hMzNjLTQ0ZjktOWU1Zi1kNzI1NzA1YWVkYTI=@gy.666666222.shop:20002#👉🆔 @v2ray_configs_pool📡🇨🇳China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#👉🆔 @v2ray_configs_pool📡🇮🇳India
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.202.75.206:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.234:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lo.ylks.us.kg&fp=chrome&type=ws&sni=lo.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@20.36.131.211:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ap.ylks.xyz&type=ws&sni=ap.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.75.195.171:999?path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://FLorg@43.153.175.137:443?path=%2F%3Fed&security=tls&host=trojan.tcorg.filegear-sg.me&type=ws&sni=trojan.tcorg.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@169.197.141.84:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.30.42.248:2501?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@219.77.65.212:23555?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=juzi8186.5112233.xyz&fp=chrome&type=ws&sni=juzi8186.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTQ1NDc3OC00OTEwLTQzMzMtYjk1NC01MDk2MWUyY2FiNWI=@gy.666666222.shop:20008#👉🆔 @v2ray_configs_pool📡🇨🇳China
+vmess://eyJhZGQiOiAiMTIwLjIzMi4xNTMuMjciLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjU4MDAyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.134.202:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
