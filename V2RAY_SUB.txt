@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.76.148.231:55555?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4f073a8d-28e0-4dc3-94e8-57bb333cbe91@104.21.47.27:443?security=tls&sni=yelt88rxdan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Ffr-freevmess.privateip.net&fp=randomized&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@192.0.54.6:2096?security=tls&sni=Sb-1U6.paGES.deV&type=ws&host=Sb-1U6.paGES.deV&path=%2Fs6rb9yyj3qaak606%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.107.142.138:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://SVNTEAM-4@104.17.234.128:8080/?type=httpupgrade&path=%2F%3Fed%3D8080&host=l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.nisvn.iR.&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://SVNTEAM-4@104.17.234.128:8080/?type=httpupgrade&path=%2F%3Fed%3D8080&host=l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.nisvn.iR.&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&security=none&encryption=none&host=JOIN.SVNTEAM.eng.speedtest.net.FiSvn.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&security=none&encryption=none&host=JOIN.SVNTEAM.fra.speedtest.net.FiSvn.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&security=none&encryption=none&host=JOIN.SVNTEAM.can.speedtest.net.FiSvn.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&security=none&encryption=none&host=JOIN.SVNTEAM.fra.speedtest.net.FiSvn.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.76.148.231:55555?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.88.90.170:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.107.142.138:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.41:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.113.1:443?security=tls&sni=ln.kpcloud.eu.org&type=ws&host=ln.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&security=none&encryption=none&host=JOIN.SVNTEAM.fra.speedtest.net.FiSvn.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
