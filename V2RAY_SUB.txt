@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.133:443?path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io&security=tls&encryption=none&host=cp.ylks.xyz&type=ws&sni=cp.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.21.69.44:8443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=ggho.pages.dev.&fp=chrome&type=ws&sni=ggho.pages.dev.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.89:8000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.62:443?path=%2Fblue&security=tls&encryption=none&host=cp.ylks.xyz&type=ws&sni=cp.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.53:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@139.162.45.124:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.53:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.113:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://65e9ad0c-5dd1-4988-96ba-488aba140a2f@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f8a0d15b-e122-4a79-bd04-42c4565078df@172.66.47.82:443?path=%2FTelegram%3A&security=tls&encryption=none&host=pardazeshvpn-tg99.pages.dev&fp=chrome&type=ws&sni=pardazeshvpn-tg99.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.89:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.61:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lp.ylks01.eu.org&type=ws&sni=lp.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://638738d6-a5e7-4cfe-a745-e3bd2e20a4b0@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.53:3306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.53:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://03dfd0bf-634a-435a-a692-fd33e51e1c6f@zmaoz.faculty.ucdavis.edu:443?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&security=tls&encryption=none&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&fp=firefox&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://03dfd0bf-634a-435a-a692-fd33e51e1c6f@zmaoz.faculty.ucdavis.edu:443?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&security=tls&encryption=none&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&fp=firefox&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
