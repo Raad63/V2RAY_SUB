@@ -1,10 +1,10 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.154.134.125:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@52.211.69.107:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.101:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&host=mefa.ir&fp=chrome&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.142.243.226:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ap.ylks.xyz&type=ws&sni=ap.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lp.kpcloud.eu.org&type=ws&sni=lp.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://90137e2d-2a00-4acf-8c5d-a75dfb9c922b@richu.pages.dev:443?path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io&security=tls&encryption=none&type=ws&sni=richu.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@107.181.155.244:55330#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.22.233.47:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiAiMTgzLjIzNi41MS4yMyIsICJhaWQiOiAiNjQiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDY2MDIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNDaGluYSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM2NjYTVkMy1hMzNjLTQ0ZjktOWU1Zi1kNzI1NzA1YWVkYTI=@gy.666666222.shop:20006#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.209.2:443#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.156.129.206:6666?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.177:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lp.ylka.us.kg&fp=chrome&type=ws&sni=lp.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.133.35.115:443?path=%2Fblue&security=tls&encryption=none&host=ap.ylks.xyz&type=ws&sni=ap.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+vmess://eyJhZGQiOiAiOTIuMzguMTc4LjkzIiwgImFpZCI6ICIxIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1SmFwYW4ifQ==
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.105.31.9:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lo.ylks.us.kg&fp=chrome&type=ws&sni=lo.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM2NjYTVkMy1hMzNjLTQ0ZjktOWU1Zi1kNzI1NzA1YWVkYTI=@gy.666666222.shop:20002#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#👉🆔 @v2ray_configs_pool📡🇮🇳India
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.202.75.206:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
