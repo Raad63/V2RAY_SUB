@@ -1,10 +1,10 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?security=tls&sni=edgood.889876.xyz&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048&fp=chrome#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:443?path=%2Ftrm7P3VNsWWOwIafAP%3Fed%3D2560&security=tls&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.243:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.173:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.152:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.208.69:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.43:80?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.166:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.134.202:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://bacaacb-caab-bcaa-bacd-cabcbabbacac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.119.55:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.134.202:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://accbaab-acba-abca-bdac-bbcaaaccacbb@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://882841d6-2d95-45a8-f982-b42b3b92b77f@104.17.147.22:2082?security=none&type=ws&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://bacaacb-caab-bcaa-bacd-cabcbabbacac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://e6a79806-a050-44f8-ad3c-71136855611f@104.21.69.44:8880?security=none&type=httpupgrade&host=mcc.rayanfmusic.ir&path=%2Ftelegram-IRov2rayN%2Ctelegram-iroazadi%2CIRov2rayN-iroazadi%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%3Fed%3D8880#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.161:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
