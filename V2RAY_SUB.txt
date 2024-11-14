@@ -1,10 +1,10 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.119.57:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.119.57:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://ffe42010-fe17-47c5-b0e2-c508156a1c8b@151.101.64.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vipfast_7.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:443#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.119.57:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=mtn17kws.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:443#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
 vless://ffe42010-fe17-47c5-b0e2-c508156a1c8b@151.101.64.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vipfast_7.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.119.57:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=mtn17kws.net&path=%2Ftelegram-ArV2ray#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?path=%2FtmlO9TqxlsNgBI70%3Fed%3D2560&security=tls&encryption=none&host=6b700e9b.bpb-worker-panel-9r9.pages.dev&type=ws&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.197:2053?path=%2FQrovCgkdpds4nV8U%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-brh.pages.dev&fp=randomized&type=ws&sni=bPb-worKEr-PaNeL-BrH.PAGeS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
