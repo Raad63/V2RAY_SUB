@@ -1,10 +1,10 @@
-vless://5b289fea-1e8c-4193-b29f-987f3b31687a@104.19.173.68:2096?security=tls&sni=mcc.rayanfmusic.IR.&type=ws&host=mcc.rayanfmusic.ir&path=/telegram-IRov2rayN,telegram-iroazadi,IRov2rayN-iroazadi,telegram-irov2rayN,telegram-irov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN?ed%3D2096&fp=chrome&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://57fbeb27-344f-4ef4-a098-f8fdb358e6ca@151.101.2.216:80?security=none&type=ws&host=Berim3araekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZTkxYTI5YS05ODlkLTQ5MzQtYTFmYi03YjY1MzMxOTM5N2Y=@218.250.204.209:50101#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:20980?allowInsecure=0#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.15.19:2052?type=ws&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.14.19:2095?type=ws&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://abbcaac-abac-cbaa-cabd-acabcccbaabb@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.15.19:2052?type=ws&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:20980?allowInsecure=0#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://abbcaac-abac-cbaa-cabd-acabcccbaabb@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.202:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://57fbeb27-344f-4ef4-a098-f8fdb358e6ca@151.101.2.216:80?security=none&type=ws&host=Berim3araekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5b289fea-1e8c-4193-b29f-987f3b31687a@104.19.173.68:2096?security=tls&sni=mcc.rayanfmusic.IR.&type=ws&host=mcc.rayanfmusic.ir&path=/telegram-IRov2rayN,telegram-iroazadi,IRov2rayN-iroazadi,telegram-irov2rayN,telegram-irov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN?ed%3D2096&fp=chrome&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.14.19:2095?type=ws&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.33:8881#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5b289fea-1e8c-4193-b29f-987f3b31687a@104.19.173.68:2096?security=tls&sni=mcc.rayanfmusic.IR.&type=ws&host=mcc.rayanfmusic.ir&path=/telegram-IRov2rayN,telegram-iroazadi,IRov2rayN-iroazadi,telegram-irov2rayN,telegram-irov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN?ed%3D2096&fp=chrome&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://57fbeb27-344f-4ef4-a098-f8fdb358e6ca@151.101.2.216:80?security=none&type=ws&host=Berim3araekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
