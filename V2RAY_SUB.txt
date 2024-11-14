@@ -1,10 +1,10 @@
-vless://f899a324-afac-41cc-cde8-31cbedc300fb@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=meloch-de.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://auto@104.20.18.216:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.20.19.19:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.26.7.112:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@132.226.163.224:2053?security=tls&sni=bPB005.PAGeS.Dev&type=ws&host=bPB005.PAGeS.Dev&path=%2Ftsk179ptmakaggvh%2Fmtuyljy3ljiznc40oq#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+trojan://auto@104.20.18.241:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@190.93.245.222:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+trojan://auto@104.20.19.87:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://auto@104.20.18.8:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.20.18.175:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@108.162.195.176:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Watashi_VPN@104.18.38.122:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@108.162.195.176:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@104.20.19.220:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.21.44:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@162.159.44.148:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@104.20.21.205:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@172.64.35.176:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.19.218:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
