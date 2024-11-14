@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.53:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.12.70:8000#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.137.105:6697#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://738fd428-024c-47a1-b11b-62aee5b538af@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.137.105:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?encryption=none&security=tls&sni=38da4f337ed44e099563.jana-dramf.rest&type=ws&fp=chrome&alpn=&host=38da4f337ed44e099563.jana-dramf.rest&path=/abcdews#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?encryption=none&security=tls&sni=0bbb96a396404aa08f13.jana-dramf.rest&type=ws&fp=chrome&alpn=&host=0bbb96a396404aa08f13.jana-dramf.rest&path=/abcdews#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?encryption=none&security=tls&sni=8616e97525b54c888786.jana-dramf.rest&type=ws&fp=chrome&alpn=&host=8616e97525b54c888786.jana-dramf.rest&path=/abcdews#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?encryption=none&security=tls&sni=67fc515adbe44d6abae2.jana-dramf.rest&type=ws&fp=chrome&alpn=&host=67fc515adbe44d6abae2.jana-dramf.rest&path=/abcdews#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?encryption=none&security=tls&sni=ea5ad07c96194f85a7fc.jana-dramf.rest&type=ws&fp=chrome&alpn=&host=ea5ad07c96194f85a7fc.jana-dramf.rest&path=/abcdews#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInd3dy5zcGVlZHRlc3QubmV0IiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiOWFmOTVjYWEtNDk5ZC00MmMyLTk0ODAtY2M5MzBkNzdhZjE3IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiMmlnLmlydm4uZGViaWFuLjYuNi4xYjEuOC5meHAuZGViaWFuLm9yZy5zcGVlZHRlc3QubmV0Llx1NTIxN1x1NTIxN1x1NzUzN1x1NGU4Ylx1NzY4NFx1NGU4Ylx1NTIxN1x1NGUwYVx1OGQ1Yi5hYmtvbi5jeW91LiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+trojan://telegram-id-directvpn@13.36.47.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.33:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.119:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.113:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
