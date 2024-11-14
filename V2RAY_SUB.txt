@@ -1,10 +1,10 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.195.45:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
-trojan://auto@104.19.222.79:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.21.64.10:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@144.22.252.124:443?security=tls&sni=cp.ylks.xyz&type=ws&host=cp.ylks.xyz&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
-vless://4b10cdaf-893c-4619-8cbd-6052bd282a02@188.245.186.245:5443/?type=grpc&encryption=none&flow=&serviceName=mgrpcm&sni=refersion.com&fp=chrome&security=reality&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&sid=902736d426f64e34#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://WOeXShhJpL@172.67.66.228:443?security=tls&sni=02jzus.zdzdzd.xyz&type=ws&host=02jzus.zdzdzd.xyz&path=%2Fjuzigongyi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.197.174:1618/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wwww.refersion.com&fp=chrome&security=reality&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 trojan://auto@172.67.174.21:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://738fd428-024c-47a1-b11b-62aee5b538af@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN222@173.245.58.246:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.18.158:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@188.114.99.222:443?security=tls&sni=migekehcode27.kiwaja6458.workers.dev&type=ws&host=migekehcode27.kiwaja6458.workers.dev&path=/#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4b10cdaf-893c-4619-8cbd-6052bd282a02@188.245.118.6:5843/?type=grpc&encryption=none&flow=&serviceName=mgrpcm&sni=refersion.com&fp=chrome&security=reality&pbk=Vk19B0UVrPCk4vFDYHiB_ML1j3KhY87e6dqCXMBQlR8&sid=58bcbc38eae97b5d#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://auto@104.20.19.109:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Watashi_VPN@104.18.26.94:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@162.159.44.168:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#👉🆔 @v2ray_configs_pool📡🇺🇸United States
