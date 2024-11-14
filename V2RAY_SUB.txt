@@ -1,10 +1,10 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.19.89.86:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@13.36.217.42:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@13.36.217.42:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://ababcca-abca-acab-bcda-ccaaacbbbabc@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vmess://eyJ2IjogMiwgImFkZCI6ICIxMDQuMTkuMjEuNzEiLCAicG9ydCI6IDIwODIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiaXAyNi42OTI5MTk4Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6IGZhbHNlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
 trojan://telegram-id-directvpn@18.191.20.50:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://fd8bc627-e714-4a56-e204-f6ba1f3605d3@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=melofin.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.19.89.86:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.112:80?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.112:80?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.112:80?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@13.36.217.42:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://YWVzLTI1Ni1nY206T0JZS1IyTUJTQ1ZTUkRHMg@120.241.45.50:15007#👉🆔 @v2ray_configs_pool📡🇨🇳China
+trojan://telegram-id-privatevpns@3.127.197.237:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vmess://eyJhZGQiOiAiMTQyLjQuMTA0LjMzIiwgInYiOiAiMiIsICJwb3J0IjogNTIxNDMsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
