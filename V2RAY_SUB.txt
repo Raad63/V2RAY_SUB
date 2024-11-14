@@ -1,10 +1,10 @@
-vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh18.pages.dev&fp=randomized&type=ws&sni=pardazesh18.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@207.211.166.131:443/?mport=55000-56000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.147.22:80?path=%2F&security=none&encryption=none&host=4h1.diginoshops10.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@207.211.175.16:443/?mport=55000-56000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.16.20.118:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&fp=randomized&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.127.7:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.0wolf.com&fp=chrome&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🇮🇳India
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.207:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.118.147:443/?mport=55000-56000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.47.111:443/?mport=55000-56000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.245.57.42:443/?mport=55000-56000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@217.142.225.38:443/?mport=55000-56000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@138.2.28.145:443/?mport=55000-56000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@146.56.164.36:443/?mport=55000-56000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
 vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@164.152.104.161:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.0wolf.com&fp=chrome&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@146.235.225.86:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.0wolf.com&fp=chrome&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.253:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&fp=randomized&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@129.153.72.62:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.0wolf.com&fp=chrome&packetEncoding=xudp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://4959177b-62d7-4d1b-b6a3-eed72c0609c5@140.84.168.166:443/?mport=55000-56000&insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇲🇽Mexico
+vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tnetplus3.pages.dev&fp=randomized&type=ws&sni=tnetplus3.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
