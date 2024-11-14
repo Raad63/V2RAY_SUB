@@ -1,10 +1,10 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@18.193.34.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.203:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.202:6697#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.87:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.33:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:443?path=%2Fcurrent_time&security=tls&alpn=http%2F1.1&encryption=none&host=ahmedquran19.xyz&fp=chrome&type=ws&sni=ahmedquran19.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:443?path=%2Fcurrent_time&security=tls&alpn=http%2F1.1&encryption=none&host=ahmedquran19.xyz&fp=chrome&type=ws&sni=ahmedquran19.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:443?path=%2Fcurrent_time&security=tls&alpn=http%2F1.1&encryption=none&host=ahmedquran19.xyz&fp=chrome&type=ws&sni=ahmedquran19.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2b47debd-d627-11ee-aaa8-00505603e70d@104.26.11.137:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2b47debd-d627-11ee-aaa8-00505603e70d@104.26.11.137:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
