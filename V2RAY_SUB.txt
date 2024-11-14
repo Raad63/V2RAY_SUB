@@ -1,10 +1,10 @@
 trojan://auto@104.20.18.119:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1f10ec9d-071a-4c02-937a-051a6845745e@199.232.8.68:443?security=tls&host=Elena-joinbede-Eliv2ray.ir&fp=qq&type=ws&sni=ELENA-JoinBede-ELiv2RaY.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1f10ec9d-071a-4c02-937a-051a6845745e@172.66.47.169:443?security=tls&host=channel-eliv2ray.pages.dev&fp=randomized&type=ws&sni=ChANNel-ELiV2raY.pageS.deV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@172.64.35.83:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@173.245.59.61:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://auto@104.20.17.76:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.26.7.89:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.20.18.83:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@108.162.195.169:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://trojan@172.67.130.66:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Watashi_VPN@104.18.13.229:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://925b31c8-73d3-44d4-e087-af7b7ff7e490@185.146.173.63:8080?security=none&type=ws&host=6h2.diginoshops3.ir&path=%2FFox%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://925b31c8-73d3-44d4-e087-af7b7ff7e490@185.146.173.63:8080?security=none&type=ws&host=6h2.diginoshops3.ir&path=%2FFox%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://925b31c8-73d3-44d4-e087-af7b7ff7e490@185.146.173.63:8080?security=none&type=ws&host=6h2.diginoshops3.ir&path=%2FFox%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
