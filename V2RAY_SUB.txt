@@ -1,10 +1,10 @@
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.255:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.255:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@188.114.99.222:443?encryption=none&security=tls&sni=migekehcode27.kiwaja6458.workers.dev&type=ws&host=migekehcode27.kiwaja6458.workers.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.146.173.63:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=1i3.diginoshops10.ir#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=1v2.diginoshops10.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8f8622b9-4ddf-4568-af35-3b75f2f82191@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.20.20.74:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.185.103:443?encryption=none&security=tls&sni=pPal03.Molli-mAKara.WOrkers.dEV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=PPaL03.molli-MakARa.WOrKErS.Dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.21.92:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.146.173.63:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=1i3.diginoshops10.ir#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://auto@104.20.21.92:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f4fffd3b-32ff-4d54-b232-0de299a7553b@uae.jjavaher.ir:8811?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://f4fffd3b-32ff-4d54-b232-0de299a7553b@uae.jjavaher.ir:8811?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+trojan://auto@104.20.21.92:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
