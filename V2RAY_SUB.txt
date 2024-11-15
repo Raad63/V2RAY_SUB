@@ -1,10 +1,10 @@
-trojan://auto@104.16.25.46:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.16.25.46:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.16.25.46:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@3.16.65.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.241.43:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.241.43:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@3.16.65.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@18.194.92.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.241.43:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a1885a3c-d12b-4afb-954e-95d0bdf57cbe@172.66.44.57:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=telegram-id-eliv2ray.pages.dev&fp=randomized&type=ws&sni=TelEgRaM-id-ELIv2RaY.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQj8tM3glVnBU@176.124.199.255:2195#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://a1885a3c-d12b-4afb-954e-95d0bdf57cbe@172.66.44.57:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=telegram-id-eliv2ray.pages.dev&fp=randomized&type=ws&sni=TelEgRaM-id-ELIv2RaY.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMW5TMEpRcGNiTjF4NENobVk4ZG1z@62.210.88.22:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://97d6afaf-eca4-48ac-bba6-75fe7b416e4c@79.127.70.87:8282?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://97d6afaf-eca4-48ac-bba6-75fe7b416e4c@79.127.70.87:8282?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.213:80?path=%2FTelegram%40NETMelliAnti%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://auto@104.16.25.46:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
