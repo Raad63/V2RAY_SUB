@@ -1,10 +1,10 @@
-trojan://telegram-id-privatevpns@51.44.87.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8f8622b9-4ddf-4568-af35-3b75f2f82191@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ffe42010-fe17-47c5-b0e2-c508156a1c8b@151.101.64.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vipfast_7.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ffe42010-fe17-47c5-b0e2-c508156a1c8b@151.101.64.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vipfast_7.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ffe42010-fe17-47c5-b0e2-c508156a1c8b@151.101.64.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vipfast_7.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ffe42010-fe17-47c5-b0e2-c508156a1c8b@151.101.64.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vipfast_7.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN222@172.67.200.209:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@162.159.83.5:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@172.67.200.209:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@172.67.147.10:2096?security=tls&sni=esetsecuritylicense.shsxucu.woRkeRs.DeV&type=ws&host=esetsecuritylicense.shsxucu.woRkeRs.DeV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@173.245.59.253:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8a4c21ac-1bf0-4b20-c2b7-3bf1260c667a@151.101.130.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=meloch-net.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8a4c21ac-1bf0-4b20-c2b7-3bf1260c667a@151.101.130.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=meloch-net.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8a4c21ac-1bf0-4b20-c2b7-3bf1260c667a@151.101.130.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=meloch-net.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@162.159.83.5:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@172.67.147.10:2096?security=tls&sni=esetsecuritylicense.shsxucu.woRkeRs.DeV&type=ws&host=esetsecuritylicense.shsxucu.woRkeRs.DeV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
