@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.119.57:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a1885a3c-d12b-4afb-954e-95d0bdf57cbe@172.66.44.57:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=telegram-id-eliv2ray.pages.dev&fp=randomized&type=ws&sni=TelEgRaM-id-ELIv2RaY.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a1885a3c-d12b-4afb-954e-95d0bdf57cbe@172.66.44.57:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=telegram-id-eliv2ray.pages.dev&fp=randomized&type=ws&sni=TelEgRaM-id-ELIv2RaY.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://97d6afaf-eca4-48ac-bba6-75fe7b416e4c@79.127.70.87:8282?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://97d6afaf-eca4-48ac-bba6-75fe7b416e4c@79.127.70.87:8282?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.213:80?path=%2FTelegram%40NETMelliAnti%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.213:80?path=%2FTelegram%40NETMelliAnti%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.213:80?path=%2FTelegram%40NETMelliAnti%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.255:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.255:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.255:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
