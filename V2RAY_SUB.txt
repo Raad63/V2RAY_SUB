@@ -1,10 +1,10 @@
+trojan://NISHIKUITAN222@104.27.27.214:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://NISHIKUITAN222@173.245.59.253:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://NISHIKUITAN222@104.27.27.214:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8a4c21ac-1bf0-4b20-c2b7-3bf1260c667a@151.101.130.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=meloch-net.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://NISHIKUITAN222@104.19.22.240:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://NISHIKUITAN222@162.159.1.27:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://NISHIKUITAN222@104.27.27.214:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://NISHIKUITAN222@104.19.22.240:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@172.67.147.10:2096?security=tls&sni=esetsecuritylicense.shsxucu.woRkeRs.DeV&type=ws&host=esetsecuritylicense.shsxucu.woRkeRs.DeV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://NISHIKUITAN222@162.159.1.27:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@172.67.147.10:2096?security=tls&sni=esetsecuritylicense.shsxucu.woRkeRs.DeV&type=ws&host=esetsecuritylicense.shsxucu.woRkeRs.DeV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?encryption=none&security=tls&sni=iSaA1.paGes.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=IsaA1.pAGEs.DEV&path=%2FTelegram%40Linkvws%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?encryption=none&security=tls&sni=iSaA1.paGes.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=IsaA1.pAGEs.DEV&path=%2FTelegram%40Linkvws%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?encryption=none&security=tls&sni=iSaA1.paGes.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=IsaA1.pAGEs.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@173.245.59.253:443?allowInsecure=0&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?encryption=none&security=tls&sni=iSaA1.paGes.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=IsaA1.pAGEs.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?encryption=none&security=tls&sni=iSaa1.PAGeS.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=iSAA1.paGEs.DEV&path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
