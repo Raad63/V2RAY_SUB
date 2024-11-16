@@ -1,10 +1,10 @@
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://2fe4a10b-6116-4003-b0b9-5d8c4416c7ae@104.17.148.22:2086?path=%2F%3Fed%3D2056&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.EpicMaRket-HtTp.Ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOS4yNC4xNDEiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJob3N0IjogIiIsICJ0bHMiOiAidGxzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhR2VybWFueSJ9
 vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 trojan://telegram-id-directvpn@3.208.53.7:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://cababca-caab-bcaa-dacb-bbbaccabaacc@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4yMS43Mi4yMzAiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgImhvc3QiOiAiYW4uYW5hdmlyaXRpLmluZm8iLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
-vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://4b2a5795-356b-4a18-ad7e-2f1ae48b4ab1@46.3.105.212:12342?security=reality&flow=xtls-rprx-vision&sni=tesla.com&type=tcp&fp=chrome&pbk=g-K_MZKJQMYJ5sDA7nIf3-6THnfZnIKsncP4A_UOaCA&sid=0711211f#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+trojan://telegram-id-directvpn@3.208.53.7:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
