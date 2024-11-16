@@ -1,8 +1,8 @@
-vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.47.169:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg7.pages.dev&type=ws&sni=pardazeshvpn-tg7.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&fp=chrome&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.47.169:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg7.pages.dev&type=ws&sni=pardazeshvpn-tg7.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&fp=chrome&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://0533b568-482c-4c0a-81c5-729891270934@104.25.99.169:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?path=%2F%3Fed%3D8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdld2TTBJUDZ3aFVLYU1FdXFlTjZN@147.45.136.147:41095#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://e0c397c6-9aa0-48f8-aa9a-6fcab7d7b1e2@37.27.221.171:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=yas.mhgy.75656.iryg.ir#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
