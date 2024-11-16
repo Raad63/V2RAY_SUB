@@ -1,10 +1,10 @@
-vless://7e6c5fae-62fe-4ed0-a4b2-64d4170c556b@188.245.197.174:1623?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@44.243.115.246:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.12.219:8080#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://925b31c8-73d3-44d4-e087-af7b7ff7e490@185.146.173.63:8080?security=none&type=ws&host=6h2.diginoshops3.ir&path=%2FFox%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE0Mi4yMDIuNDguMTA1OjUwMDQ=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.37.12.219:6379#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://2e27f295-cf36-4dea-9300-fc6dbe042871@151.101.2.165:80?security=none&type=ws&host=5776.ir&path=%2FVLESS%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBnQDQ1Ljg3LjE3NS4xOTk6ODA4MA==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://e890d251-0ee6-5080-a43e-a77b9232f88e@151.101.2.219:80?type=ws&host=ELiV2RaY-0.cOm#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.244.81.162:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.213.228.61:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1QDQ1Ljg3LjE3NS4xNjY6ODA4MA==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://243ff879-b317-4430-894e-767a131db2ca@104.22.30.97:80?security=none&sni=tr1-vless.ctunnel.xyz&type=ws&host=www.iranserver.com.127.0.0.1.%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9control.%E8%BE%B2%E9%81%94%E6%87%B2.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://243ff879-b317-4430-894e-767a131db2ca@104.21.65.53:80?security=none&sni=tr1-vless.ctunnel.xyz&type=ws&host=www.iranserver.com.127.0.0.1.%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9control.%E8%BE%B2%E9%81%94%E6%87%B2.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2e27f295-cf36-4dea-9300-fc6dbe042871@151.101.3.8:80?security=none&type=ws&host=5776.ir&path=%2FVLESS%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.86.117.124:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.67.27.46:80?security=none&sni=cc.ailicf.us.kg&type=ws&host=cc.ailicf.us.kg&path=%2Fb5cdabf0-e04&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@104.22.53.235:80?security=none&sni=cc.ailicf.us.kg&type=ws&host=cc.ailicf.us.kg&path=%2Fb5cdabf0-e04&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5986d144-d618-46bd-9e51-14ecba270c68@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
