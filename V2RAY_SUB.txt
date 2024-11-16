@@ -1,10 +1,10 @@
-hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@ca.jisovpn.site:443/?mport=30000-40000&sni=ca.jisovpn.site#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@ca11.wish.ml:30102/?insecure=1&sni=du.wish.ml#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@ca12.wish.ml:30102/?insecure=1&sni=du.wish.ml#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://16d51095-276b-427f-8a2b-4087a8a76e2c@uk1.chuanshiqi.top:21454/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@in4.wish.ml:30102/?insecure=1&sni=in4.wish.ml#👉🆔 @v2ray_configs_pool📡🇮🇳India
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@in5.wish.ml:30102/?insecure=1&sni=in5.wish.ml#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
-hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@lu.jisovpn.site:443/?mport=30000-40000&sni=lu.jisovpn.site#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-hy2://7ad5cf6f-fff3-4621-a192-12d51de376ed@surfboard-tr.minizz.online:443/?mport=25000-25999&sni=surfboard-tr.minizz.online#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@br.wish.ml:30102/?insecure=1&sni=br.wish.ml#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@br2.wish.ml:30102/?insecure=1&sni=br2.wish.ml#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+hy2://16d51095-276b-427f-8a2b-4087a8a76e2c@aus1.chuanshiqi.top:21452/?insecure=1&sni=www.bing.com#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+hy2://6fa6650b-4fd7-480b-82ad-1c8c67436773@195.133.92.150:11111/?insecure=1&sni=gateway.icloud.com#👉🆔 @v2ray_configs_pool📡🇵🇹Portugal
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@ae1.wish.ml:30102/?insecure=1&sni=du.wish.ml#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@ae2.wish.ml:30102/?insecure=1&sni=du.wish.ml#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+hy2://7ad5cf6f-fff3-4621-a192-12d51de376ed@surfboard-ne.minizz.online:443/?mport=25000-25999&sni=surfboard-ne.minizz.online#👉🆔 @v2ray_configs_pool📡🇳🇬Nigeria
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.71.217:443?encryption=none&security=tls&sni=pages.dev&fp=chrome&type=ws&host=download-93w.pages.dev&path=%2F%3Fed%3D8080#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?encryption=none&security=tls&sni=mahdiv2.pages.dev&type=ws&host=mahdiv2.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@www.speedtest.net:443?encryption=none&security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2FLinkvws%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiV1dXLlNQRUVEVEVTVC5ORVQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYklhLXZQbi13aGFsLndXdy5zcGVlZHRlc3QubmV0Lnp1bC5JUi4xLmRvY2hhbnViLkNPTS4iLCAiaWQiOiAiVEVMRUdSQU0tSUQtVlBOLVdIQUwtMTUiLCAibmV0IjogImh0dHB1cGdyYWRlIiwgInBhdGgiOiAiL0JJQS12UG4td2hhbC5hYy53d3cuc3BlZWR0ZXN0Lm5ldC56dWxhLklSLjEubG9yZGNoYXQuSVItLUJJQS12UG4td2hhbC5hYy53d3cuc3BlZWR0ZXN0Lm5ldC56dWxhLklSLjEubG9yZGNoYXQuSVIvP2VkPTgwODAiLCAicG9ydCI6ICI4MDgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
+vmess://eyJhZGQiOiAiV1dXLlNQRUVEVEVTVC5ORVQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYklhLXZQbi13aGFsLndXdy5zcGVlZHRlc3QubmV0Lnp1bC5JUi4xLmRvY2hhbnViLkNPTS4iLCAiaWQiOiAiVEVMRUdSQU0tSUQtVlBOLVdIQUwtMTUiLCAibmV0IjogImh0dHB1cGdyYWRlIiwgInBhdGgiOiAiL0JJQS12UG4td2hhbC5hYy53d3cuc3BlZWR0ZXN0Lm5ldC56dWxhLklSLjEubG9yZGNoYXQuSVItLUJJQS12UG4td2hhbC5hYy53d3cuc3BlZWR0ZXN0Lm5ldC56dWxhLklSLjEubG9yZGNoYXQuSVIvP2VkPTgwODAiLCAicG9ydCI6ICI4MDgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
