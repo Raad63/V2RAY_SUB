@@ -1,10 +1,10 @@
-vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-trojan://telegram-id-directvpn@3.208.53.7:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@3.208.53.7:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@ca.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@ca.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://cababca-caab-bcaa-dacb-bbbaccabaacc@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@lu.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@lu.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
+vless://b64cf006-2cde-42c4-b4b0-74f0bc2d6dbc@104.17.148.22:8880?security=none&type=ws&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL%40LIGHTNING6-TEL%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL%40LIGHTNING6%3Fed%3D2056#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a88cf5de-f9d2-4e7a-94ed-a032a6da6268@195.15.215.198:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=microsoft.com&fp=chrome&pbk=bz_CfzxBvjSpYzMQIMKb7C2ttpovR4-4gyABZhjw0QM&sid=#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBRGU3ZUl0eDkzdE9zMEZ0TVpNem93@195.15.215.198:5555#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
