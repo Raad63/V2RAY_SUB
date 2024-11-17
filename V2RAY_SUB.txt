@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-vless://e1a5d8a9-ff86-4092-aab7-407251c19802@www.speedtest.net:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.i.xn--110-qze36dsg.cdn.kiava.live.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.146.173.63:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&en#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.146.173.63:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=1i3.diginoshops10.ir#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+trojan://1ef0a265-9cf5-4f28-9786-d21daab9c78e@45.158.22.57:4438?security=tls&sni=us1.vpn.ong&type=tcp#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://63df7bc3-ef0a-47c9-8a70-95b00270b884@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.146.173.63:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=1i3.diginoshops10.ir#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
