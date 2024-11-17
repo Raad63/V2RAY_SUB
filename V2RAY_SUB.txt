@@ -1,10 +1,10 @@
-vless://acbbaca-acba-baac-acbd-cccbaabbabac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@190.93.247.247:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-ss://bm9uZTpjYmFhYmFjLWFjYmEtYmFjYS1iZGFjLWFjYmJhYWNiYWNjYg==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://cacabab-acba-bcaa-dcab-bbccaccabbaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://bm9uZTpjYmFhYmFjLWFjYmEtYmFjYS1iZGFjLWFjYmJhYWNiYWNjYg==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://acbbaca-acba-baac-acbd-cccbaabbabac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@190.93.247.247:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+trojan://telegram-id-privatevpns@35.178.147.41:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://cacabab-acba-bcaa-dcab-bbccaccabbaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://790eb96e-2a9d-403c-8a6b-349ba09fee54@185.18.250.117:2095?security=none&type=httpupgrade&host=De.www.speedtest.net.ftp.debian.org.NIGHTGEMSHHOP.de.tbhuf.com.&path=%2Fwss9000%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE@soonth.soon.guru:40009#👉🆔 @v2ray_configs_pool📡🇹🇭Thailand
+vless://e88c10e2-8568-507c-aacc-f5acc4fa0a3b@internetazadvmess.viewdns.net:443?path=vless-ws%2F%3Fed%3D8880&security=tls&alpn=h3&encryption=none&host=yf-psv4.pigeho6671.wORKERS.dev&fp=randomized&type=ws&sni=yf-psv4.pigeho6671.wORKERS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://790eb96e-2a9d-403c-8a6b-349ba09fee54@185.18.250.117:2095?security=none&type=httpupgrade&host=De.www.speedtest.net.ftp.debian.org.NIGHTGEMSHHOP.de.tbhuf.com.&path=%2Fwss9000%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+vless://e88c10e2-8568-507c-aacc-f5acc4fa0a3b@internetazadvmess.viewdns.net:443?path=vless-ws%2F%3Fed%3D8880&security=tls&alpn=h3&encryption=none&host=yf-psv4.pigeho6671.wORKERS.dev&fp=randomized&type=ws&sni=yf-psv4.pigeho6671.wORKERS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://cacabab-acba-bcaa-dcab-bbccaccabbaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
