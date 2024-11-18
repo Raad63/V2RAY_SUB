@@ -1,10 +1,10 @@
-vmess://eyJhZGQiOiAiNjUuNzUuMTkyLjExMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDYyZTBhM2MtNTY1Zi00M2RiLWVmYTQtZDUxZGU3ZTJkMWNmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kNjJlMGEzYyIsICJwb3J0IjogIjMzODkxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
-vless://f91f956f-783e-416a-94e6-aaf8626f236f@soldednonhol.aramislegend.com:2053?path=%2F&security=tls&encryption=none&host=whbcueu394ru934ui3fj34fi3ufh83h4ifu3h4f9h34f8343.ghazayekhaneginegin.ir&fp=chrome&type=ws&sni=whbcueu394ru934ui3fj34fi3ufh83h4ifu3h4f9h34f8343.ghazayekhaneginegin.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-hy2://1f17cdf0578a2860@45.76.0.86:443/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=4b817757#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://1f17cdf0578a2860@[2001:19f0:5:34a0:5400:5ff:fe19:3f6f]:443/?insecure=1&obfs=salamander&obfs-password=4b817757#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-hy2://6fa6650b-4fd7-480b-82ad-1c8c67436773@hyus1.xyjc.xyz:19999/?insecure=1&sni=gateway.icloud.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000&sni=us.jisovpn.site#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@us6.wish.ml:30102/?insecure=1&sni=us6.wish.ml#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@us9.wish.ml:30102/?insecure=1&sni=us9.wish.ml#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@us11.wish.ml:30102/?insecure=1&sni=us11.wish.ml#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@us12.wish.ml:30102/?insecure=1&sni=us12.wish.ml#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@us14.wish.ml:30102/?insecure=1&sni=us14.wish.ml#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@in4.wish.ml:30102/?insecure=1&sni=in4.wish.ml#👉🆔 @v2ray_configs_pool📡🇮🇳India
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@in5.wish.ml:30102/?insecure=1&sni=in5.wish.ml#👉🆔 @v2ray_configs_pool📡🇮🇳India
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@lu.jisovpn.site:443/?mport=30000-40000&sni=lu.jisovpn.site#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
+hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@45.8.147.250:53038/?insecure=1&sni=mobile.ir&obfs=salamander&obfs-password=0pjlRGR3tjhXtMs#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@80.92.205.219:53041/?insecure=1&sni=jobvision.ir&obfs=salamander&obfs-password=0pjlRGR3tjhXtMs#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiYWdodmNoeGlqd3FuY29vZS5hcmFtaXNsZWdlbmQuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRpdmFyY2RuLmNvbSIsICJpZCI6ICI5NDhjODk1Zi05N2U2LTQ3ZTctODViMS1hMTZjYmJhZGY4ZjUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MDgxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhR2VybWFueSJ9
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:443?security=tls&sni=Pages.dev&type=ws&path=/Telegram-Xv2ry2-8?ed%3D512&host=1v-2wk.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80?path=%2FTelegram-Xv2ry2-8%3Fed%3D2048&security=none&encryption=none&host=9x.ru.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9814e572-5eac-43bd-987a-77d59ed36575@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc1.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
