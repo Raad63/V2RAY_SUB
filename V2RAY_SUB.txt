@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.90:443?path=%2Fblue&security=tls&encryption=none&host=dw.ylks.xyz&fp=chrome&type=ws&sni=dw.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.219.58:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiAiNjUuNzUuMTkyLjExMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDYyZTBhM2MtNTY1Zi00M2RiLWVmYTQtZDUxZGU3ZTJkMWNmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kNjJlMGEzYyIsICJwb3J0IjogIjMzODkxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.218.102:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTM4MTEzNC00OGU1LTQ3MzAtYjZjMC0xMzZhZTVkNjY2Mjc=@gy.666666222.shop:20013#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.77:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.219.37:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UFFONlVPVlNOMVJEWUlURg==@58.63.250.61:18016#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?path=%2Fmtasyzxvkfadcumf%3Fed%3D2560&security=tls&encryption=none&host=BloOM-cHh.PagEs.dEv&type=ws&sni=BloOM-cHh.PagEs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2087&security=tls&encryption=none&host=Falcunargo.net&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.218.134:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a278a08a-a844-4533-b698-38119309d981@vajgb9.chinese-sm.com:30002?security=none&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.2:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.107:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.189:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@172.64.150.145:443?path=%2FtrC8BM8bTsAF0AnLYL&security=tls&host=mindrOOm-5cz.pAgEs.dEV&type=ws&sni=mindrOOm-5cz.pAgEs.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.216.25:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.151.152.144:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vmess://eyJhZGQiOiAic2gzLm5lZWRzcy50b3AiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjMzMzliYjMyLTY0YWEtNGE1ZC04YWVjLTcwOTgwOTg0YTUwZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTIxMDgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNDaGluYSJ9
