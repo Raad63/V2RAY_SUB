@@ -1,10 +1,10 @@
-vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@r.iphone-shopp.ir:5643?mode=gun&security=reality&Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://4324423e-23ed-421f-be18-5fe56bcb010f@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c1546212-f0d3-4b8d-b350-1c644a2e3c2b@www.speedtest.net:8080?path=%2FG%2Fb4t6hy5n%2F%3Fed%3D80120&security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://af167f3b-2b25-43e5-bcd7-5d65acea0ba0@62.60.178.138:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://03633612-cb32-46cc-8f93-7103d1511adc@104.17.147.22:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.127:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://af167f3b-2b25-43e5-bcd7-5d65acea0ba0@62.60.178.138:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.127:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@r.iphone-shopp.ir:20543?security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.95.203:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@r.iphone-shopp.ir:20543?security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@WWW.SPEEDTEST.NET:2096?mode=gun&security=tls&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@WWW.SPEEDTEST.NET:2096?mode=gun&security=tls&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@r.iphone-shopp.ir:5643?mode=gun&security=reality&Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
