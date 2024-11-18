@@ -1,10 +1,10 @@
-vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJhY2NhYmEtY2FhYi1jYWFiLWJhY2QtYWJiYmJjYWNhY2NhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQyXHVmZTBmIn0=
 vless://79fc4bf6-fd2d-4714-98d7-eadec83d7115@151.101.128.155:80?security=none&type=ws&host=spdnet.chanelspdnet.ir.&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@63.176.127.189:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://6c316928-500c-47e1-8851-efc44aa2c66d@65.21.186.167:23367?security=none&type=tcp&host=telewebion.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://6c316928-500c-47e1-8851-efc44aa2c66d@65.21.186.167:23367?security=none&type=tcp&host=telewebion.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 vless://accbaab-baac-bcaa-badc-aabacbcbabcc@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://6c316928-500c-47e1-8851-efc44aa2c66d@65.21.186.167:23367?security=none&type=tcp&host=telewebion.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 ss://bm9uZTpjYmNhYWJhLWFiY2EtY2FhYi1hYmNkLWNhYWJjYmNjYmJhYQ==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://QwwHvrnN@36.151.192.239:17806?allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇳China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
 trojan://telegram-id-privatevpns@63.176.127.189:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@63.176.127.189:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@18.169.46.53:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://bm9uZTpjYmNhYWJhLWFiY2EtY2FhYi1hYmNkLWNhYWJjYmNjYmJhYQ==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.239:2052?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
