@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@69.50.95.191:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidEYydUNCbjJDejExa0lB@admin.c2.havij.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@69.50.95.191:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA%3D%3D@107.175.96.74:16899#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiZGt6Ym9memtvcC5jb20iLCAiYWlkIjogMCwgImhvc3QiOiAiZGt6Ym9memtvcC5jb20iLCAiaWQiOiAiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9yYnFxdndzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiQklBLXZQbi13aGFsLmFjLnd3dy5zcGVlZHRlc3QubmV0Lnp1bGEuSVIuMS5sb3JkY2hhdC5JUi4iLCAiaWQiOiAiVEVMRUdSQU0tV0hBTC1GUkVFMjgiLCAibmV0IjogImh0dHB1cGdyYWRlIiwgInBhdGgiOiAiL0JJQS12UG4td2hhbC5hYy53d3cuc3BlZWR0ZXN0Lm5ldC56dWxhLklSLjEubG9yZGNoYXQuSVItLUJJQS12UG4td2hhbC5hYy53d3cuc3BlZWR0ZXN0Lm5ldC56dWxhLklSLjEubG9yZGNoYXQuSVIvP2VkPTgwODAiLCAicG9ydCI6ICI4MDgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
+vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.1.109:443?security=tls&sni=s1.digikala-iranian.org&type=grpc#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://83082070-6b71-4e48-937a-3e4bf304fe68@172.66.44.87:443?path=%2F&security=tls&encryption=none&host=channel-eliv2ray.pages.dev&fp=randomized&type=ws&sni=ChAnNeL-ELiV2rAY.pagES.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&security=tls&encryption=none&host=e16ebb1457c945089bc8.starsha-goodd.info&fp=chrome&type=ws&sni=e16ebb1457c945089bc8.starsha-goodd.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
