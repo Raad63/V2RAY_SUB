@@ -1,10 +1,10 @@
-vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg97.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg97.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://SVNTEAM@www.speedtest.net:8880?path=%2FSvnTeam-Channel-Telegram%3Fed%3D8880&security=none&encryption=none&host=Channel-Two.GiSvn.iR&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4d05c1db-5401-407b-ba16-3c3b6300b4f6@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://5523be08-7a75-4441-90e8-c53e61ba466d@104.18.165.38:8443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://5523be08-7a75-4441-90e8-c53e61ba466d@www.speedtest.net:8443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@203.184.132.166:443?#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+ss://YWVzLTEyOC1nY206ODNmZDZhMjQtNDFjMi00MTU4LWFjMTgtNmZjZjBiODQyNzY0@91.199.84.65:20004#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://d160386a-2bee-4355-afec-43fda8f5e977@151.101.130.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=TEL.%56%4d%45%53%53%4f%52%47.http.www.speedtest.net.fast.com.%76%6d%65%73%73%6f%72%67%67.ir&path=/%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67-%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67-%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67?ed%3D8880&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@18.205.15.226:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.219.150.221:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&allowInsecure=0#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+trojan://auto@104.20.20.162:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1N3JiSWt6QlhleUJVeVBDcTRueUFO@13.74.65.20:42492#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@203.184.132.166:443?#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+ss://YWVzLTEyOC1nY206ODNmZDZhMjQtNDFjMi00MTU4LWFjMTgtNmZjZjBiODQyNzY0@91.199.84.65:20004#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@203.184.132.166:443?#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
