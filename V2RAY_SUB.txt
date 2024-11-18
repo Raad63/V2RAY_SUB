@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=1&sni=samane.ir&type=ws&host=samane.ir&path=/4u7lAS4nPLtz0xPz?ed=2560fp=iosfp=chromefp=iosfp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.172:27001?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
 vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=Falcunargo.net&alpn=http/1.1&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://auto@104.20.20.162:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=Falcunargo.net&alpn=http/1.1&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzMS4xMDgiLCAiYWlkIjogMCwgImhvc3QiOiAiZ2x3ZWlkZi5jZmQiLCAiaWQiOiAiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiZ2x3ZWlkZi5jZmQiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
-trojan://f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.171:27001?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+trojan://auto@104.20.20.162:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=1&sni=samane.ir&type=ws&host=samane.ir&path=/4u7lAS4nPLtz0xPz?ed=2560fp=iosfp=chromefp=iosfp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2,http/1.1&type=ws&host=Sanjeshp.Ir&path=/H?ed=2560fp=randomized&security=tls#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=1&sni=samane.ir&type=ws&host=samane.ir&path=/4u7lAS4nPLtz0xPz?ed=2560fp=iosfp=chromefp=iosfp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.172:27001?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.171:27001?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
