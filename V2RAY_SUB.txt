@@ -1,10 +1,10 @@
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://175edc2a-1d86-4614-b550-3c56142c544c@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc1.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://491f5400-999c-47f1-bd9b-d76dc7f43846@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc2.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@69.50.95.191:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@69.50.95.191:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?path=%2FtmlO9TqxlsNgBI70%3Fed%3D2560&security=tls&encryption=none&host=6b700e9b.bpb-worker-panel-9r9.pages.dev&type=ws&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:443?path=%2FTelegram-Xv2ry2-8%3Fed%3D512&security=tls&encryption=none&host=1v-2wk.pages.dev&type=ws&sni=Pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80?path=%2FTelegram-Xv2ry2-8%3Fed%3D2048&security=none&encryption=none&host=9x.ru.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://5232ec47-5d1c-4884-aa96-a6f07e6352c2@185.58.240.75:443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=purlitefastest.pages.dev&type=ws&sni=purlitefastest.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?security=reality&encryption=none&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=ad52706b#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?path=%2FtmlO9TqxlsNgBI70%3Fed%3D2560&security=tls&encryption=none&host=6b700e9b.bpb-worker-panel-9r9.pages.dev&type=ws&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:443?path=%2FTelegram-Xv2ry2-8%3Fed%3D512&security=tls&encryption=none&host=1v-2wk.pages.dev&type=ws&sni=Pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a446ef35-6c74-40d9-910c-f63d60197d9b@de-08.pezesh-kian.com:2095?path=%2Fenglish.tgju.org%2Fde-08.pezesh-kian.com%3Fed%3D2095&security=none&encryption=none&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a446ef35-6c74-40d9-910c-f63d60197d9b@de-08.pezesh-kian.com:2095?path=%2Fenglish.tgju.org%2Fde-08.pezesh-kian.com%3Fed%3D2095&security=none&encryption=none&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
