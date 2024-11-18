@@ -1,10 +1,10 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@77.221.152.41:2501?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.80:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206QVdXUUVTSlJLNDI4NUxJTg==@58.63.250.61:18007#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.62.62.37:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.218.249:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.62.62.47:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.69:587?path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=vless.ifx.us.kg&fp=chrome&type=ws&sni=vless.ifx.us.kg#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://90137e2d-2a00-4acf-8c5d-a75dfb9c922b@172.66.47.155:443?path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&host=richu.pages.dev&type=ws&sni=richu.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTM4MTEzNC00OGU1LTQ3MzAtYjZjMC0xMzZhZTVkNjY2Mjc=@gy.666666222.shop:34338#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.218.198:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@5.182.84.19:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.62.62.52:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.185:443?path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&host=lu.ylks01.eu.org&type=ws&sni=lu.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMTE0LjU1LjEzMi4yMDIiLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUwMDAyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.0:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiaS5uZWVkc3MudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzMzM5YmIzMi02NGFhLTRhNWQtOGFlYy03MDk4MDk4NGE1MGQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjU0NzcwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.235:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@188.42.88.152:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
