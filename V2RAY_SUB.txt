@@ -1,10 +1,10 @@
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?path=%2Fsecurity%3Dtlsfp%3Dchromefp%3Dchrome&security=tls&encryption=none&host=VIrgiNiavPn-nL.pagEs.dEv&type=ws&sni=VIrgiNiavPn-nL.pagEs.dEv#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-vless://0aa8ae7e-9604-4fa7-8418-6468c817bee6@hhzpq.kovmk.website:443?path=%2F&security=tls&encryption=none&host=hhzpq.kovmk.website&type=ws&sni=hhzpq.kovmk.website#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.91:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0aa8ae7e-9604-4fa7-8418-6468c817bee6@grxzk.kovmk.website:443?path=%2F&security=tls&encryption=none&host=grxzk.kovmk.website&type=ws&sni=grxzk.kovmk.website#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4f6e8bfb-4900-4d7f-b7d4-243a2fb1c78b@avcoz.kovmk.website:443?path=%2F&security=tls&encryption=none&host=avcoz.kovmk.website&type=ws&sni=avcoz.kovmk.website#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@5.182.85.202:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@5.182.85.86:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@205.233.181.213:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a278a08a-a844-4533-b698-38119309d981@xevxwr.chinese-sm.com:30002?security=none&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.138:443?path=%2Fblue&security=tls&encryption=none&host=lu.ylks01.eu.org&type=ws&sni=lu.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ea8a3e1e-2025-40ea-9fb6-4b497089f924@bbu7uh.chinese-sm.com:30002?security=none&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-vless://a278a08a-a844-4533-b698-38119309d981@cjqtur.chinese-sm.com:30002?security=none&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTM4MTEzNC00OGU1LTQ3MzAtYjZjMC0xMzZhZTVkNjY2Mjc=@gy.666666222.shop:20052#👉🆔 @v2ray_configs_pool📡🇨🇳China
+vless://b037ff46-dfc8-43dd-a1b0-1afd0e1f2157@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@5.182.85.202:80?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.47.169:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg7.pages.dev&type=ws&sni=pardazeshvpn-tg7.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
