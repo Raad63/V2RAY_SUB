@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.134.94.168:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.111:443?path=%2F3IEyTMFdChz9DzYe%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=094cb6e9.mhassani.pages.dev&fp=randomized&type=ws&sni=094cB6e9.mhassANi.pagES.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.111:443?path=%2F3IEyTMFdChz9DzYe%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=094cb6e9.mhassani.pages.dev&fp=randomized&type=ws&sni=094cB6e9.mhassANi.pagES.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.1.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.2.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://SVNTEAM@www.speedtest.net:8080/?type=httpupgrade&path=%2FSvnTeam-Channel-Telegram%3Fed%3D8080&host=Channel-One.GiSvn.iR&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://SVNTEAM@www.speedtest.net:8080/?type=httpupgrade&path=%2FSvnTeam-Channel-Telegram%3Fed%3D8080&host=Channel-Two.GiSvn.iR&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://SVNTEAM@www.speedtest.net:8880/?type=ws&path=%2FSvnTeam-Channel-Telegram%3Fed%3D8880&host=Channel-One.GiSvn.iR&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://SVNTEAM@www.speedtest.net:8880/?type=ws&path=%2FSvnTeam-Channel-Telegram%3Fed%3D8880&host=Channel-Two.GiSvn.iR&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.1.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.1.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.2.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://a56d8500-9c87-4927-a920-2afa4214b9c8@104.17.148.22:2086?path=%2F%3Fed%3D2056&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.DiGiMeTo.Ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
