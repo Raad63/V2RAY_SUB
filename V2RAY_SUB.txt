@@ -1,10 +1,10 @@
-vless://2266e5c0-1971-49aa-a454-e10a46ea0ee2@151.101.3.8:80?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=none&encryption=none&host=api.nhl.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://5d175779-9e00-4e13-a622-45e686a0cea0@hajlab.ucdavis.edu:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.168.81.137:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://caabcab-caba-aabc-acbd-bccabcbacaba@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://d64610d7-af13-49ce-8cfa-d479bcb0be70@162.159.135.42:8443?security=tls&sni=joinbade.antimelichannel.ggff.net&type=ws&host=joinbade.antimelichannel.ggff.net&path=/JoinBadeChannel@antimeli&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://caabcab-caba-aabc-acbd-bccabcbacaba@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://d64610d7-af13-49ce-8cfa-d479bcb0be70@162.159.135.42:8443?security=tls&sni=joinbade.antimelichannel.ggff.net&type=ws&host=joinbade.antimelichannel.ggff.net&path=/JoinBadeChannel@antimeli&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://b08430f8-bbd7-4ce2-9d67-fd451c417760@151.101.194.219:80?type=ws&host=XpnTeam.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@185.146.173.167:443?security=tls&sni=jnir.hpcode.ir&type=ws&host=jnir.hpcode.ir&path=%2F%40JavidnamanIran%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.93.47:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@185.146.173.167:443?security=tls&sni=jnir.hpcode.ir&type=ws&host=jnir.hpcode.ir&path=%2F%40JavidnamanIran%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://b08430f8-bbd7-4ce2-9d67-fd451c417760@151.101.194.219:80?type=ws&host=XpnTeam.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.93.47:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d64610d7-af13-49ce-8cfa-d479bcb0be70@162.159.135.42:8443?security=tls&sni=joinbade.antimelichannel.ggff.net&type=ws&host=joinbade.antimelichannel.ggff.net&path=/JoinBadeChannel@antimeli&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
