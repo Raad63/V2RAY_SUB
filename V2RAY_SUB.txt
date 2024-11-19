@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://bm9uZTphYWJjYmNhLWNiYWEtY2FhYi1iYWRjLWFhY2JiYWFjYmJjYw==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2,http/1.1&type=ws&host=Sanjeshp.Ir&path=/security=tlssecurity=tls#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2,http/1.1&type=ws&host=Sanjeshp.Ir&path=/security=tlssecurity=tls#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2,http/1.1&type=ws&host=Sanjeshp.Ir&path=/security=tlssecurity=tls#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://e3fee3b6-fca1-3985-99dc-da7ca03260ea@18.179.44.127:443?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://8zlR8O7E3S8uqex4xYnpp8O6C3lZejBCZO53eYD7XIAaaTBRC3Cj9SCFxlAwKAwD2yyN3@54.249.161.173:443?allowInsecure=1&sni=sniffle.meijireform.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
 vless://243ff879-b317-4430-894e-767a131db2ca@104.19.198.103:80?allowInsecure=0&sni=tr1-vless.ctunnel.xyz&type=ws&host=tr1-vless.ctunnel.xyz&path=/vless#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://243ff879-b317-4430-894e-767a131db2ca@104.19.198.103:80?allowInsecure=0&sni=tr1-vless.ctunnel.xyz&type=ws&host=tr1-vless.ctunnel.xyz&path=/vless#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://e3fee3b6-fca1-3985-99dc-da7ca03260ea@35.75.8.137:443?allowInsecure=1&sni=steamcdn-a.akamaihd.net#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
 trojan://telegram-id-privatevpns@34.240.231.167:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://e3fee3b6-fca1-3985-99dc-da7ca03260ea@18.179.44.127:443?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://telegram-id-privatevpns@34.240.231.167:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://9f4a644b-877b-4fa0-aec4-db827525d02e@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@34.240.231.167:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://9f4a644b-877b-4fa0-aec4-db827525d02e@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9f4a644b-877b-4fa0-aec4-db827525d02e@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
