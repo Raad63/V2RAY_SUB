@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.119:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-trojan://bpb-trojan@185.176.24.2:443?path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-trojan://bpb-trojan@185.176.24.2:443?path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAidmFsa2luaW4ub3JnIiwgImFpZCI6ICIxIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInZhbGtpbmluLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidmFsa2luaW4ub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
+vless://Tel-Daily-Configs@167.82.77.79:443?encryption=none&security=tls&alpn=h3%2Ch2&fp=random&allowInsecure=1&type=ws&host=bia-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Tel-Daily-Configs@151.101.3.8:80?encryption=none&security=none&type=ws&host=bia-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Tel-Daily-Configs@www.speedtest.net:80?encryption=none&security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Tel-Daily-Configs@104.17.97.5:80?encryption=none&security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Tel-Daily-Configs@172.66.47.146:80?encryption=none&security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Tel-Daily-Configs@zula.ir:8880?encryption=none&security=none&type=httpupgrade&host=join-daily-configs.broken-dreams.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Tel-Daily-Configs@172.66.47.146:8880?encryption=none&security=none&type=httpupgrade&host=join-daily-configs.broken-dreams.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Tel-Daily-Configs@104.17.207.36:8880?encryption=none&security=none&type=httpupgrade&host=join-daily-configs.broken-dreams.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
