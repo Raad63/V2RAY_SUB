@@ -1,10 +1,10 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.168.81.137:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://caabcab-caba-aabc-acbd-bccabcbacaba@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.93.47:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b08430f8-bbd7-4ce2-9d67-fd451c417760@151.101.194.219:80?type=ws&host=XpnTeam.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://d64610d7-af13-49ce-8cfa-d479bcb0be70@162.159.135.42:8443?security=tls&sni=joinbade.antimelichannel.ggff.net&type=ws&host=joinbade.antimelichannel.ggff.net&path=/JoinBadeChannel@antimeli&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@185.146.173.167:443?security=tls&sni=jnir.hpcode.ir&type=ws&host=jnir.hpcode.ir&path=%2F%40JavidnamanIran%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://caabcab-caba-aabc-acbd-bccabcbacaba@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-45-67-229-222.stark-industries.solutions:443?allowInsecure=0#👉🆔 @v2ray_configs_pool📡🇲🇩Moldova
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.168.81.137:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://d64610d7-af13-49ce-8cfa-d479bcb0be70@162.159.135.42:8443?security=tls&sni=joinbade.antimelichannel.ggff.net&type=ws&host=joinbade.antimelichannel.ggff.net&path=/JoinBadeChannel@antimeli&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://b08430f8-bbd7-4ce2-9d67-fd451c417760@151.101.194.219:80?type=ws&host=XpnTeam.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@185.146.173.167:443?security=tls&sni=jnir.hpcode.ir&type=ws&host=jnir.hpcode.ir&path=%2F%40JavidnamanIran%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://d64610d7-af13-49ce-8cfa-d479bcb0be70@162.159.135.42:8443?security=tls&sni=joinbade.antimelichannel.ggff.net&type=ws&host=joinbade.antimelichannel.ggff.net&path=/JoinBadeChannel@antimeli&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
