@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&sid=ad52706b&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?encryption=none&security=tls&sni=tnetplus3.pages.dev&fp=randomized&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://9193749d-8d3d-40a9-afd2-526ee39e8806@185.217.143.107:443?security=reality&encryption=none&pbk=1Es1BEo9L7AFxRpAG5kkJO4hjXQKrGsMFPGrCQP0BBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bofaloo.pcgame20.ggff.net&sid=107e639bf2#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.117:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9193749d-8d3d-40a9-afd2-526ee39e8806@185.217.143.107:443?security=reality&encryption=none&pbk=1Es1BEo9L7AFxRpAG5kkJO4hjXQKrGsMFPGrCQP0BBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bofaloo.pcgame20.ggff.net&sid=107e639bf2#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://4b9fd21e-8ad9-4a20-bf21-0a1e81fc1068@104.17.147.22:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4b9fd21e-8ad9-4a20-bf21-0a1e81fc1068@104.17.147.22:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://38a20c4d-ae34-4dce-90ca-a949ada6da29@www.speedtest.net:443?path=%2FKmlJvcJS8jk2OYsE%2FdHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=bpb-turkey.pages.dev&fp=randomized&type=ws&sni=Bpb-TuRkey.PageS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://38a20c4d-ae34-4dce-90ca-a949ada6da29@www.speedtest.net:443?path=%2FKmlJvcJS8jk2OYsE%2FdHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=bpb-turkey.pages.dev&fp=randomized&type=ws&sni=Bpb-TuRkey.PageS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
