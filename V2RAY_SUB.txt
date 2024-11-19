@@ -1,10 +1,10 @@
-vless://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087?allowInsecure=0&sni=subhiddify.mmdv2.host&type=ws&host=subhiddify.mmdv2.host&path=/?ed=2560security=tls#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://cbaabac-aacb-baca-cadb-ccbbbaccabaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=0&sni=samane.ir&type=ws&host=samane.ir&path=/4u7lAS4nPLtz0xPz?ed=2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://auto@104.19.174.68:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&type=ws&sni=pardazeshvpn-tg18.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=pardazeshvpn-tg18.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-trojan://auto@104.19.174.68:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev/?ed=2560&host=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://cbaabac-aacb-baca-cadb-ccbbbaccabaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.223.79:443?allowInsecure=0&sni=2f2aa869a6c74af796bb.starsha-goodd.info&type=ws&host=2f2aa869a6c74af796bb.starsha-goodd.info&path=/abcdewsfp=chrome&security=tls#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@45.146.232.173:27101?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
 vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.223.79:443?allowInsecure=0&sni=2f2aa869a6c74af796bb.starsha-goodd.info&type=ws&host=2f2aa869a6c74af796bb.starsha-goodd.info&path=/abcdewsfp=chrome&security=tls#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087?allowInsecure=0&sni=subhiddify.mmdv2.host&type=ws&host=subhiddify.mmdv2.host&path=/?ed=2560security=tls#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://cbaabac-aacb-baca-cadb-ccbbbaccabaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087?allowInsecure=0&sni=subhiddify.mmdv2.host&type=ws&host=subhiddify.mmdv2.host&path=/?ed=2560security=tls#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=0&sni=samane.ir&type=ws&host=samane.ir&path=/4u7lAS4nPLtz0xPz?ed=2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=0&sni=samane.ir&type=ws&host=samane.ir&path=/4u7lAS4nPLtz0xPz?ed=2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
