@@ -1,10 +1,10 @@
-trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@64.110.85.128:21005?#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://ac058631-9f5d-4717-9558-3409d22271e9@104.17.207.36:8443?security=tls&sni=bIa-DAIly-CoNFIGs.PaGes.DEv&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D80&fp=randomized&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://e1a5d8a9-ff86-4092-aab7-407251c19802@www.speedtest.net:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.i.xn--110-qze36dsg.cdn.kiava.live.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_4daa63a@www.speedtest.net:8080?path=%2Fhttpupgrade&security=none&encryption=none&host=AB.841.vpn.ir.de2.vless.sitespeedtest.net&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
 vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.44.109:443?security=tls&type=ws&sni=meti-u9d.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=meti-u9d.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443/?type=ws&encryption=none&host=mahdiv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mahdiv2.pages.dev&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443/?type=ws&encryption=none&host=mahdiv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mahdiv2.pages.dev&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://75e0810a-b6e1-47e1-95af-4060154918af@151.101.64.155:80?security=none&type=ws&host=dachibodoberi22m.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
