@@ -1,10 +1,10 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.146.216:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@13.41.236.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@52.59.77.71:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.146.216:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.146.216:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg104.pages.dev&type=ws&sni=pardazeshvpn-tg104.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiMTcyLjY3LjE2My4xOTciLCAiYWlkIjogMSwgImhvc3QiOiAiYi5zZXJrYXQub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJiLnNlcmthdC5vcmciLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
 vless://a7557033-5e5b-4fa7-9c6a-f21845c6f95f@172.66.47.141:443?security=tls&sni=CHANnEl-iD-EliV2RAY.pAGES.DEv&type=ws&host=channel-id-eliv2ray.pages.dev&fp=qq#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-directvpn@13.41.236.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://bm9uZTpjYmFhYmFjLWNiYWEtYWNhYi1kYWJjLWFhYmFjY2FjYmJjYg==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://cbaabac-cbaa-acab-dabc-aabaccacbbcb@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://telegram-id-privatevpns@52.59.77.71:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://bm9uZTpjYmFhYmFjLWNiYWEtYWNhYi1kYWJjLWFhYmFjY2FjYmJjYg==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://a7557033-5e5b-4fa7-9c6a-f21845c6f95f@172.66.47.141:443?security=tls&sni=CHANnEl-iD-EliV2RAY.pAGES.DEv&type=ws&host=channel-id-eliv2ray.pages.dev&fp=qq#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
