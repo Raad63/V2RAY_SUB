@@ -1,10 +1,10 @@
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxhkhy.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://20fda433-1864-433b-b3dd-8f119fe4cafd@89.35.73.171:8443/?type=ws&encryption=none&host=happy.mianfeicf.lol&path=%2F%3Fed%3D2560&security=tls&sni=happy.mianfeicf.lol#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
 trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@alisg.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.G.6.bahrane.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxhkvol.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://47f78a35-9378-4ba8-97d3-959cbaa36050@151.101.3.8:80?serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=%2F%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79%3Fed%3D2048&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&host=barkatc1.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@alihk.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@akjp.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxjphy.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxkrvol.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@bvjp.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@bvjp.yuwenle.vip:3333/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://telegram-id-privatevpns@35.156.231.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=subhiddify.mmdv2.host&type=ws&sni=subhiddify.mmdv2.host#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
