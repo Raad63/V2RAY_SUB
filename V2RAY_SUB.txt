@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNejFuUGR1YVZBRFdiTUd3ZnJJeGNE@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
-vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@199.232.26.228:443?type=ws&host=didnegar.com&path=de?ed%3D1048&security=tls&fp=chrome&sni=bwdraper.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@199.232.26.228:443?type=ws&host=didnegar.com&path=de?ed%3D1048&security=tls&fp=chrome&sni=bwdraper.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsLUNvd1ZtNGVkY2YyZ3AtV2NKRDFn@45.14.247.49:5555#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q245Ylg4RTNBYlE5TXJSWmtrYllE@146.19.233.101:29682#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://3b05fc15-0b19-4362-b7a3-13ac3cac1350@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arddekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJwb3J0IjogIjgwIiwgInRscyI6ICJub25lIiwgImFkZCI6ICIxODUuMTQ2LjE3My43NiIsICJob3N0IjogImdlcjYucG9zdHNhZmlyLmlyIiwgImlkIjogIjY3NmQxOGExLTgyZmMtNDdhZS1hNjc2LWE0YzM0OGVlYWFjMCIsICJzY3kiOiAiYXV0byIsICJwYXRoIjogIi9odT9lZD0yNTYwIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYVN3ZWRlbiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNejFuUGR1YVZBRFdiTUd3ZnJJeGNE@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg48.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=subhiddify.mmdv2.host&type=ws&sni=subhiddify.mmdv2.host#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mahdiv2.pages.dev&fp=randomized&type=ws&sni=mahdiv2.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=%2F&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=%2F&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg48.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg48.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=subhiddify.mmdv2.host&type=ws&sni=subhiddify.mmdv2.host#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=subhiddify.mmdv2.host&type=ws&sni=subhiddify.mmdv2.host#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mahdiv2.pages.dev&fp=randomized&type=ws&sni=mahdiv2.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
