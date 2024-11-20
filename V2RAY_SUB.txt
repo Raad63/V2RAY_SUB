@@ -1,10 +1,10 @@
-vless://32fdbf86-b623-4329-8610-114468365c01@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@15.157.248.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@16.171.204.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?security=tls&sni=BloOM-cHh.PagEs.dEv&type=ws&host=BloOM-cHh.PagEs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
 trojan://xjN4xcuPGg55@152.70.115.209:45800?security=tls&sni=h.522226.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bbaacca-bcaa-abac-bdca-ababbccacabc@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://baacbac-baac-caab-dacb-aababbaccccb@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://3c166ce5-5d64-47cf-9bd5-e08b6e1bca73@2.189.85.250:14492?type=tcp&host=fast.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@3.231.72.40:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://bbaacca-bcaa-abac-bdca-ababbccacabc@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+trojan://xjN4xcuPGg55@152.70.115.209:45800?security=tls&sni=h.522226.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3c166ce5-5d64-47cf-9bd5-e08b6e1bca73@2.189.85.250:14492?type=tcp&host=fast.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?security=tls&sni=BloOM-cHh.PagEs.dEv&type=ws&host=BloOM-cHh.PagEs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
