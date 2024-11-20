@@ -1,10 +1,10 @@
-vless://e3822343-1491-430d-8d56-cb39456207e4@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=dac33hibodoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Dadachibodoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89ba94d7-89ea-40ac-aa6c-990454693695@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.117:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg%3D@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.117:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg%3D@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://619101a5-6910-4998-bdb4-1162e44f30bf@151.101.3.8:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev-----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev?ed%3D2480&host=%55%4eLI%4dI%54E%44DEV.channel-telegram-1.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://619101a5-6910-4998-bdb4-1162e44f30bf@unlimiteddev.fastly80-2.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev-----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev----%40%55nl%69m%69ted%44ev?ed%3D2480&host=%55N%4cI%4dITE%44DEV.channel-telegram-1.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://619101a5-6910-4998-bdb4-1162e44f30bf@unlimiteddev.fastly80-2.hosting-ip.com:80?security=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@3.231.72.40:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@98.85.142.231:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@52.86.78.199:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@98.82.63.57:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbUZsTURKaA==@95.164.4.238:8388#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.143.66.87:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://acbe58ef-6a57-4d69-a841-f1ba4f97b522@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
