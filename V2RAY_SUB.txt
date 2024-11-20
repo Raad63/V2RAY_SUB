@@ -1,10 +1,10 @@
-vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&encryption=none&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=01b200e90e250221#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇱Chile
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇱Chile
-vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&encryption=none&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=01b200e90e250221#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=sB-1u6.Pages.DEV&fp=chrome&type=ws&sni=sB-1u6.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?encryption=none&security=tls&sni=tnetplus3.pages.dev&fp=randomized&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9cbdc595-1d8d-4443-af07-99149153d025@172.64.150.28:443?security=tls&sni=a8eceb03bb1242978ee7.starsha-gooda.info&type=ws&host=a8eceb03bb1242978ee7.starsha-gooda.info&path=/abcdews&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://bm9uZTphY2JhY2FiLWFhYmMtY2JhYS1iYWRjLWJhYmNjY2NiYWFiYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://9f4a644b-877b-4fa0-aec4-db827525d02e@104.17.148.22:8443?security=tls&sni=Join.V%50%4e%43%55%53T%4fM%49%5a%45.www.speedtest.net.Naziitness.com&type=ws&host=Join.V%50%4e%43%55%53T%4fM%49%5a%45.www.speedtest.net.Naziitness.com&path=%2FTelegram%2CV%50%4e%43%55%53T%4fM%49%5a%45%3Fed%3D2480&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://bm9uZTphY2JhY2FiLWFhYmMtY2JhYS1iYWRjLWJhYmNjY2NiYWFiYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://9f4a644b-877b-4fa0-aec4-db827525d02e@104.17.148.22:8443?security=tls&sni=Join.V%50%4e%43%55%53T%4fM%49%5a%45.www.speedtest.net.Naziitness.com&type=ws&host=Join.V%50%4e%43%55%53T%4fM%49%5a%45.www.speedtest.net.Naziitness.com&path=%2FTelegram%2CV%50%4e%43%55%53T%4fM%49%5a%45%3Fed%3D2480&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://cacbaab-acba-acab-dcba-abccabccabba@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaU5EQm1ZalUyWXkxbU5UTTRMVFJpWmpJdE9UVXhaUzFpTmpRMVpqUTRZams1TXpj@hzhz1.sssyun.xyz:39202#👉🆔 @v2ray_configs_pool📡🇨🇳China
