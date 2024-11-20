@@ -1,10 +1,10 @@
-vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@16.171.204.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-directvpn@15.157.248.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=%2F&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@16.171.204.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=%2F&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-directvpn@15.157.248.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.66.47.192:443?path=%2F&security=tls&encryption=none&host=dabF5Ca6.dE1-1nD.PaGeS.dEv&type=ws&sni=dabF5Ca6.dE1-1nD.PaGeS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.240.204.236:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.240.204.236:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://8694eae6-03aa-47ab-9202-7869268f1dd5@104.17.207.36:8880?path=%2F&security=none&encryption=none&host=join-daily-configs.broken-dreams.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
