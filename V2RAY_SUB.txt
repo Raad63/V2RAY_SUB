@@ -1,10 +1,10 @@
+vless://5041ad08-41e9-4bf0-843e-2edb316e0df5@104.17.231.69:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://3b05fc15-0b19-4362-b7a3-13ac3cac1350@151.101.2.216:80?security=none&type=ws&host=Berim3arddekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3b05fc15-0b19-4362-b7a3-13ac3cac1350@151.101.2.216:80?security=none&type=ws&host=Berim3arddekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.35.137.32:443#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.203:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.203:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@35.181.188.134:22222?allowInsecure=0#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://5041ad08-41e9-4bf0-843e-2edb316e0df5@104.17.101.35:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.203:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3b05fc15-0b19-4362-b7a3-13ac3cac1350@151.101.2.216:80?security=none&type=ws&host=Berim3arddekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5041ad08-41e9-4bf0-843e-2edb316e0df5@104.17.101.35:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.35.137.32:443#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.203:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.203:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.203:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
