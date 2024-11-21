@@ -1,10 +1,10 @@
-trojan://telegram-id-privatevpns@13.48.65.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@99.79.116.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.92.104.124:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@13.48.65.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-directvpn@99.79.116.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@99.79.116.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@us.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@ca.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@ca.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@lu.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
+hy2://6d775f37-72a3-4208-813b-c9c8ab5f2452@lu.jisovpn.site:443/?mport=30000-40000#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
