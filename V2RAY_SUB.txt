@@ -1,10 +1,10 @@
-vless://28dedfa9-edfd-47d1-9960-9ece0dfdd4a5@104.17.147.22:8880?security=none&type=ws&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?security=tls&type=ws&sni=23sPT.pAGEs.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=23spt.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.16.25.46:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://28dedfa9-edfd-47d1-9960-9ece0dfdd4a5@104.17.147.22:8880?security=none&type=ws&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@104.16.25.46:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://auto@162.159.44.176:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://552b5df7-252d-4ecb-818d-8e079a1ce2ad@104.17.148.22:443?security=tls&sni=pages.dev&type=ws&host=xwas.pages.dev&path=%2FTelegram-Xv2ry2-8%3Fed%3D1080#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://WOeXShhJpL@104.19.252.45:443?security=tls&type=ws&sni=06jzus.zdzdzd.xyz&path=/juzigongyi&host=06jzus.zdzdzd.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://fbb44bfc-c1ad-4294-acbc-04da9734893b@104.26.6.182:443?security=tls&sni=yelan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fus-full.privateip.net&fp=random&alpn=h3,h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://28dedfa9-edfd-47d1-9960-9ece0dfdd4a5@104.17.147.22:8880?security=none&type=ws&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://fbb44bfc-c1ad-4294-acbc-04da9734893b@104.26.6.182:443?security=tls&sni=yelan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fus-full.privateip.net&fp=random&alpn=h3,h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://28dedfa9-edfd-47d1-9960-9ece0dfdd4a5@104.17.147.22:8880?security=none&type=ws&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://WOeXShhJpL@104.19.252.45:443?security=tls&type=ws&sni=06jzus.zdzdzd.xyz&path=/juzigongyi&host=06jzus.zdzdzd.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@162.159.44.176:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?security=tls&type=ws&sni=23sPT.pAGEs.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=23spt.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://552b5df7-252d-4ecb-818d-8e079a1ce2ad@104.17.148.22:443?security=tls&sni=pages.dev&type=ws&host=xwas.pages.dev&path=%2FTelegram-Xv2ry2-8%3Fed%3D1080#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://552b5df7-252d-4ecb-818d-8e079a1ce2ad@104.17.148.22:443?security=tls&sni=pages.dev&type=ws&host=xwas.pages.dev&path=%2FTelegram-Xv2ry2-8%3Fed%3D1080#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://fbb44bfc-c1ad-4294-acbc-04da9734893b@104.26.6.182:443?security=tls&sni=yelan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fus-full.privateip.net&fp=random&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
