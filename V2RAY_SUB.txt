@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ%3D%3D@154.3.8.151:30067#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTolLU1WYTExJnpw@176.124.199.255:19999#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.84:443?security=tls&sni=9B446b2C.aesTiNgupLOaD.pAgES.DeV&alpn=h2,http/1.1&fp=randomized&type=ws&path=/Q4KAnxjo89nnWwSS?ed%3D2560&host=9b446b2c.aestingupload.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@zula.ir:443?security=tls&sni=9b446B2c.AesTINguPlOAD.pagES.dEv&alpn=h2,http/1.1&fp=randomized&type=ws&path=/habKldJNC1yQEUgb?ed%3D2560&host=9b446b2c.aestingupload.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@iranserver.com:443?security=tls&sni=9b446b2C.AEstINGuPloaD.paGEs.DEv&alpn=h2,http/1.1&fp=randomized&type=ws&path=/SVogCkLhumaPHSpv?ed%3D2560&host=9b446b2c.aestingupload.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://I_Love_🇵🇸_SSHMax_4daa63a@www.speedtest.net:8080?path=%2Fhttpupgrade&security=none&encryption=none&host=AB.841.vpn.ir.de2.vless.sitespeedtest.net&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d123fad4-47a1-4f83-c5c1-541001798a66@Zmaoz.Faculty.UcdavIS.Edu:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=meloch-de.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.UcdavIS.Edu.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
