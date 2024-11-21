@@ -1,10 +1,10 @@
-ss://bm9uZTpiYWJjYWFjLWNhYmEtYWNhYi1kYWJjLWFiY2JhYWNiY2JjYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://bpb-trojan@104.17.147.22:443?security=tls&sni=10-bpb-wORkER-paNel.pAGEs.DeV&type=ws&host=10-bpb-worker-panel.pages.dev&path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://acbacba-aacb-caba-dbca-cbbaccbacaab@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://acbacba-aacb-caba-dbca-cbbaccbacaab@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://bpb-trojan@104.17.147.22:443?security=tls&sni=10-bpb-wORkER-paNel.pAGEs.DeV&type=ws&host=10-bpb-worker-panel.pages.dev&path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560&fp=randomized&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://bm9uZTpiYWJjYWFjLWNhYmEtYWNhYi1kYWJjLWFiY2JhYWNiY2JjYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@fr01.ssyhi.xyz:50242#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-trojan://d6917779-3141-403c-81b7-3e1d3a5b27b6@gzog.runjustfast.com:30105?allowInsecure=1&sni=us1.runjustfast.com#👉🆔 @v2ray_configs_pool📡🇨🇳China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE@vn01.ssyhi.xyz:50233#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@92.222.181.77:80/?type=ws&encryption=none&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://1a97f78b-aaec-4ca4-9c97-16b0d7e631d6@185.146.173.58:8080/?type=ws&encryption=none&host=lc81.lebasnoo.ir.&path=%2Fservernett#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://47f78a35-9378-4ba8-97d3-959cbaa36050@151.101.3.8:80/?type=ws&encryption=none&host=barkatc1.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAidml2by5jb20uYnIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidjU4LnRodXIuc3RvcmUiLCAiaWQiOiAiYzE4MzYzNmQtYTE3NC00N2I5LWNjZjgtMzQ0MmU2ZTFlYzgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90Lm1lL3JlZGJ1bGx2cG5zcyIsICJwb3J0IjogIjIwODYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.0.51:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053/?type=ws&encryption=none&host=78345.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=ax78345V2ray.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@www.visa.com:2082/?type=ws&encryption=none&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@www.visa.com:2086/?type=ws&encryption=none&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@www.visa.com:2052/?type=ws&encryption=none&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@www.visa.com:8880/?type=ws&encryption=none&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
