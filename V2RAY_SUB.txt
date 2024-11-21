@@ -1,10 +1,10 @@
 vless://4b497bae-8499-45a8-ae48-d0f46e8014b2@151.101.192.155:80?security=none&type=ws&sni=dachibodoberim.net&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://43cf5a35-32ee-43cb-9c5d-7832a0d2534f@151.101.64.155:80?security=none&type=ws&sni=Berim3arazekar.net&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.0.51:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://925b31c8-73d3-44d4-e087-af7b7ff7e490@104.17.147.22:8080?security=none&type=ws&sni=1p1.diginoshops2.ir&path=/Fox?ed=2048&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://43cf5a35-32ee-43cb-9c5d-7832a0d2534f@151.101.64.155:80?security=none&type=ws&sni=Berim3arazekar.net&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://925b31c8-73d3-44d4-e087-af7b7ff7e490@104.17.147.22:8080?security=none&type=ws&sni=1p1.diginoshops2.ir&path=/Fox?ed=2048&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://4b497bae-8499-45a8-ae48-d0f46e8014b2@151.101.192.155:80?security=none&type=ws&sni=dachibodoberim.net&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.0.51:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://925b31c8-73d3-44d4-e087-af7b7ff7e490@104.17.147.22:8080?security=none&type=ws&sni=1p1.diginoshops2.ir&path=/Fox?ed=2048&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
