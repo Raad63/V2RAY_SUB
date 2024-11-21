@@ -1,10 +1,10 @@
-vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg97.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg97.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#👉🆔 @v2ray_configs_pool📡🇷🇸Serbia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vmess://eyJhZGQiOiAiMTcyLjY3LjE2My4xOTciLCAiYWlkIjogMSwgImhvc3QiOiAiYi5zZXJrYXQub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJiLnNlcmthdC5vcmciLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzT0o3V282eUhxV1F2OEZVRXEzQktW@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzT0o3V282eUhxV1F2OEZVRXEzQktW@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#👉🆔 @v2ray_configs_pool📡🇷🇸Serbia
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://6fa89ab8-88cd-497b-a6df-a61583e2bdfd@nightgemshop.tbhuf.com:2095?security=none&type=httpupgrade&headerType=&path=%2Fwss9000%3Fed%3D2560&host=De.www.speedtest.net.ftp.debian.org.NIGHTGEMSHHOP.de.tbhuf.com.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiYmUudGF3YXJkLm9yZyIsICJhaWQiOiAiMSIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJiZS50YXdhcmQub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiYmUudGF3YXJkLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://6fa89ab8-88cd-497b-a6df-a61583e2bdfd@nightgemshop.tbhuf.com:2095?security=none&type=httpupgrade&headerType=&path=%2Fwss9000%3Fed%3D2560&host=NL.www.speedtest.net.ftp.debian.org.NIGHTGEMSHHOP.nl.tbhuf.com.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6fa89ab8-88cd-497b-a6df-a61583e2bdfd@nightgemshop.tbhuf.com:2095?security=none&type=httpupgrade&headerType=&path=%2Fwss9000%3Fed%3D2560&host=De.www.speedtest.net.ftp.debian.org.NIGHTGEMSHHOP.de.tbhuf.com.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6fa89ab8-88cd-497b-a6df-a61583e2bdfd@nightgemshop.tbhuf.com:2095?security=none&type=httpupgrade&headerType=&path=%2Fwss9000%3Fed%3D2560&host=NL.www.speedtest.net.ftp.debian.org.NIGHTGEMSHHOP.nl.tbhuf.com.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6fa89ab8-88cd-497b-a6df-a61583e2bdfd@nightgemshop.tbhuf.com:2095?security=none&type=httpupgrade&headerType=&path=%2Fwss9000%3Fed%3D2560&host=TR.www.speedtest.net.ftp.debian.org.NIGHTGEMSHHOP.tr.tbhuf.com.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6fa89ab8-88cd-497b-a6df-a61583e2bdfd@nightgemshop.tbhuf.com:2095?security=none&type=httpupgrade&headerType=&path=%2Fwss9000%3Fed%3D2560&host=ES.www.speedtest.net.ftp.debian.org.NIGHTGEMSHHOP.es.tbhuf.com.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
