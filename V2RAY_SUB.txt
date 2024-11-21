@@ -1,10 +1,10 @@
-vless://20fda433-1864-433b-b3dd-8f119fe4cafd@176.125.231.110:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=happy.mianfeicf.lol&type=ws&sni=happy.mianfeicf.lol#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.130.20.40:1001?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@59.149.204.218:54321?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.116:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lu.ylks.us.kg&type=ws&sni=lu.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@8.218.193.207:3333?security=tls&headerType=none&type=tcp&sni=alihk.yuwenle.vip#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.94.206.40:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&fp=chrome&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.107.128.26:854?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.30:443?path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io&security=tls&encryption=none&host=lu.ylks.us.kg&type=ws&sni=lu.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://20fda433-1864-433b-b3dd-8f119fe4cafd@46.32.186.234:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=happy.mianfeicf.lol&type=ws&sni=happy.mianfeicf.lol#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.53:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lu.ylks.us.kg&type=ws&sni=lu.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.14.116.12:8000?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.2.73.137:7000?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@212.13.236.132:10001?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&fp=chrome&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇸🇮Slovenia
+trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@alisg.yuwenle.vip:3333?security=tls&headerType=none&type=tcp&sni=alisg.yuwenle.vip#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@92.118.190.71:55555?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.13.248.74:8000?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇧🇬Bulgaria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://20fda433-1864-433b-b3dd-8f119fe4cafd@216.173.70.80:443?path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io&security=tls&encryption=none&host=happy.mianfeicf.lol&type=ws&sni=happy.mianfeicf.lol#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.182.136.181:2222?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
