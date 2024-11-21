@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&security=tls&encryption=none&host=e9d3eb512aa9425cbfaa.gym-aik.info&fp=chrome&type=ws&sni=e9d3eb512aa9425cbfaa.gym-aik.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&security=tls&encryption=none&host=9257e783f5194385874e.gym-aik.info&fp=chrome&type=ws&sni=9257e783f5194385874e.gym-aik.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&security=tls&encryption=none&host=5543572623804175acde.gym-aik.info&fp=chrome&type=ws&sni=5543572623804175acde.gym-aik.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vmess://eyJhZGQiOiAib3ZvLmlkIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImV1LTIuaGlodS5uZXQiLCAiaWQiOiAiODkzZDA2YjAtYTdmNC0xMWVmLWIzMzUtMjA1YzZkNWY1ZDc4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9xMDNvYjVhaCIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
+vless://5324b17f-c2ff-497e-a2bd-1cc864149ecb@k2vu4c.de3.bigtwttwtwtwty.store:9444?security=none&path=%2F&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&security=tls&encryption=none&host=cadb4a1d67db46e4b399.gym-aik.info&fp=chrome&type=ws&sni=cadb4a1d67db46e4b399.gym-aik.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&security=tls&encryption=none&host=e9d3eb512aa9425cbfaa.gym-aik.info&fp=chrome&type=ws&sni=e9d3eb512aa9425cbfaa.gym-aik.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&security=tls&encryption=none&host=9257e783f5194385874e.gym-aik.info&fp=chrome&type=ws&sni=9257e783f5194385874e.gym-aik.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&security=tls&encryption=none&host=5543572623804175acde.gym-aik.info&fp=chrome&type=ws&sni=5543572623804175acde.gym-aik.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&security=tls&encryption=none&host=cadb4a1d67db46e4b399.gym-aik.info&fp=chrome&type=ws&sni=cadb4a1d67db46e4b399.gym-aik.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
