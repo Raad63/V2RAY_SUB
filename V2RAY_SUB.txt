@@ -1,10 +1,10 @@
-vless://6d8e7bd1-de2b-4188-bc9d-999d1602dd0b@154.197.88.97:443?path=%2Fanything%2Fopenproxylist.com-JOKER666joker12345%2Fvless&security=tls&encryption=none&host=oplist-de.dnss.cc&type=ws&sni=oplist-de.dnss.cc#👉🆔 @v2ray_configs_pool📡🇵🇰Pakistan
-trojan://bpb-trojan@190.93.246.121:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-vless://ca06ac35-c4dd-476b-8c5f-ff92abc37799@23.26.217.56:20443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vless.pages.us.kg&type=ws&sni=vless.pages.us.kg#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?path=%2Fsecurity%3Dtlsfp%3Dchrome&security=tls&encryption=none&host=VIrgiNiavPn-nL.pagEs.dEv&type=ws&sni=VIrgiNiavPn-nL.pagEs.dEv#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@92.118.190.71:55555?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://bpb-trojan@188.114.99.85:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@108.162.196.184:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@173.245.59.182:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@125.128.118.250:27018?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+trojan://bpb-trojan@190.93.244.202:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@61.80.1.32:28006?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@65.21.158.255:2222?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+trojan://bpb-trojan@103.21.244.42:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@108.162.198.69:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.217.135.15:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+trojan://bpb-trojan@198.41.204.192:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e446048f-725e-5d74-8c38-6e7f7b5dbfc9@104.18.165.39:80?path=%2FTelegram-VPNCUSTOMIZE%2Fhttpupgrade%2FTelegram-VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8.xn--cr8VPNCUSTOMIZE.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8h.be2.vless.sitespeedtest.net&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@103.21.244.215:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
