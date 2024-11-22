@@ -1,10 +1,10 @@
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?path=%2F&security=none&encryption=none&fp=chrome&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@179.43.144.10:8000?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+vless://b8e24ec7-b282-46a9-b1ed-92583b1a5120@109.172.94.60:8443?security=none&encryption=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://2e9a0784-86fc-4e1b-861f-5dd6430cfdce@172.65.90.53:443?path=%2FU5AfE17Rjr2OAkTk%2FdHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=turkey-hp.pages.dev&fp=randomized&type=ws&sni=tUrkey-hP.PagES.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c2483eb9-0a73-5c60-be30-720926aa00d3@185.146.173.42:80?path=%2Fvless&security=none&encryption=none&host=Fr2.vless.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://c2483eb9-0a73-5c60-be30-720926aa00d3@185.146.173.42:80?path=%2Fvless&security=none&encryption=none&host=Fr2.vless.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://c2483eb9-0a73-5c60-be30-720926aa00d3@185.146.173.42:80?path=%2Fvless&security=none&encryption=none&host=Fr2.vless.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.153.20:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lu.ylks.us.kg&type=ws&sni=lu.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@49.12.191.34:1001?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@179.43.144.10:8000?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@49.12.191.34:1001?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.153.20:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=lu.ylks.us.kg&type=ws&sni=lu.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.211.207.185:587?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://40b3cad9-7d45-4adb-9478-370200da28ad@104.17.147.22:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.i.xn--112-qze36dsg.cdn.kiava.live.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://40b3cad9-7d45-4adb-9478-370200da28ad@join.kiava.cloud.ohbah.com:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.i.xn--112-qze36dsg.cdn.kiava.live.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
