@@ -1,10 +1,10 @@
-vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&sid=ad52706b&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?encryption=none&security=tls&sni=tnetplus3.pages.dev&fp=randomized&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://telegram-id-ArV2ray@ArV2ry.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=Fer34sowk.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ%3D@205.134.180.145:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://dns68@206.238.237.1:2087?path=%2F%3Fed&security=tls&host=trojan.putata.us.kg&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.47:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.103:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.198:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUkc2SEt2RFlwM01meFBVZDRCQldm@37.221.126.186:54335#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@141.101.114.52:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://dns68@135.84.79.80:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://dns68@199.68.156.69:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
