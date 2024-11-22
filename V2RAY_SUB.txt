@@ -1,10 +1,10 @@
-vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&host=SvnTeam.Svn10.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4e60aba1-5ea1-4b70-a4ad-705ee0a0e598@104.18.189.218:443?path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bia-daily-configs.pages.dev&fp=randomized&type=ws&sni=Bia-dAIly-coNfIGS.pAgEs.deV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://bIa-DailY_cOnFIgs@104.17.207.36:443?path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&host=kanale-daily-configs.blackoutconnection.ir&fp=randomized&type=ws&sni=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://4e60aba1-5ea1-4b70-a4ad-705ee0a0e598@172.66.47.146:8443?path=%2FS8hbexPGCH11S6cm%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bia-daily-configs.pages.dev&fp=randomized&type=ws&sni=bIA-dAILY-cONfIGs.PAGES.deV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&host=SvnTeam.Svn10.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://72f43887-1fab-474c-8ed7-d278322030a7@speedtest.net:443?path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN%3Fed%3D2048&security=tls&encryption=none&host=snapp.com&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://tell--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=mahex.com&fp=chrome&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3fecfaf1-02c1-436d-83b2-d43ddd82fd59@ergwork.web.unc.edu:443?path=%2Ftelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%3Fed%3D2048&security=tls&encryption=none&host=sobip.ir&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
