@@ -1,10 +1,10 @@
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@13.49.187.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@13.49.187.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.106.168:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-privatevpns@13.49.187.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://dns68@199.68.156.69:443?path=%2F%3Fed%3D2560&security=tls&alpn=http/1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://dns68@199.68.156.69:443?path=%2F%3Fed%3D2560&security=tls&alpn=http/1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=dachibodoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMkpWdmdTN29Ga2YySEFkaUpIZURr@150.241.101.222:25543#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@13.40.168.45:8443/?type=ws&encryption=none&host=lu.kpcloud.eu.org&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io&security=tls&sni=lu.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.123.215:443/?type=ws&encryption=none&host=lw.kpcloud.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=lw.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.220.155:443/?type=ws&encryption=none&host=lw.kpcloud.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=lw.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSnlpMGUycjRlbTFwWFRHMjc0anpS@207.154.193.100:23831#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ba56daa7-f135-4634-9805-891de5fe529b@24.144.76.38:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ariogames.ir&fp=chrome&security=reality&pbk=6agxUXxywMuy9N-qLCKxJVvZ-qrBGkCz-LS_TJY7EiA&sid=2f641fff#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.37.12.70:8090#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://47f78a35-9378-4ba8-97d3-959cbaa36050@151.101.3.8:80/?type=ws&encryption=none&host=barkatc1.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+tuic://51552a7c-a7cf-4182-a0ab-d824e965707e:51552a7c-a7cf-4182-a0ab-d824e965707e@68.183.46.212:8883/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1&disable_sni=1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
