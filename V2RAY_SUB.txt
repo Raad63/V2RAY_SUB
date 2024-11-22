@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://fdb667db-7ba5-4f9c-aa1f-705504706257@ru2.pls-hope.ir:2095?path=%2Fquran.vinatech.ir%2Fru2.pls-hope.ir%3Fed%3D2095&security=none&encryption=none&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://da6ffa1c-1a3b-4724-927c-66ec280d39dd@r.iphone-shopp.ir:5743?mode=gun&security=reality&encryption=none&authority=&pbk=keoiUuaCZJq789ifZNHJ9jNyI_GnI-R-iYtsDhzu0Qg&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=c8e110c0e0959f62#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://da6ffa1c-1a3b-4724-927c-66ec280d39dd@WWW.SPEEDTEST.NET:2096?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=2096vless&sni=5ksdjfghshehusd-345893456438-dsfjshdgfjk-34543543gfg.jsfui232.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://da6ffa1c-1a3b-4724-927c-66ec280d39dd@WWW.SPEEDTEST.NET:2096?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=2096vless&sni=5ksdjfghshehusd-345893456438-dsfjshdgfjk-34543543gfd.jsfui232.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://da6ffa1c-1a3b-4724-927c-66ec280d39dd@r.iphone-shopp.ir:20543?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ff48d680-490f-42f2-8c07-6bf738862bcc@188.245.144.178:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=342647820-000291.pages.dev&fp=chrome&type=ws&sni=PAgEs.dev#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=BloOM-cHh.PagEs.dEv&type=ws&sni=BloOM-cHh.PagEs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://24f65efb-4885-4e3c-b598-f70336ce8c63@185.121.235.210:9999?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=78345.pages.dev&type=ws&sni=ax78345V2ray.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=BloOM-cHh.PagEs.dEv&type=ws&sni=BloOM-cHh.PagEs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=78345.pages.dev&type=ws&sni=ax78345V2ray.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
