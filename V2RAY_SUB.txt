@@ -1,10 +1,10 @@
-trojan://telegram-id-privatevpns@13.38.151.146:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-trojan://telegram-id-privatevpns@52.57.194.190:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://8f5da459-372e-40c5-a7a7-f85f2f168be6@172.64.155.187:2086?type=ws&host=22tg.tia71p6j.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8f5da459-372e-40c5-a7a7-f85f2f168be6@172.64.155.187:2086?type=ws&host=22tg.tia71p6j.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@139.224.111.72:40501#👉🆔 @v2ray_configs_pool📡🇨🇳China
 vless://8f5da459-372e-40c5-a7a7-f85f2f168be6@104.18.32.69:8080?type=ws&host=22tg.tia71p6j.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://8f5da459-372e-40c5-a7a7-f85f2f168be6@172.64.155.187:2086?type=ws&host=22tg.tia71p6j.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.21.31.96:443?security=tls&sni=jobscareerfortoday.com&type=ws&path=/6b777a91&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@139.224.111.72:40501#👉🆔 @v2ray_configs_pool📡🇨🇳China
-ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@8.138.184.143:40303#👉🆔 @v2ray_configs_pool📡🇨🇳China
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.21.31.96:443?security=tls&sni=jobscareerfortoday.com&type=ws&path=/6b777a91&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.21.31.96:443?security=tls&sni=jobscareerfortoday.com&type=ws&path=/6b777a91&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://458f30b9-5ed9-477e-9d7a-9b587c02fea2@151.101.0.155:80?security=none&type=ws&host=api.nhl.ir&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiAiMTYyLjE1OS4xNDAuOTMiLCAiYWlkIjogMCwgImhvc3QiOiAiaXAyLjYwMTY3MjUueHl6IiwgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJwb3J0IjogMjA5NSwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
-vless://8f5da459-372e-40c5-a7a7-f85f2f168be6@104.18.32.69:8080?type=ws&host=22tg.tia71p6j.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@8.138.184.143:40303#👉🆔 @v2ray_configs_pool📡🇨🇳China
