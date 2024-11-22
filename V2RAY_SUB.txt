@@ -1,10 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2ecad0f1-e10d-4842-9515-281143f41fd3@158.101.30.100:80?security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&type=tcp&fp=edge&pbk=izn-kSAh0gSQMB8n3i4qh2s_T012tiFLGJxOvpz2pR4&sid=72e0a649#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6803d696-9541-4bab-8c90-e7f634513ec4@188.245.186.245:5443?mode=gun&security=reality&encryption=none&authority=&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=902736d426f64e34#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=%2F6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://670cf7b0-76ba-4dd0-b5a8-7b47abcad13e@154.26.209.213:8008?security=reality&flow=xtls-rprx-vision&sni=www.python.com&type=tcp&fp=ios&pbk=r-R5kXnV9VWeUIPSpp2We34NrP2OnVk4omHJ7npgXh0&sid=3a5ff6b1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://auto@104.20.22.250:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ff48d680-490f-42f2-8c07-6bf738862bcc@188.245.144.178:443?path=%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=342647820-000291.pages.dev&fp=chrome&type=ws&sni=PAgEs.dev#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw@51.222.157.179:49602#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.66.88:443?path=%2FfT8MIkfUo1nRNZwI%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=PPaL03.fiFil63521.wOrKeRs.DEV&fp=randomized&type=ws&sni=ppAL03.FiFIl63521.WoRKErS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FZH3LPJYAMRGs8mZm%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ppAL03.fIfil63521.wORkeRS.DeV&fp=randomized&type=ws&sni=PpAL03.fiFIl63521.WoRKeRs.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FZH3LPJYAMRGs8mZm%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ppAL03.fIfil63521.wORkeRS.DeV&fp=randomized&type=ws&sni=PpAL03.fiFIl63521.WoRKeRs.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.66.88:443?path=%2FfT8MIkfUo1nRNZwI%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=PPaL03.fiFil63521.wOrKeRs.DEV&fp=randomized&type=ws&sni=ppAL03.FiFIl63521.WoRKErS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
