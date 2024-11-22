@@ -1,10 +1,10 @@
 vless://d8038434-51de-440b-9521-d114503e57af@172.66.47.146:443?security=tls&sni=bIa-daILy-CoNFigS.PAgEs.DEV&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D1024&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 trojan://bpb-trojan@190.93.246.23:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
 trojan://bpb-trojan@188.114.97.36:443?allowInsecure=0&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://bpb-trojan@188.114.97.36:443?allowInsecure=0&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://bpb-trojan@104.16.235.24:443?allowInsecure=0&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE4OC4xMTQuOTcuMiIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAic25pIjogIm9iZGlpLmNmZCIsICJob3N0IjogIm9iZGlpLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
-trojan://bpb-trojan@188.114.98.89:443?security=tls&sni=bpB-woRker-PanEL-AY6.pagEs.dev&type=ws&host=bpB-woRker-PanEL-AY6.pagEs.dev&path=%2FtrBLUKS93cpgZZCas5%3Fed#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://bpb-trojan@141.101.114.163:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://d8038434-51de-440b-9521-d114503e57af@172.66.47.146:443?security=tls&sni=bIa-daILy-CoNFigS.PAgEs.DEV&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D1024&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://d8038434-51de-440b-9521-d114503e57af@172.66.47.146:443?security=tls&sni=bIa-daILy-CoNFigS.PAgEs.DEV&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D1024&fp=randomized&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://bpb-trojan@188.114.98.89:443?security=tls&sni=bpB-woRker-PanEL-AY6.pagEs.dev&type=ws&host=bpB-woRker-PanEL-AY6.pagEs.dev&path=%2FtrBLUKS93cpgZZCas5%3Fed#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
