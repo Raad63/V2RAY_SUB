@@ -1,10 +1,10 @@
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.220.155:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lw.kpcloud.eu.org&type=ws&sni=lw.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.219:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.196.151:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lw.kpcloud.eu.org&type=ws&sni=lw.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.196.151:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lw.kpcloud.eu.org&type=ws&sni=lw.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.219:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.136:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3dc63b98-1945-4cc5-ed73-655558ad3965@94.130.99.166:54835?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.220.155:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lw.kpcloud.eu.org&type=ws&sni=lw.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
