@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3474e816-6b50-434f-bad6-8b9a2d5c74d6@104.21.69.44:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=i-sn-83.pages.dev&fp=chrome&type=ws&sni=i-sn-83.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&fp=chrome&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f1597f6e-e6ab-42f5-a153-7b958522358a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arazekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@54.187.134.205:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@63.33.244.106:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@63.33.244.106:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&fp=chrome&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl2.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f1597f6e-e6ab-42f5-a153-7b958522358a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arazekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f1597f6e-e6ab-42f5-a153-7b958522358a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arazekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl2.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
