@@ -1,10 +1,10 @@
+trojan://bpb-trojan@188.114.98.89:443?path=%2FtrBLUKS93cpgZZCas5%3Fed&security=tls&host=bpB-woRker-PanEL-AY6.pagEs.dev&type=ws&sni=bpB-woRker-PanEL-AY6.pagEs.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://1722b819-77a6-4db0-998f-2e23e888fa56@178.239.144.145:34740?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=%D9%86%DA%AF%D8%A7%D9%87+%D9%86%DA%A9%D9%86+%D9%86%DB%8C%DA%AF%D8%A7#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vless://de44b044-8f90-4e18-b742-16591667ff96@158.23.81.224:2053?security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=edgetunnel-free.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇲🇽Mexico
-vless://f4397322-d5fa-11ee-aaa8-00505603e70d@172.67.73.241:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-pl-1.brocdn.com&type=ws&sni=st-pl-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@15.157.80.197:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://20fda433-1864-433b-b3dd-8f119fe4cafd@195.123.211.175:443?security=tls&sni=happy.mianfeicf.lol&type=ws&path=/?ed%3D2560&host=happy.mianfeicf.lol&encryption=none#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=%2F6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://20fda433-1864-433b-b3dd-8f119fe4cafd@46.22.213.78:8443?security=tls&sni=happy.mianfeicf.lol&type=ws&path=/?ed%3D2560&host=happy.mianfeicf.lol&encryption=none#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://e0d272b8-60df-5447-8009-ba324a09beff@185.146.173.98:80?path=%2Fvless&security=none&encryption=none&host=Uk2.vless.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.157.40.87:3306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsQktTcGhRT3poRm05STVmc2c1Z0s2@91.103.253.151:19057#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@188.114.98.23:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://20fda433-1864-433b-b3dd-8f119fe4cafd@188.124.64.173:16081?security=tls&sni=happy.mianfeicf.lol&type=ws&path=/?ed%3D2560&host=happy.mianfeicf.lol&encryption=none#👉🆔 @v2ray_configs_pool📡🇧🇬Bulgaria
+vless://20fda433-1864-433b-b3dd-8f119fe4cafd@217.196.104.83:8443?security=tls&sni=happy.mianfeicf.lol&type=ws&path=/?ed%3D2560&host=happy.mianfeicf.lol&encryption=none#👉🆔 @v2ray_configs_pool📡🇷🇸Serbia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg%3D@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
