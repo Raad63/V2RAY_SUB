@@ -1,10 +1,10 @@
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xNy4xNDcuMjIiLCAicG9ydCI6IDg4ODAsICJpZCI6ICIzYmMxMWJlNS00NGVlLTQ0NTYtOWQyOS1hMzE2YmNlNGExN2UiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIyaWcuaXJ2bi5kZWJpYW4uNi42LjFiMS44LmZ4cC5kZWJpYW4ub3JnLnNwZWVkdGVzdC5uZXQuXHU1MjE3XHU1MjE3XHU3NTM3XHU0ZThiXHU3Njg0XHU0ZThiXHU1MjE3XHU0ZTBhXHU4ZDViLmFia29uLmN5b3UuIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
 ss://bm9uZTphYmNjYmFhLWFjYWItYWNiYS1jYWRiLWJiYmNjYWNhY2JhYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@35.162.250.210:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@35.82.220.73:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@35.82.220.73:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://21ce3bb2-d0af-448c-92b2-3b16a031e74e@151.101.2.216:80?security=none&type=ws&host=servicepanelMaMali.bomali.mamad.ir.servicespanel.ir.&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@104.27.85.4:443?sni=adagio.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@104.27.85.4:443?sni=adagio.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@35.82.220.73:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6f79fe4e-af90-40ad-a4ae-ce757c493f04@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2056&security=none&encryption=none&host=cn.www.speedtest.net.上帝.god.allah.lightninge.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@34.231.80.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@198.41.202.57:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=joiNv2ngFaST.PAgES.DeV&type=ws&sni=JOINv2nGFast.PagEs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
