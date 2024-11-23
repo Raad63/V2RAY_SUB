@@ -1,10 +1,10 @@
-vless://38af79a5-68cb-415e-8638-40adaf38bb05@ip-tamiz.antishop.sbs:2052?path=%2F%3Fed%3D443&security=none&encryption=none&host=https.www.http.com.org.top.antiteam.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://01c8e316-66bf-490a-86d5-efcc674c66c6@www.speedtest.net:8880?type=ws&path=%2FOmid%3Fed%3D2560&host=m.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@34.213.254.41:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@35.82.220.73:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.245.44.169:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://532c5761-9ad0-4d5f-bef5-d84bb996edd8@104.19.150.10:8080?type=httpupgrade&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D443&host=https.www.com.musicfa99.ir.&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.245.36.101:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@34.216.149.125:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@52.36.129.33:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@54.185.142.59:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@52.11.190.174:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://84be8333-a273-4bd8-8421-9b7f62ba58fe@2.189.59.2:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=grcp.floorshoping22.com#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.228.87.127:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://96b4eabb-fb01-450b-978b-c050085c6d51@ip-tamiz.antishop.sbs:8880?encryption=none&security=none&type=httpupgrade&host=https.www.mahdi.http.com.org.top.antiteam.ir.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D443#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://2d12baa0-d4e7-463a-814a-740adebe1f1d@www.speedtest.net:8880?type=ws&path=%2FOmid%3Fed%3D2560&host=m.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.226.95.125:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.229.159.118:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2d12baa0-d4e7-463a-814a-740adebe1f1d@www.speedtest.net:8880?path=%2FOmid%3Fed%3D2560&security=none&encryption=none&host=m.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.228.87.127:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@52.11.40.146:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
