@@ -1,10 +1,10 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.220.155:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lw.kpcloud.eu.org&type=ws&sni=lw.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.219:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.219:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.136:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.136:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.196.151:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lw.kpcloud.eu.org&type=ws&sni=lw.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.196.151:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=lw.kpcloud.eu.org&type=ws&sni=lw.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://fcf99985-147b-4c71-c3f2-f448e5a379f1@45.63.117.50:443?security=tls&sni=cpanel3.sassanidempire.com&alpn=http/1.1&type=ws&path=/ws&host=cpanel3.sassanidempire.com&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://fcf99985-147b-4c71-c3f2-f448e5a379f1@45.63.117.50:443?security=tls&sni=cpanel3.sassanidempire.com&alpn=http/1.1&type=ws&path=/ws&host=cpanel3.sassanidempire.com&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://5e5ed4b8-f4d1-4d65-af54-b90dafd3f31b@185.146.173.58:8080?security=&type=ws&path=/servernett&host=lc81.lebasnoo.ir.&encryption=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://5e5ed4b8-f4d1-4d65-af54-b90dafd3f31b@185.146.173.58:8080?security=&type=ws&path=/servernett&host=lc81.lebasnoo.ir.&encryption=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
