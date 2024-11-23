@@ -1,10 +1,10 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.107.107:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://38af79a5-68cb-415e-8638-40adaf38bb05@ip-tamiz.antishop.sbs:2052?type=httpupgrade&path=%2F%3Fed%3D443&host=https.www.http.com.org.top.antiteam.ir.&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-trojan://telegram-id-directvpn@51.44.134.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@52.36.129.33:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@63.176.182.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@54.188.171.233:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.245.30.99:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@51.44.145.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.236.40.161:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@35.162.250.210:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@3.125.56.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=api.nhl4.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@52.25.100.242:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://FuUaWS3YWG@Crunch.floorshoping22.com:2053?type=grpc&serviceName=&authority=&mode=multi&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=Crunch.floorshoping22.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@18.170.160.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@54.70.20.0:80?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://21ebeb34-11d7-4304-bd8d-180309f9cc74@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc1.ir&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.100.148:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@35.181.76.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
