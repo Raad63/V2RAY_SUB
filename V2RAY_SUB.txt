@@ -1,10 +1,10 @@
-vless://4e6a2a22-f226-4ade-80fe-4c076b53b1d3@172.67.138.69:8080?security=&type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://452f1138-18f7-4f6a-82ea-123277732f54@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4f16ce98-fd5b-40e1-aead-17f017c54086@mcc.rayanfmusic.ir:2096?security=tls&sni=mcc.rayanfmusic.IR&alpn=h2,h3,http/1.1&fp=ios&type=ws&path=/telegram-IRov2rayN,telegram-iroazadi,IRov2rayN-iroazadi,telegram-irov2rayN,telegram-irov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN?ed%3D2096&host=mcc.rayanfmusic.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://452f1138-18f7-4f6a-82ea-123277732f54@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://452f1138-18f7-4f6a-82ea-123277732f54@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.181:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.181:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.181:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.181:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
