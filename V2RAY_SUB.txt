@@ -1,10 +1,10 @@
-ss://bm9uZTphYmJjYWNhLWJhY2EtYWJjYS1hYmNkLWFjYWNiYWNiYmJhYw==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://auto@172.66.47.150:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://Daily_Configs@104.17.91.181:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSXRPUWw3VEx0cmI5RGN3U0tscGFt@85.239.248.94:14976#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Daily_Configs@104.17.91.181:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSXRPUWw3VEx0cmI5RGN3U0tscGFt@85.239.248.94:14976#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6803d696-9541-4bab-8c90-e7f634513ec4@r.iphone-shopp.ir:5843?mode=gun&security=reality&encryption=none&authority=&pbk=Vk19B0UVrPCk4vFDYHiB_ML1j3KhY87e6dqCXMBQlR8&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=58bcbc38eae97b5d#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://bm9uZTphYmJjYWNhLWJhY2EtYWJjYS1hYmNkLWFjYWNiYWNiYmJhYw==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://bm9uZTpiYWNiYWFjLWFiY2EtYmFjYS1kYWJjLWJiY2FjY2JiYWNhYQ==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@172.67.153.59:443?sni=ssp1.100896.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@172.67.153.59:443?sni=ssp1.100896.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://40b3cad9-7d45-4adb-9478-370200da28ad@104.17.148.22:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.i.xn--112-qze36dsg.cdn.kiava.live.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@51.24.3.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.87:8091#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.104.59:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
