@@ -1,10 +1,10 @@
-vless://SVNTEAM@VpnWedBaZ.fastly80-2.hosting-ip.com:80?path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&security=none&encryption=none&host=SvnTeam.Svn10.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://Parsashonam-113@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://Parsashonam-113@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://9866995e-7225-4919-8de8-19a3f941c4d4@hajlab.ucdavis.edu:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&security=tls&fp=firefox&sni=hajlab.ucdavis.edu&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&sid=ad52706b&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?encryption=none&security=tls&sni=tnetplus3.pages.dev&fp=randomized&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://9866995e-7225-4919-8de8-19a3f941c4d4@hajlab.ucdavis.edu:443?type=ws&host=downloadlynet.ir.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&security=tls&fp=firefox&sni=hajlab.ucdavis.edu&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://Tel--V2RAXX@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
