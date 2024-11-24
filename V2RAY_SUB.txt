@@ -1,10 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ%3D@208.67.105.196:42029#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+trojan://dns68@135.84.79.80:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://ffd3906e-60c9-451e-8ed1-7114107e102c@104.18.12.229:8443?path=%2F&security=tls&encryption=none&host=pardazeshvpn-tg70.pages.dev&type=ws&sni=pardazeshvpn-tg70.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3474e816-6b50-434f-bad6-8b9a2d5c74d6@104.21.69.44:443?path=mehdi%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=i-sn-83.pages.dev&fp=chrome&type=ws&sni=i-sn-83.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3474e816-6b50-434f-bad6-8b9a2d5c74d6@104.21.69.44:443?path=mehdi%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=i-sn-83.pages.dev&fp=chrome&type=ws&sni=i-sn-83.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8d433de7-5728-407a-9529-43933ca44646@Manager.ImageFlowAI.ir:2096?security=reality&encryption=none&pbk=YAmYWNKMauwmkR50BntCkIs6Oi0TOfQkEXG4_p-5oVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filimo.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://8d433de7-5728-407a-9529-43933ca44646@Manager.ImageFlowAI.ir:2096?security=reality&encryption=none&pbk=YAmYWNKMauwmkR50BntCkIs6Oi0TOfQkEXG4_p-5oVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filimo.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://21ebeb34-11d7-4304-bd8d-180309f9cc74@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc1.ir&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://dns68@199.68.156.69:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ%3D@208.67.105.196:42029#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://ca06ac35-c4dd-476b-8c5f-ff92abc37799@kinsley.ns.cloudflare.com:443?path=%2F&security=tls&encryption=none&host=vless.pages.us.kg&type=ws&sni=vless.pages.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@nufilter.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl4.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
