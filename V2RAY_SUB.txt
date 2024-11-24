@@ -1,10 +1,10 @@
-vless://0de65b37-d62f-11ee-aaa8-00505603e70d@104.16.60.8:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&alpn=http%2F1.1&fp=chrome&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vmess://eyJ2IjogIjIiLCAiYWRkIjogImphaGZramhhLmNmZCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImphaGZramhhLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiamFoZmtqaGEuY2ZkIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://telegram-id-directvpn@18.168.232.214:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://d27f15d9-aba2-4702-8648-2fb8e8689f36@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&host=meta1.modinso.ir&type=ws&sni=meta1.modinso.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bnR4cUhoUElOWHU1QWc2ODc2ZlhP@51.195.220.179:1080#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://d27f15d9-aba2-4702-8648-2fb8e8689f36@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=meta1.modinso.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=meta1.modinso.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.241.8.144:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bnR4cUhoUElOWHU1QWc2ODc2ZlhP@51.195.220.179:1080#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@18.168.232.214:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@18.168.232.214:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.241.8.144:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
