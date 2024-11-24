@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?encryption=none&security=tls&sni=jobscareerforlawyers.com&fp=chrome&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ffd3906e-60c9-451e-8ed1-7114107e102c@104.18.12.229:8443?path=%2F&security=tls&encryption=none&host=pardazeshvpn-tg70.pages.dev&type=ws&sni=pardazeshvpn-tg70.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&sni=dash.cloudflare.com&sid=f77e5398#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?encryption=none&security=tls&sni=jobscareerforlawyers.com&fp=chrome&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:80?path=%2F%40VPNCUSTOMIZE%2F%40VPNCUSTOMIZE%F0%9F%A7%94%F0%9F%8F%BC%E2%80%8D%E2%99%82%F0%9F%A7%94%F0%9F%8F%BC%E2%80%8D%E2%99%82%3Fed%3D512&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.victorcamper.dns-dynamic.net.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:80?path=%2F%40VPNCUSTOMIZE%2F%40VPNCUSTOMIZE%F0%9F%A7%94%F0%9F%8F%BC%E2%80%8D%E2%99%82%F0%9F%A7%94%F0%9F%8F%BC%E2%80%8D%E2%99%82%3Fed%3D512&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.victorcamper.dns-dynamic.net.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&sni=dash.cloudflare.com&sid=f77e5398#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.9:443?encryption=none&security=tls&sni=jobscareerfortoday.com&fp=chrome&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.42:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.42:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5a23974d-d620-11ee-aaa8-00505603e70d@172.67.158.12:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&alpn=http%2F1.1&fp=safari&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket%3Fed%3D@MARAMBASHI%2C@MARAMBASHI%2C@MARAMBASHI%2C@MARAMBASHI#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
