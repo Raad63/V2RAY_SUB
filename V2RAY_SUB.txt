@@ -1,10 +1,10 @@
-vless://6ac07096-da0a-454a-a8b0-c7dc54a9f163@151.101.2.228:80?security=&type=ws&path=ws/?ed%3D2048&host=ujhf5r5gub.com&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6ac07096-da0a-454a-a8b0-c7dc54a9f163@151.101.2.228:80?security=&type=ws&path=ws/?ed%3D2048&host=ujhf5r5gub.com&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://7790e51c-d4a1-461c-8afd-3dccc1859dbd@20.251.160.230:443?path=%2Fnews&security=none&encryption=none&host=yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-vless://7790e51c-d4a1-461c-8afd-3dccc1859dbd@20.251.160.230:443?path=%2Fnews&security=none&encryption=none&host=yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-trojan://telegram-id-directvpn@16.170.129.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://8ff11428-caa1-4863-94de-2f1e56281c25@79.127.70.88:443?security=none&encryption=none&host=fast.com%20%40Client_Proo&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-trojan://telegram-id-directvpn@16.170.129.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@188.114.96.1:8443?security=tls&sni=FREEDOM31.Pages.DEV&alpn=http/1.1&type=ws&path=/&host=FREEDOM31.Pages.DEV&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@188.114.96.1:8443?security=tls&sni=FREEDOM31.Pages.DEV&alpn=http/1.1&type=ws&path=/&host=FREEDOM31.Pages.DEV&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://77470ed6-7da8-47dc-8963-5f538ff08404@visa.cn:443?path=%2Ffrepurliteneww.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=frepurliteneww.pages.dev&fp=randomized&type=ws&sni=frepurliteneww.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5c33983c-2307-4672-ac9c-614327c4a394@104.17.254.227:443?path=%2F030f5f83.gaming-3ko.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=030f5f83.gaming-3ko.pages.dev&fp=randomized&type=ws&sni=030f5f83.gaming-3ko.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arazekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.37.12.70:8090#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@35.181.76.236:22222?sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://auto@104.20.22.92:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.17.74:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZW@194.87.82.28:12224#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
+trojan://auto@104.20.21.112:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.22.182:443?sni=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
