@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.151.65.13:46002?#👉🆔 @v2ray_configs_pool📡🇨🇳China
 vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.223.84.79:80?security=none&type=ws&host=ipcfusa.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-trojan://acbaacb-bcaa-acab-badc-cbbcacaababc@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.151.65.13:46002?#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.47.169:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg7.pages.dev&type=ws&sni=pardazeshvpn-tg7.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.151.65.13:46002?#👉🆔 @v2ray_configs_pool📡🇨🇳China
 vless://5dee9993-3b77-4f0a-8f90-6acbd58d2806@172.67.204.84:443?security=tls&sni=Birdxraytunneled.pages.dev&type=ws&host=birdxraytunneled.pages.dev&path=/uhTbsponEnSNnlWU?ed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.218:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://5dee9993-3b77-4f0a-8f90-6acbd58d2806@172.67.204.84:443?security=tls&sni=Birdxraytunneled.pages.dev&type=ws&host=birdxraytunneled.pages.dev&path=/uhTbsponEnSNnlWU?ed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://92c15dc4-6e60-5603-8a13-a760e1e87f3a@151.101.194.219:80?type=ws&host=ELiV2RaY-0.cOm#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://Daily_Configs@104.18.37.146:443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://bpb-trojan@172.66.47.53:443?security=tls&type=ws&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&path=/trSo3btsDgOHHUM6Nb&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://92c15dc4-6e60-5603-8a13-a760e1e87f3a@151.101.194.219:80?type=ws&host=ELiV2RaY-0.cOm#👉🆔 @v2ray_configs_pool📡🇺🇸United States
