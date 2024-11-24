@@ -1,10 +1,10 @@
-trojan://bpb-trojan@190.93.244.202:443/?type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed&security=tls&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-vless://telegram-EXPRESSVPN_420@expressvpn_420.fastly80-2.hosting-ip.com:80/?type=ws&encryption=none&host=Nobiteks.net&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://telegram-EXPRESSVPN_420@expressvpn_420.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Nobiteks.net&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://608743f6-2e9e-4ff8-b0b1-d27f12bfd5f1@185.146.173.52:8880/?type=httpupgrade&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://608743f6-2e9e-4ff8-b0b1-d27f12bfd5f1@185.146.173.52:8880/?type=httpupgrade&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://e0d272b8-60df-5447-8009-ba324a09beff@185.146.173.98:80/?type=ws&encryption=none&host=Uk2.vless.site.&path=%2Fvless#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418/?type=ws&encryption=none&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://e0d272b8-60df-5447-8009-ba324a09beff@185.146.173.98:80/?type=ws&encryption=none&host=Uk2.vless.site.&path=%2Fvless#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418/?type=ws&encryption=none&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://608743f6-2e9e-4ff8-b0b1-d27f12bfd5f1@185.146.173.52:8880/?type=httpupgrade&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://cafd4fd8-3346-4665-9750-81542bf8f143@79.127.70.86:443/?encryption=none&host=fast.com%20----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://cafd4fd8-3346-4665-9750-81542bf8f143@79.127.70.86:443/?encryption=none&host=fast.com%20----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vless://cafd4fd8-3346-4665-9750-81542bf8f143@79.127.70.86:443/?encryption=none&host=fast.com%20----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://8ff11428-caa1-4863-94de-2f1e56281c25@79.127.70.88:443/?encryption=none&host=fast.com%20%40Client_Proo&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ff11428-caa1-4863-94de-2f1e56281c25@79.127.70.88:443/?encryption=none&host=fast.com%20%40Client_Proo&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
