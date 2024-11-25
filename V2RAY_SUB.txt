@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.129:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@51.77.53.200:9102#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@51.77.53.200:9102#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
+vless://%74%65l%65g%72a%6d-%69d-%41r%562r%61y@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=cdiuw48.net&path=%2F%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@51.77.53.200:8080#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://d3882d5d-709a-4432-82cb-bcbaf986fbe1@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc1.ir&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://69c104f1-1d4e-4520-894c-e8db66350646@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://tel--%5aED%4d%4fDE%4f%4e@connectcarolina.sites.unc.edu:443?path=%2F%40%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e%40%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-TEL-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%40%5aED%4d%4fDE%4f%4e%3Fed%3D2048&security=tls&encryption=none&host=gamefa.com&type=ws&sni=connectcarolina.sites.unc.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Tel--%56%32%52%41%58%58@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-%56%32%52%41%58%58-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://%53%56N%54%45AM@VpnWedBaZ.fastly80-2.hosting-ip.com:80/?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&type=ws&path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&host=SvnTeam.Svn10.ir&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
