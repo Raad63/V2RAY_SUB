@@ -1,10 +1,10 @@
-trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.181:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.10:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+vless://caabbac-bcaa-aacb-acbd-acbbcbbacaca@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://f4397322-d5fa-11ee-aaa8-00505603e70d@172.67.73.241:443?security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=/websocket&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://acbbaac-abca-baca-cbda-bbaacccbbaac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://17d3952f-50ea-4a42-9dda-f5bb7aa03e9a@5.202.6.247:1487?security=none&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://f4397322-d5fa-11ee-aaa8-00505603e70d@172.67.73.241:443?security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=/websocket&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
