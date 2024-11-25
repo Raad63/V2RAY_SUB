@@ -1,10 +1,10 @@
-trojan://bpb-trojan@172.66.44.101:443?path=%2Ftrss18U9tGvEQvfLbA%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http%2F1.1&host=g2-1oy.pages.dev&fp=randomized&type=ws&sni=g2-1OY.pageS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://614f853f-0c57-46c2-b12c-eed6bbf6855e@www.speedtest.net:8880?path=/-%4ci%562ry%40%4cI%47HT%4eIN%476-%54EL--%40%4cI%47HT%4eIN%476-%54EL--%40%4cI%47HT%4eIN%476-%54EL--%40%4cI%47HT%4eIN%476-%4aOIN-%40%4cI%47HT%4eIN%476-%54EL--%40%4cI%47HT%4eIN%476-%4aOIN-%40%4cI%47HT%4eIN%476-%54EL-%40%4cI%47HT%4eIN%476-%54EL--%40%4cI%47HT%4eIN%476-%4aOIN-%40%4cI%47HT%4eIN%476-%54EL--%40%4cI%47HT%4eIN%476%3Fed%3D2056&security=none&encryption=none&host=cn.www.speedtest.net.上帝.god.allah.%6cig%68tni%6ege.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://cb760ee3-de13-11ee-95c9-00505603e70d@st-gb-1.brocdn.com:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&type=ws&host=&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&host=SvnTeam.Svn10.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&host=SvnTeam.Svn11.ir&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&host=SvnTeam.Svn10.ir&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&host=SvnTeam.Svn11.ir&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f4311364-42a0-4751-a21f-80f2740a59db@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=eg-v2ray-x.pages.dev&fp=firefox&type=ws&sni=pAgeS.dev.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://552b5df7-252d-4ecb-818d-8e079a1ce2ad@time.is:443?path=%2FTelegram-XV2ray&security=tls&encryption=none&host=tls-9uo.pages.dev&type=ws&sni=pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f4311364-42a0-4751-a21f-80f2740a59db@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=eg-v2ray-x.pages.dev&fp=firefox&type=ws&sni=pAgeS.dev.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://9cbdc595-1d8d-4443-af07-99149153d025@5cce15203ee042d599be.danr-piavi.info:443?path=%2Fabcdews&security=tls&encryption=none&host=5cce15203ee042d599be.danr-piavi.info&type=ws&sni=5cce15203ee042d599be.danr-piavi.info#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://9cbdc595-1d8d-4443-af07-99149153d025@5cce15203ee042d599be.danr-piavi.info:443?path=%2Fabcdews&security=tls&encryption=none&host=5cce15203ee042d599be.danr-piavi.info&type=ws&sni=5cce15203ee042d599be.danr-piavi.info#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
