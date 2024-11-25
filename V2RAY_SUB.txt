@@ -1,3 +1,5 @@
+vless://d6b6ea41-0950-4611-8246-224583e4ed1e@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uhc6rhiubu.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206d1Z0eWlaMXhFdStsaWxYN2lmdlM4N3k4aXd5T3YxWE5FV0ovWGhjK1RxTT0%3D@193.238.153.22:8443#👉🆔 @v2ray_configs_pool📡🇺🇦Ukraine
@@ -6,5 +8,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZW@194.87.82.28:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 trojan://bpb-trojan@141.101.114.52:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://bpb-trojan@190.93.244.202:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://f4311364-42a0-4751-a21f-80f2740a59db@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=eg-v2ray-x.pages.dev&fp=firefox&type=ws&sni=pAgeS.dev.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
