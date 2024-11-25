@@ -1,10 +1,10 @@
-vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.163.79:1623?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@141.101.114.52:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://bpb-trojan@190.93.244.202:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6f55d646-a9ab-4884-8e8f-1f517ffee022@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc2.ir&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://e65e4d73-33e5-47a9-8db1-50b96b096ee0@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-trojan://telegram-id-directvpn@3.78.59.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://2c8e1044-87da-4814-b945-a24c690bd2bd@49.12.232.18:10813?security=reality&sni=microsoft.com&fp=firefox&pbk=3VRiVIhtj5P8xNhG8CxSH6xzH9o52Pl1Do_ptHsXjgU&sid=e2dec8655c&type=grpc&serviceName=@proprojec&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://13b0c901-3fbe-bb19-c6b8-89b2c314e975@188.245.207.59:9129?security=&sni=2332092332.torob.com.tr&type=tcp&path=/&headerType=http&host=speedtest.net&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://2c8e1044-87da-4814-b945-a24c690bd2bd@49.12.232.18:10813?security=reality&sni=microsoft.com&fp=firefox&pbk=3VRiVIhtj5P8xNhG8CxSH6xzH9o52Pl1Do_ptHsXjgU&sid=e2dec8655c&type=grpc&serviceName=@proprojec&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://0f3e3b53-fe0f-402a-bd6d-1c5af0e2fbe5@172.66.47.146:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://13b0c901-3fbe-bb19-c6b8-89b2c314e975@188.245.116.199:9129?security=&sni=2332092332.torob.com.tr&type=tcp&path=/&headerType=http&host=speedtest.net&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://13b0c901-3fbe-bb19-c6b8-89b2c314e975@188.245.207.59:9129?security=&sni=2332092332.torob.com.tr&type=tcp&path=/&headerType=http&host=speedtest.net&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://0f3e3b53-fe0f-402a-bd6d-1c5af0e2fbe5@172.66.47.146:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://13b0c901-3fbe-bb19-c6b8-89b2c314e975@188.245.116.199:9129?security=&sni=2332092332.torob.com.tr&type=tcp&path=/&headerType=http&host=speedtest.net&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://98c16832-eded-4ebf-ab47-5729ef974b77@ns.cloudflare.com:2052?path=%2Fresult%3Fed%3D2086&security=none&encryption=none&host=dash.cloudflare.com.www.speedtest.net.cdn.ir.Elmahstyle.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f4311364-42a0-4751-a21f-80f2740a59db@www.speedtest.net:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=eg-v2ray-x.pages.dev&fp=firefox&type=ws&sni=pAgeS.dev.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
