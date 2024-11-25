@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://cb760ee3-de13-11ee-95c9-00505603e70d@st-gb-1.brocdn.com:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&type=ws&host=&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://9cbdc595-1d8d-4443-af07-99149153d025@5cce15203ee042d599be.danr-piavi.info:443?path=%2Fabcdews&security=tls&encryption=none&host=5cce15203ee042d599be.danr-piavi.info&type=ws&sni=5cce15203ee042d599be.danr-piavi.info#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9cbdc595-1d8d-4443-af07-99149153d025@5cce15203ee042d599be.danr-piavi.info:443?path=%2Fabcdews&security=tls&encryption=none&host=5cce15203ee042d599be.danr-piavi.info&type=ws&sni=5cce15203ee042d599be.danr-piavi.info#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://3237181b-74a5-4917-bc74-2958fa21786a@172.66.192.80:443?encryption=none&security=tls&sni=vless.siliv98810.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=ws&host=vless.siliv98810.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://9cbdc595-1d8d-4443-af07-99149153d025@5cce15203ee042d599be.danr-piavi.info:443?path=%2Fabcdews&security=tls&encryption=none&host=5cce15203ee042d599be.danr-piavi.info&type=ws&sni=5cce15203ee042d599be.danr-piavi.info#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://7cd593fc-9023-4a4c-8aeb-23cab5c847f1@www.visa.com.sg:8443?encryption=none&security=tls&sni=pardazeshvpn-tg72.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg72.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
