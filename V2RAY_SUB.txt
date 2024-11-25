@@ -1,10 +1,10 @@
-vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.18.63.186:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.14.196.182:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.14.196.182:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.130.238.182:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.130.238.182:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.140.215.38:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.140.215.38:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://01c8e316-66bf-490a-86d5-efcc674c66c6@www.speedtest.net:8880?path=%2FOmid%3Fed%3D2560&security=none&encryption=none&host=m.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.139.114.226:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.139.114.226:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@18.217.49.219:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@18.217.49.219:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+trojan://FuUaWS3YWG@Crunch.floorshoping22.com:2053?mode=multi&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2b9a270f-f3bb-4dbc-9be1-378f93418a41@www.speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed&security=tls&encryption=none&host=ai.photo.www.speedtest.net.abrha.co.ZA&type=ws&sni=ai.photo.www.speedtest.net.abrha.co.ZA#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
