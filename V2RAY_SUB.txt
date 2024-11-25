@@ -1,10 +1,10 @@
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:80?path=%2F%40VPNCUSTOMIZE%2F%40VPNCUSTOMIZE%F0%9F%A7%94%F0%9F%8F%BC%E2%80%8D%E2%99%82%F0%9F%A7%94%F0%9F%8F%BC%E2%80%8D%E2%99%82%3Fed%3D512&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.victorcamper.dns-dynamic.net.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://fe2f9fd4-7ef5-4235-88c3-85f1f90a868f@199.232.7.29:443?path=%2FVLESS&security=tls&allowInsecure=1&encryption=none&host=eliv2-elena.ir&fp=qq&type=ws&sni=ELiv2-ELEnA.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://fe2f9fd4-7ef5-4235-88c3-85f1f90a868f@199.232.7.29:443?path=%2FVLESS&security=tls&allowInsecure=1&encryption=none&host=eliv2-elena.ir&fp=qq&type=ws&sni=ELiv2-ELEnA.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.76.231.122:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-privatevpns@52.30.54.77:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://telegram-id-privatevpns@52.30.54.77:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://fe2f9fd4-7ef5-4235-88c3-85f1f90a868f@199.232.7.29:443?path=%2FVLESS&security=tls&allowInsecure=1&encryption=none&host=eliv2-elena.ir&fp=qq&type=ws&sni=ELiv2-ELEnA.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.33:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://fe2f9fd4-7ef5-4235-88c3-85f1f90a868f@199.232.7.29:443?path=%2FVLESS&security=tls&allowInsecure=1&encryption=none&host=eliv2-elena.ir&fp=qq&type=ws&sni=ELiv2-ELEnA.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@16.170.129.178:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@13.42.245.236:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMjMuMTU3LjQwLjQ3OjMzODk=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.132.90.194:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.17.147.22:80?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.victorcamper.dns-dynamic.net.&path=%2F%40VPNCUSTOMIZE%2F%40VPNCUSTOMIZE%F0%9F%A7%94%F0%9F%8F%BC%E2%80%8D%E2%99%82%F0%9F%A7%94%F0%9F%8F%BC%E2%80%8D%E2%99%82%3Fed%3D512#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8ab0ad08-4804-41e4-a385-6e87543972fd@172.66.47.146:8880?type=httpupgrade&host=join-daily-configs.broken-dreams.ir&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8ab0ad08-4804-41e4-a385-6e87543972fd@172.66.47.146:8880?type=httpupgrade&host=join-daily-configs.broken-dreams.ir&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@13.42.245.236:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
