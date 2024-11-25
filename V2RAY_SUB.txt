@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@3.9.88.185:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://d6b6ea41-0950-4611-8246-224583e4ed1e@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uhc6rhiubu.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://f4311364-42a0-4751-a21f-80f2740a59db@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=eg-v2ray-x.pages.dev&fp=firefox&type=ws&sni=pAgeS.dev.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@141.101.113.119:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@190.93.244.202:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@38.121.43.6:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-privatevpns@52.49.64.76:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@2rayngselllbot-emg.pages.dev:2096?path=%2F5pl8QEnuYcUfFIcK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=2RAYNgSeLLLboT-EmG.pAgeS.DEV&fp=randomized&type=ws&sni=2RAYNgsellLBoT-emG.PAGeS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@52.209.23.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2Fg881SwM82WqGAi7V%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=2rAYNGSELLLbOt-EMg.pAgeS.dEV&fp=randomized&type=ws&sni=2RaYNgseLLlBot-eMG.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@2rayngselllbot-emg.pages.dev:2096?path=%2F5pl8QEnuYcUfFIcK%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=2RAYNgSeLLLboT-EmG.pAgeS.DEV&fp=randomized&type=ws&sni=2RAYNgsellLBoT-emG.PAGeS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2Fg881SwM82WqGAi7V%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=2rAYNGSELLLbOt-EMg.pAgeS.dEV&fp=randomized&type=ws&sni=2RaYNgseLLlBot-eMG.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@141.101.114.52:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZW@194.87.82.28:12224#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
