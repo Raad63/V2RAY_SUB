@@ -1,10 +1,10 @@
-vless://3a759bdf-f49a-426b-aa5b-b4091eaf8f6b@dllvarzeshtvsamanehouignbguvuibybfhfgdrews.website.24digitalmarkting.ir:12345?path=%2F&security=reality&encryption=none&pbk=QDqpqvWPsDtooLg5PTHd2rmRfQhDJLf7-S5cUyFxUQk&fp=chrome&type=http&sni=varzeshtviuwsofogleugvwsoyutruyrrteytmci.24digitalmarkting.ir&sid=8e36c7e79b74a6fa#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://3a759bdf-f49a-426b-aa5b-b4091eaf8f6b@dllvarzeshtvsamanehouignbguvuibybfhfgdrews.website.24digitalmarkting.ir:12345?path=%2F&security=reality&encryption=none&pbk=QDqpqvWPsDtooLg5PTHd2rmRfQhDJLf7-S5cUyFxUQk&fp=chrome&type=http&sni=varzeshtviuwsofogleugvwsoyutruyrrteytmci.24digitalmarkting.ir&sid=8e36c7e79b74a6fa#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://YWVzLTI1Ni1nY206d1Z0eWlaMXhFdStsaWxYN2lmdlM4N3k4aXd5T3YxWE5FV0ovWGhjK1RxTT0%3D@193.238.153.22:8443#👉🆔 @v2ray_configs_pool📡🇺🇦Ukraine
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vmess://eyJhZGQiOiAiMTA0LjIxLjQ0LjEwNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ4bWl2aWRlby5jZmQiLCAiaWQiOiAiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtaXZpZGVvLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@51.77.53.200:9102#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-vless://8ecc1a6b-565d-4dd2-da90-8fbb4fe3908f@151.101.192.155:80?path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=none&encryption=none&host=UNLIMITEDDEV.channel-telegram-1.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@51.77.53.200:8080#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
+vless://213d6337-7e90-43cb-b515-e392c946b371@104.21.42.250:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=WWW.felafel.org.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@54.247.185.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://bpb-trojan@172.66.44.101:443?path=%2Ftrss18U9tGvEQvfLbA%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http%2F1.1&host=g2-1oy.pages.dev&fp=randomized&type=ws&sni=g2-1OY.pageS.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://bpb-trojan@190.93.246.23:443?path=%2Ftr%3Fed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.176.83.176:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
