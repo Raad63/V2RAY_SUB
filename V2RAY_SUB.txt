@@ -1,10 +1,10 @@
-vless://f1597f6e-e6ab-42f5-a153-7b958522358a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arazekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.112:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8e1a80da-bd61-4ee4-b480-c2d860aad9c3@151.101.130.228:80?security=&type=ws&path=ws/?ed%3D2048Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN%20-Telegram%20:%20@JOKERRVPN&host=hsdhvifubh6.com&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3cff1332-9020-4a58-8dbf-3ff31bd271a4@104.26.15.16:8080?security=&type=httpupgrade&path=/@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn&host=newi.rskhibotss.ir.&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.112:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&type=ws&sni=dc1bf227.vf-8co.pages.dev&host=dc1bf227.vf-8co.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0f3e3b53-fe0f-402a-bd6d-1c5af0e2fbe5@104.17.207.36:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0f3e3b53-fe0f-402a-bd6d-1c5af0e2fbe5@104.17.207.36:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0f3e3b53-fe0f-402a-bd6d-1c5af0e2fbe5@172.66.47.146:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://TELEGRAM-NUFiLTER@151.101.194.133:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=Berim3arazekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0f3e3b53-fe0f-402a-bd6d-1c5af0e2fbe5@172.66.47.146:8880?security=&type=httpupgrade&path=/&host=join-daily-configs.broken-dreams.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://auto@172.67.213.48:443?security=tls&type=ws&sni=esetsecuritylicense2.wawafec355.workers.dev&host=esetsecuritylicense2.wawafec355.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://bpb-trojan@104.18.161.108:443?sni=adagio.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3cff1332-9020-4a58-8dbf-3ff31bd271a4@172.67.69.236:8080?security=&type=httpupgrade&path=/@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn@rskhivpn&host=newi.rskhibotss.ir.&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
