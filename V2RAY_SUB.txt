@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTksxYW9RdUVaYUM5UVRpdzk0Z1Z6TlhyQWRkNm04UVhIM0RSTlhZdkhDNXB2a0V1VmJyR2M1UURhNkZXb1lremQ1Unhlc0h0c2lGZHF3VVVEWVVyQkQ2YTd2cGk1TVM%3D@107.182.129.101:52249#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vmess://eyJhZGQiOiAiMzguOTkuODIuMTI4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyMzI0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@142.202.48.105:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.157.40.119:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://62c6cdd8-2382-415b-b039-c1ebc698f71a@172.66.44.127:8443?path=%2F&security=tls&encryption=none&host=pardazeshvpn-tg62.pages.dev&type=ws&sni=pardazeshvpn-tg62.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg%3D@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.46:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2T0FHTEQrRE9BNlVjRnA1VWRmMHIvVXp5andIVit5aGVOa29GRGs2dUw4PQ%3D%3D@213.108.22.109:38753#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYlk2PXpHdUZs@150.241.95.63:37774#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@52.47.67.58:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://telegram-ArV2ray@www.speedtest.net:8880?type=ws&host=2.www.speedtest.net.a.api.nhl.ir.dnschecker.tecH.&path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@52.1.37.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@15.188.91.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@15.188.91.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-directvpn@52.1.37.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
