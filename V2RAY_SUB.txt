@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://73525a25-dfb3-46a7-945b-e4d091a8ee8f@configtell.fastly80-2.hosting-ip.com:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D8089&security=none&encryption=none&host=wwW.yjc.iR&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=ntsafe.pages.dev&type=ws&sni=ntsafe.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.66.228:443?path=%2Fc%3Fed%3D443&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=azadiiivpn.speedtest.net.yasi.ir&fp=firefox&type=ws&sni=faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://73525a25-dfb3-46a7-945b-e4d091a8ee8f@configtell.fastly80-2.hosting-ip.com:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D8089&security=none&encryption=none&host=wwW.yjc.iR&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=ntsafe.pages.dev&type=ws&sni=ntsafe.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://73525a25-dfb3-46a7-945b-e4d091a8ee8f@configtell.fastly80-2.hosting-ip.com:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D8089&security=none&encryption=none&host=wwW.yjc.iR&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.66.228:443?path=%2Fc%3Fed%3D443&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=azadiiivpn.speedtest.net.yasi.ir&fp=firefox&type=ws&sni=faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://42076fda-8858-4111-95b4-c2892943a846@104.16.53.11:2082?path=%2F%3Fed%3D8880&security=none&encryption=none&host=myeRsdrivingschool.cOm.SpeedTest.Net.BlackRaven.NL.4.kaktusatom.iR.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://u3er4Vpn@live.wkrq.com:443?security=tls&encryption=none&type=ws&host=u3er4Vpn.com&path=/@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn------@u3er4Vpn?ed%3D2048&sni=live.wkrq.com&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
