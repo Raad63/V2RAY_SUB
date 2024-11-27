@@ -1,10 +1,10 @@
-vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.150:443?encryption=none&security=tls&sni=sB-1u6.PagEs.dEv&type=ws&path=%2Fhnzodogqct9yjjex%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://0e7579f2-d136-57cd-b2de-c41e49b00c75@151.101.2.133:80?encryption=none&security=none&type=ws&host=mortezatv89.ir&path=%2Fvless#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://9b6b1a42-d279-4d45-9896-502d9cf82e8a@128.140.86.247:4444?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://3cff1332-9020-4a58-8dbf-3ff31bd271a4@104.26.14.16:8080?path=%2F%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn&security=none&encryption=none&host=newi.rskhibotss.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@jp006.421421.xyz:20230?security=tls#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aksnmaioas.pages.dev&fp=chrome&type=ws&sni=aksnmaioas.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://82082596-4061-46a3-b326-ba73be0eb1bc@62.60.246.193:17763/?type=tcp&encryption=none&flow=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
