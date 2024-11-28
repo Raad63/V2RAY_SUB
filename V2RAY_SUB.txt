@@ -1,10 +1,10 @@
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://7790e51c-d4a1-461c-8afd-3dccc1859dbd@20.251.160.230:443?path=%2Fnews&security=none&encryption=none&host=yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.137.11:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp050KvBgB.eHsAnDnS10.iR#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.183:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp050KvBgB.eHsAnDnS10.iR#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.137.11:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp050KvBgB.eHsAnDnS10.iR#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://7790e51c-d4a1-461c-8afd-3dccc1859dbd@20.251.160.230:443?path=%2Fnews&security=none&encryption=none&host=yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.183:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp050KvBgB.eHsAnDnS10.iR#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.183:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp050KvBgB.eHsAnDnS10.iR#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.137.11:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp050KvBgB.eHsAnDnS10.iR#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://7790e51c-d4a1-461c-8afd-3dccc1859dbd@20.251.160.230:443?path=%2Fnews&security=none&encryption=none&host=yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
+vless://tell--ZEDMODEON@ergwork.web.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=nabzebourse.com&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@configtell2.fastly80-2.hosting-ip.com:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@configtell2.fastly80-2.hosting-ip.com:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@configtell2.fastly80-2.hosting-ip.com:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8c3396a6-1370-45e4-a81f-03ba4e153308@yyyyyyyyymahdi1.v2ryng01.ru:2020?type=ws&path=%2Fwe&host=188.114.99.46&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://8c3396a6-1370-45e4-a81f-03ba4e153308@yyyyyyyyymahdi1.v2ryng01.ru:2020?type=ws&path=%2Fwe&host=188.114.99.46&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://8c3396a6-1370-45e4-a81f-03ba4e153308@yyyyyyyyymahdi1.v2ryng01.ru:2020?type=ws&path=%2Fwe&host=188.114.99.46&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
