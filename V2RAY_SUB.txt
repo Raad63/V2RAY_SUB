@@ -1,10 +1,10 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@3.1.94.232:443/?type=ws&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F&security=tls&sni=edgetunnel.xiaomayi.nyc.mn#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://f2b3219c-215f-4b7e-96d8-25b751d79988@3.1.94.232:443/?type=ws&encryption=none&host=edgetunnel.xiaomayi.nyc.mn&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F&security=tls&sni=edgetunnel.xiaomayi.nyc.mn#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://64fbeeb0-95df-4d36-ba2c-1dad26d6926f@152.42.229.225:80/?type=ws&encryption=none&host=zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-vless://64fbeeb0-95df-4d36-ba2c-1dad26d6926f@152.42.229.225:80/?type=ws&encryption=none&host=zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKRWoyT0gzT1VUNnJya2tOWjJtanJt@213.108.23.243:15584#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
-vless://93116f8b-f5b7-4811-9ee0-baafdde330c3@213.108.23.243:26926/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&sid=435d625ae815#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
-vless://93116f8b-f5b7-4811-9ee0-baafdde330c3@213.108.23.243:26926/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&sid=435d625ae815#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.46:8091#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.87.225:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.94.31.109:1001/?type=ws&encryption=none&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://c97861ff-0b79-44df-9019-6f8b5dd796ee@185.119.240.34:4009/?encryption=none&host=speedtest.net&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.151.63.165:8443/?type=ws&encryption=none&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.94.31.109:1001/?type=ws&encryption=none&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.151.63.165:8443/?type=ws&encryption=none&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c97861ff-0b79-44df-9019-6f8b5dd796ee@185.119.240.34:4009/?encryption=none&host=speedtest.net&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://714c776d-ccf4-57db-97b2-3628ae1f1b3d@104.19.216.72:443/?type=ws&encryption=none&host=ztv2ray.teyekas893.wORKeRS.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&sni=ztv2ray.teyekas893.wORKeRS.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5a33c57e-18a3-4561-a763-f6207fda2677@62.60.174.99:4910/?encryption=none&host=speedtest.net&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://5a33c57e-18a3-4561-a763-f6207fda2677@62.60.174.99:4910/?encryption=none&host=speedtest.net&type=tcp&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://a3033d88-dc8e-4ebd-81d5-81c03ba3a72a@172.66.46.213:443/?type=ws&encryption=none&host=speedtest.svgspeedtest.net&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&security=tls&sni=speedtest.svgspeedtest.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
