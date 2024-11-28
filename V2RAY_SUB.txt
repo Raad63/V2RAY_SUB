@@ -1,10 +1,10 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.167:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYlk2PXpHdUZs@150.241.95.63:37774#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bnR4cUhoUElOWHU1QWc2ODc2ZlhP@51.195.220.179:1080#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@62.12.116.66:990#👉🆔 @v2ray_configs_pool📡🇰🇪Kenya
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.92.55:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://b6067899-8c64-4e83-8ec9-b0abeef1596f@193.43.91.84:8495?security=reality&encryption=none&pbk=bJ7kNh4nOLMQjV737Rud9sDqdNE2vYx_hlYFD82-1Qc&fp=chrome&type=http&sni=icloud.com&sid=acbc173b1eef54b5#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-vless://b6067899-8c64-4e83-8ec9-b0abeef1596f@193.43.91.84:8495?security=reality&encryption=none&pbk=bJ7kNh4nOLMQjV737Rud9sDqdNE2vYx_hlYFD82-1Qc&fp=chrome&type=http&sni=icloud.com&sid=acbc173b1eef54b5#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-vless://44078964-7c5f-43d4-a031-fa88cf5aa13d@62.60.246.193:23491?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://44078964-7c5f-43d4-a031-fa88cf5aa13d@62.60.246.193:23491?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://44078964-7c5f-43d4-a031-fa88cf5aa13d@62.60.246.193:23491?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://44078964-7c5f-43d4-a031-fa88cf5aa13d@62.60.246.193:23491?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZW@194.87.82.28:12224#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
