@@ -1,10 +1,10 @@
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@35.90.50.99:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@54.201.70.9:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@44.244.61.74:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@35.87.214.220:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@54.190.149.201:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@54.212.192.204:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@44.242.202.186:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@54.244.58.204:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@34.219.199.53:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@18.236.250.115:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@54.212.234.212:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@34.220.14.146:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@54.202.242.208:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@18.236.63.208:80?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://ncIhZ5kjCF@62.60.246.193:38036?security=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://ncIhZ5kjCF@62.60.246.193:38036?security=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.207:443?encryption=none&security=tls&sni=behdasht.hrtc.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.94.90.200:2096?encryption=none&security=tls&sni=Sb-1U6.paGES.deV&type=ws&path=%2Fs6rb9yyj3qaak606%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6f4c30e7-823a-47e1-bd32-fa74a26d7fb1@199.232.7.55:443?path=%2FVLESS%3FELENaTheGreatDictator&security=tls&encryption=none&host=adolf-ELENA.com&fp=qq&type=ws&sni=aDoLF-ELENa.coM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f151bde4-6981-4ad9-bd01-dd34ad792a3e@185.146.173.58:80?path=%2FOmid%3Fed%3D2560&security=none&encryption=none&host=m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
