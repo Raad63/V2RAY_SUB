@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://YWVzLTI1Ni1nY206d1Z0eWlaMXhFdStsaWxYN2lmdlM4N3k4aXd5T3YxWE5FV0ovWGhjK1RxTT0%3D@193.238.153.22:8443#👉🆔 @v2ray_configs_pool📡🇺🇦Ukraine
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://3e91d67b-44c8-40bd-9479-748f85e3f20c@video.myquiz.org:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=oipm.org&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.95.101:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYlk2PXpHdUZs@150.241.95.63:37774#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?encryption=none&security=tls&sni=bangladeshipatri.com&fp=chrome&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1ea4fa2c-392a-4e51-ac68-c9bda2603c3e@188.114.97.3:443?encryption=none&security=tls&sni=pPaL-3.gABRiellA-simoNIs-DdS.wOrKErs.dEv&fp=randomized&type=ws&host=pPal-3.gabrIELLa-SiMoNIs-DDS.WOrkeRS.DEv&path=%2Fwebsocket%3Fed%3D@MARAMBASHI%2C@MARAMBASHI%2C@MARAMBASHI%2C@MARAMBASHI#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@99.80.190.238:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.192.226.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4d63e415-9e34-431a-eaae-32a941c18bfe@www.speedtest.net:2083?path=%2Ftest%3Fed%3D2083&security=tls&alpn=h3&encryption=none&host=dl1.iranikala.top&fp=chrome&type=splithttp&sni=dl1.iranikala.top#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.137.11:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc&fp=firefox#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.137.11:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc&fp=firefox#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.192.226.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.192.226.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://1280c608-e552-4010-be10-62de42b14321@68.183.236.226:9999?path=%252fFREE%2BBy%2BTharuwa%2B%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws&flow=none#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://1280c608-e552-4010-be10-62de42b14321@68.183.236.226:9999?path=%252fFREE%2BBy%2BTharuwa%2B%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws&flow=none#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
