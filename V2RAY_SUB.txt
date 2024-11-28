@@ -1,10 +1,10 @@
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTSHltWFZmSVk5Y3J6dmc5R1EtcTJB@95.164.8.130:443#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
 trojan://telegram-id-privatevpns@63.176.191.9:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://acbbcaa-acab-abca-dcba-cabccaabbbca@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy4xNTgiLCAicG9ydCI6ICI4MDgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3ZWFlZmRkMS02MjEwLTQ4MzctOGNlNS0zYWMyYzRmMzkxZTAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==
-vless://ea52c459-86ac-4707-8062-564ca031ae43@151.101.2.133:443?security=tls&sni=mio.splashthat.com&type=ws&host=barkatc2.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://cabacab-aabc-abca-adbc-bababccbacca@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://bccaaba-caba-aacb-dbca-bcababaacbcc@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://13ab076e-558f-44af-9515-a5059aaa73fd@151.101.194.165:80?sni=Mozilaxjicker.com&type=ws&host=Mozilaxjicker.com&allowInsecure=0#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMTA3LjE0OC4yMDcuMjQ5IiwgInYiOiAiMiIsICJwb3J0IjogNDg3MTIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhcHBzdnMuc2hvcCIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
+trojan://telegram-id-privatevpns@51.24.36.79:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
