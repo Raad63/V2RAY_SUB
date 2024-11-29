@@ -1,10 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.130:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJ2IjogIjIiLCAiYWRkIjogImRlbmMzNi54dG9vbHRlY2guY2ZkIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImIzMjFmZDVkLWU2ZWMtNDI5My1hNjQ0LTE2NGUzODg1ZjUyZSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN0ZyYW5jZSJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=PPAL03.VObilOf606.woRkeRs.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PpAL03.vobILOf606.wOrKErS.dev&path=%2FeriGgBd0vsX28uhN%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vmess://eyJ2IjogIjIiLCAiYWRkIjogImhtczA4Lmd3ZGVmLnNicyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJiYzg2NDA3OC1kY2YzLTRiZjQtOGRiZi1jYTlmMjAwYjU2YmUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImd3ZGVmLnNicyIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiZ3dkZWYuc2JzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhR2VybWFueSJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.178:8443?encryption=none&security=tls&sni=bPb005.paGes.DEV&type=ws&path=%2Ffxhhv799mihz1xxp%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8c3396a6-1370-45e4-a81f-03ba4e153308@yyyyyyyyymahdi1.v2ryng01.ru:2020?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
