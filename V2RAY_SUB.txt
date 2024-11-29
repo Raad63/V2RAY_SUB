@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.92.111:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.95.115:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@142.202.49.75:8000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.12:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@142.202.48.105:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.152:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@139.64.165.115:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@139.64.165.154:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://2cba4104747d49d18319e5ade1b93ab5@134.195.196.138:443?security=tls&headerType=none&type=tcp&sni=avianrecruit.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.37.12.70:5003#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://blue2024@104.17.236.240:443?path=%2F%3Fed&security=tls&host=ha.lii2010.us.kg&type=ws&sni=ha.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.17.147.167:443?path=%2F%3Fed&security=tls&host=ha.lii2010.us.kg&type=ws&sni=ha.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.16.146.105:443?path=%2F%3Fed&security=tls&host=ha.lii2010.us.kg&type=ws&sni=ha.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.18.127.92:443?path=%2F%3Fed&security=tls&host=ha.lii2010.us.kg&type=ws&sni=ha.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.17.169.219:443?path=%2F%3Fed&security=tls&host=ha.lii2010.us.kg&type=ws&sni=ha.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a3033d88-dc8e-4ebd-81d5-81c03ba3a72a@172.66.46.213:443/?type=ws&encryption=none&host=speedtest.svgspeedtest.net&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&security=tls&sni=speedtest.svgspeedtest.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiYmV5b25kZHN6LmNmZCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJiZXlvbmRkc3ouY2ZkIiwgImlkIjogIjliNDU2YzJhLWYyYzEtNDVlMS04N2E5LWI3NjI4YjA0YmIyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJiZXlvbmRkc3ouY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RnJhbmNlIn0=
+vless://08344dc3-8abc-44a6-87b2-729fc1b4d963@150.241.102.95:10799/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=yw374OPQfpF0KpnFYX2zYnO8-NC7RkgGbbiMzmZYvDU&sid=330602658f0ade#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://775213ac-3976-439a-8977-3277c0e4735d@45.135.235.111:443/?type=ws&encryption=none&host=fq521.6789.cloudns.be&path=juzi&security=tls&sni=fq521.6789.cloudns.be&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇼Curacao
+vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443/?type=ws&encryption=none&host=fq521.6789.cloudns.be&path=twitterfreecodessecurity%3Dtls&security=tls&sni=fq521.6789.cloudns.be#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
