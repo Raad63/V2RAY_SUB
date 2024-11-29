@@ -1,10 +1,10 @@
-vless://8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b@www.speedtest.net:2086?path=%2F%3Fed%3D2048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b@www.speedtest.net:80?path=%2F%3Fed%3D2048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b@www.speedtest.net:2086?path=%2F%3Fed%3D2048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b@www.speedtest.net:80?path=%2F%3Fed%3D2048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b@www.speedtest.net:80?path=%2F%3Fed%3D2056Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b@www.speedtest.net:80?path=%2F%3Fed%3D2056Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b@www.speedtest.net:80?path=%2F%3Fed%3D2048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b@www.speedtest.net:80?path=%2F%3Fed%3D2048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://8f8b5a1a-8ddc-4e88-ace7-7711abcfe21b@www.speedtest.net:80?path=%2F%3Fed%3D2048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.16.219:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://e93dbefd-092c-438c-9d6e-3403e603feae@151.101.3.8:80?type=ws&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&host=tehran1.ir&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@35.180.224.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://e93dbefd-092c-438c-9d6e-3403e603feae@151.101.3.8:80?type=ws&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&host=tehran1.ir&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@18.198.118.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ddedd166-9183-40cc-a7af-8344c3b5a23b@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ddedd166-9183-40cc-a7af-8344c3b5a23b@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ef4bbe53-6c12-4577-9c2a-a10a456fa158@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
