@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@38.121.43.6:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.17.134:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@38.121.43.6:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@13.43.133.210:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@38.75.136.108:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://62c52357-c3b1-4cc8-b4db-c54eb3ec2bb6@151.101.3.8:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://62c52357-c3b1-4cc8-b4db-c54eb3ec2bb6@151.101.3.8:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8c3396a6-1370-45e4-a81f-03ba4e153308@yyyyyyyyymahdi1.v2ryng01.ru:2020?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://8c3396a6-1370-45e4-a81f-03ba4e153308@yyyyyyyyymahdi1.v2ryng01.ru:2020?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://8c3396a6-1370-45e4-a81f-03ba4e153308@yyyyyyyyymahdi1.v2ryng01.ru:2020?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@18.198.118.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.129:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.195:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
