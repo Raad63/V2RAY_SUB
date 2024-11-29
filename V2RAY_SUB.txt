@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.71.154:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-trojan://auto@172.67.203.52:443?path=%2F%3Fed%3D2560&security=tls&host=esetsecuritylicense.tobavo5084.workers.dev&fp=randomized&type=ws&sni=esetsecuritylicense.tobavo5084.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.71.154:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://01c8e316-66bf-490a-86d5-efcc674c66c6@www.speedtest.net:8880?path=%2FOmid%3Fed%3D2560&security=none&encryption=none&host=m.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.165.151:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.71:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.157.150:443#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.53:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:5001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://338c7415-edfb-4d96-c0d7-74efd7ced808@190.93.244.61:443?path=%2Fshare77769iai&security=tls&encryption=none&host=seargo.100896.xyz&type=ws&sni=seargo.100896.xyz#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.208:443?path=%2F&security=tls&encryption=none&host=cfed.tgzdyz2.top&fp=chrome&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇬🇷Greece
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.71.154:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@104.26.14.85:2083?path=%2FUoD8QOdaABE4rN7hQY9M0B8&security=tls&encryption=none&alpn=h2&host=spedfree.akbaru.ir&fp=chrome&type=ws&sni=spedfree.akbaru.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
