@@ -1,10 +1,10 @@
-vless://29419d2e-5475-42a9-a615-996608ce0a46@parsairon.ironnettt.workers.dev:443?encryption=none&security=tls&sni=parsairon.ironnettt.workers.dev&fp=randomized&type=ws&host=parsairon.ironnettt.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@18.157.63.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@NUFiLTER.fastly80.hosting-ip.com:80?path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=amir77.ir&fp=chrome&type=ws&sni=video.mytiyab.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://dd3accf8-d5fd-11ee-aaa8-00505603e70d@st-pl-1.brocdn.com:443?encryption=none&security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://telegram-id-ArV2ray@ArV2ry.fastly80.hosting-ip.com:80?path=%2Ftelegram-ArV2ry#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?encryption=none&security=none&type=ws&host=@VPNHTTPInjectorfree&path=%2Fhttp#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vmess://eyJ2IjogIjIiLCAiYWRkIjogImhtczA4Lmd3ZGVmLnNicyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJiYzg2NDA3OC1kY2YzLTRiZjQtOGRiZi1jYTlmMjAwYjU2YmUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImd3ZGVmLnNicyIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiZ3dkZWYuc2JzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RnJhbmNlIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://20dec600-1cea-427d-8ca6-aec8ab3e29be@172.67.211.198:443?encryption=none&security=tls&sni=CArXstREet.KawaSAeDI0.wORKeRS.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=CarxstReEt.KawasAEDi0.worKERS.dev&path=%2Ftelegram-proxy_mtm%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?encryption=none&security=tls&sni=PPAL03.Mr-LOLa-RaYnOr.WORKErS.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PpAL03.mR-lOLa-rAYNOR.worKeRS.dEV&path=%2FPuA4vTA4MhHSCUb3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
