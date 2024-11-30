@@ -1,10 +1,10 @@
-vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=api.nhl38.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl228.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@162.159.22.138:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-directvpn@18.192.220.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&host=meloch-de.com&path=/@%6delo%762ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&security=tls&fp=firefox&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@www.pcmag.com:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@172.64.35.199:443?sni=hb.lii2010.us.kg&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@lewis.ns.cloudflare.com:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@151.101.64.155:80?security=none&type=ws&host=5776.ir&path=%2FVLESS%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@172.64.35.199:443?sni=hb.lii2010.us.kg&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://blue2024@162.159.14.2:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&host=meloch-de.com&path=/@%6delo%762ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&security=tls&fp=firefox&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://bm9uZTpjYmFiY2FhLWFjYWItYWFiYy1kY2FiLWJjYmFhY2NhYmJjYQ==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://aaabbcc-abac-aacb-dcba-cbcbbbacaaca@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://blue2024@www.pcmag.com:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@151.101.64.155:80?security=none&type=ws&host=5776.ir&path=%2FVLESS%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@lewis.ns.cloudflare.com:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@151.101.64.155:80?security=none&type=ws&host=5776.ir&path=%2FVLESS%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://801e6d41-930e-4eb8-bd7d-547404198deb@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc83.lebasnoo.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
