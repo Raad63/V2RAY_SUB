@@ -1,10 +1,10 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.161.58:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4yMTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibTEuMTA2Nzc4Lnh5eiIsICJpZCI6ICI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6ICI4ODgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJtMS4xMDY3NzgueHl6IiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.162.184.22:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.75.136.21:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://NISHIKUITAN111@141.11.203.203:443?path=%2F&security=tls&host=za.ylks.xyz&type=ws&sni=za.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@150.230.144.242:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@152.67.231.219:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@146.56.161.138:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@144.21.37.215:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://bpb-trojan@cf.090227.xyz:443?security=tls&headerType=&type=tcp&sni=cf.090227.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.162.144.85:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+trojan://NISHIKUITAN111@5.10.245.142:443?path=%2F&security=tls&host=za.ylks.xyz&type=ws&sni=za.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇨🇼Curacao
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.251.196.3:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.251.196.3:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://YWVzLTEyOC1nY206ZGI2ZGUyNDEtOGQ4Zi00YzA0LTkzZjgtOTdlNWVlMTNiMzQ5@group-aipop-81492.nutbit-node.lat:11021#👉🆔 @v2ray_configs_pool📡🇨🇳China
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.238.158.238:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@138.2.154.177:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@158.180.231.216:443?path=%3Fed%3D2744&security=tls&encryption=none&host=pvg.aghabeiki.homes&type=ws&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4yMjciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibTEuMTA2Nzc4Lnh5eiIsICJpZCI6ICI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6ICI4ODgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJtMS4xMDY3NzgueHl6IiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
