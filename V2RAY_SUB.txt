@@ -1,10 +1,10 @@
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN111@172.64.132.154:443?#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMi4xODkuNTkuNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmN0lyYW4ifQ==
+vless://a457d30c-4a1d-445c-8383-1031fbaf96fa@wifi-mci.bitrait.art:2052?path=%2F%3Fed%3D1024&security=none&encryption=none&host=1a2ffe0f1abdcc1d.1a2ffe0f1abdcc1dknock.hihi.1a2ffe0f1abdcc1d.IT-XiRiX.dAnEsHkAdEoNlInE.Ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.87.121:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://a457d30c-4a1d-445c-8383-1031fbaf96fa@www.speedtest.net:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=14.v2.fr.www.speedtest.net.h.www.speedtest.net.pSxStOre.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://77256e7a-c55d-404f-a64c-76ac5a101579@198.41.209.2:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://77256e7a-c55d-404f-a64c-76ac5a101579@198.41.209.2:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg%3D@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.111:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.132:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg%3D@205.134.180.147:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.111:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.132:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://74f95a1d-fa53-412d-89ea-4c95b96786b6@srv.jamal-mousavi.ir:28714?type=tcp&path=%2F&host=xbox.com&headerType=http&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://c484dabb-c4c3-4934-8610-946d22dbe0a6@185.146.173.185:2053?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&type=grpc&serviceName=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://NISHIKUITAN111@172.64.132.154:443?#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a457d30c-4a1d-445c-8383-1031fbaf96fa@wifi-mci.bitrait.art:2052?path=%2F%3Fed%3D1024&security=none&encryption=none&host=1a2ffe0f1abdcc1d.1a2ffe0f1abdcc1dknock.hihi.1a2ffe0f1abdcc1d.IT-XiRiX.dAnEsHkAdEoNlInE.Ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
