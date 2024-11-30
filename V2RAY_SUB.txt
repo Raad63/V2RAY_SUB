@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.81:2053?encryption=none&security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://de44b044-8f90-4e18-b742-16591667ff96@158.23.81.224:2053?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#👉🆔 @v2ray_configs_pool📡🇲🇽Mexico
+vless://24f65efb-4885-4e3c-b598-f70336ce8c63@188.245.163.79:1621?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://24f65efb-4885-4e3c-b598-f70336ce8c63@188.245.163.79:1621?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@167.88.62.24:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.91.100.199:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.141.227:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://24f65efb-4885-4e3c-b598-f70336ce8c63@188.245.163.79:1621?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vmess://eyJhZGQiOiAiMi4xODkuNTkuNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmN0lyYW4ifQ==
+vmess://eyJhZGQiOiAiMi4xODkuNTkuNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmN0lyYW4ifQ==
