@@ -1,10 +1,10 @@
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@142.202.48.105:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ@208.67.105.196:42029#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060/?type=grpc&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&sni=dash.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060/?type=grpc&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&sni=dash.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@142.202.48.105:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMTg2LjE5MC4yMTUuMzIiLCAidiI6ICIyIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTg2LjE5MC4yMTUuMzIiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZWRTd2l0emVybGFuZCJ9
+vless://dd1db063-d419-4ab7-9eba-ddc972300de8@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=api.nhl2.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://dd1db063-d419-4ab7-9eba-ddc972300de8@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=api.nhl2.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0df25a66-0324-4e36-b18d-48164b4411cc@azadi.m8tokhsali.xyz:2096?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://0df25a66-0324-4e36-b18d-48164b4411cc@azadi.m8tokhsali.xyz:2096?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://16cb7484-1fbf-4456-9572-53e6e441e5aa@151.101.2.133:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=jihvbtctvy9778.com&type=ws&sni=live.wkrq.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
