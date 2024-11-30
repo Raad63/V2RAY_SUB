@@ -1,10 +1,10 @@
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@52.27.173.10:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@54.149.65.113:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@52.27.173.10:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@44.235.79.52:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@44.235.79.52:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@54.149.65.113:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@52.43.13.178:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@52.43.13.178:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3a03786d-d0ab-4ccd-a9a3-cbb6d0f27f37@151.101.194.133:443?path=%2FTelegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed%3D2560&security=tls&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=p.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@52.32.21.48:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@52.32.21.48:80?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@142.202.48.105:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:443?type=ws&host=trojanyu.pages.dev&path=/TELEGRAM-MARAMBASHI_MARAMBASHI/?ed%3D2560&security=tls&fp=randomized&sni=trojanyu.pages.dev&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://--V2RAXX--@www.speedtest.net:8443?type=ws&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&path=/Telegram,V2RAXX?ed%3D2480&security=tls&fp=chrome&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://--V2RAXX--@funnelytics.io:8443?type=ws&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&path=/Telegram,V2RAXX?ed%3D2480&security=tls&fp=chrome&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?type=ws&host=api.nhl80.ir&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@151.101.194.133:443?type=ws&host=api.nhl38.ir&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&security=tls&fp=chrome&sni=mio.splashthat.com&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?type=ws&host=api.nhl228.ir&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed%3D2048&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
