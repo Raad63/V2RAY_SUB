@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig4.usecharge.ir:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://827625b9-e06a-11ee-95c9-00505603e70d@st-fr-1.brocdn.com:443?encryption=none&security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@37.230.62.172:8080/?type=ws&encryption=none&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://f151bde4-6981-4ad9-bd01-dd34ad792a3e@185.146.173.58:80/?type=ws&encryption=none&host=m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&path=%2FOmid%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443/?type=ws&encryption=none&host=g1.youyuan.us.kg&path=%2F%3Fproxyip%3Dproxyip.multacom.fxxk.dedyn.io&security=tls&sni=g1.youyuan.us.kg&fp=chrome#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://8b5cbe33-cc76-4fcf-eeb6-1ee544e767d2@unlimiteddev.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=UNLIMITEDDEV.channel-telegram-1.ir&path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8b5cbe33-cc76-4fcf-eeb6-1ee544e767d2@unlimiteddev.fastly80-2.hosting-ip.com:80/?type=ws&encryption=none&host=UNLIMITEDDEV.channel-telegram-1.ir&path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://ac954fc8-fdf6-4894-b01a-7ba7ec46f312@104.17.234.128:8080/?type=ws&encryption=none&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D8880#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@fr5-speedtest.tools.gcore.com:443/?type=ws&encryption=none&host=9.gcr.dns04.com&path=%2F%3Fed%3D2560&security=tls&sni=gcore.lu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.92.89:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.76.210:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ@150.241.68.171:24064#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
