@@ -1,10 +1,10 @@
-vless://telll--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=porsline.ir&type=ws&sni=connectcarolina.sites.unc.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://tell--ZEDMODEON@ergwork.web.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=nabzebourse.com&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://Parsashonam-118@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://cfe1723e-887f-5184-a2de-3d23cc1ac09a@140.248.139.207:80?security=none&encryption=none&host=ELiV2-ELENA.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://cfe1723e-887f-5184-a2de-3d23cc1ac09a@199.232.79.51:443?security=tls&encryption=none&host=ELiV2-ELENA.COM&fp=qq&type=ws&sni=ELiV2-ELENA.COM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:80?security=none&encryption=none&host=ELiV2-0.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:443?security=tls&encryption=none&host=ELiV2-0.COM&fp=qq&type=ws&sni=ELiV2-0.COM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@3.210.241.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmU0VQdFlEbXVCdTdabkZZWGRITXQx@89.185.84.185:12575#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN111@193.227.99.60:443?path=%2F&security=tls&host=za.ylks.xyz&type=ws&sni=za.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmpwaGMyUXhNak0wTlRZ@137.175.113.192:8388#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN111@46.254.92.112:443?path=%2F&security=tls&host=za.ylks.xyz&type=ws&sni=za.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇮🇩Indonesia
