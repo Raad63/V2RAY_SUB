@@ -1,10 +1,10 @@
-vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@44.235.79.52:80?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.182.32:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://telegram-id-directvpn@51.44.32.174:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?security=tls&sni=EDGETunnel-AMl.pages.DEV&type=ws&host=EDGETunnel-AMl.pages.DEV&path=%2FREvilxXx%3Fed%3D2560&fp=safari&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?security=tls&sni=EDGETunnel-AMl.pages.DEV&type=ws&host=EDGETunnel-AMl.pages.DEV&path=%2FREvilxXx%3Fed%3D2560&fp=safari&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.170.189:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-vless://98c16832-eded-4ebf-ab47-5729ef974b77@ns.cloudflare.com:2052?path=%2Fresult%3Fed%3D2086&security=none&encryption=none&host=dash.cloudflare.com.www.speedtest.net.cdn.ir.Elmahstyle.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://8ad9fe06-8104-4cb2-e436-3318dd6628ad@52.27.173.10:80?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://6d62f776-5985-4d5f-8799-9f95c5e375cd@104.17.148.22:80?security=none&type=ws&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://6d62f776-5985-4d5f-8799-9f95c5e375cd@104.17.148.22:80?security=none&type=ws&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?security=tls&sni=EDGETunnel-AMl.pages.DEV&type=ws&host=EDGETunnel-AMl.pages.DEV&path=%2FREvilxXx%3Fed%3D2560&fp=safari&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c9632b9c-8177-4aca-b569-e274405ba041@104.18.165.203:8080?security=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c9632b9c-8177-4aca-b569-e274405ba041@104.18.165.203:8080?security=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.182.32:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.182.32:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3fedbd26-b4da-440e-9f7c-004d2463caec@medium.com:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=randomized&type=ws&sni=DisVpn.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
