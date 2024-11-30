@@ -1,10 +1,10 @@
-vless://3a03786d-d0ab-4ccd-a9a3-cbb6d0f27f37@151.101.194.133:443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=p.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://3a03786d-d0ab-4ccd-a9a3-cbb6d0f27f37@151.101.194.133:443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=p.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@140.248.129.207:80?path=%2F&security=none&encryption=none&host=amir55.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl03.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://8b899dc8-5d3f-4f5d-a96f-edc8e732ca3b@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@172.67.75.248:443?sni=ha.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://trojan@104.21.3.52:443?security=tls&type=ws&sni=test-a23.pages.dev&host=test-a23.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://blue2024@108.162.193.164:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?security=tls&type=ws&sni=ax78345V2ray.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=78345.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://bpb-trojan@141.101.113.119:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@141.101.113.119:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@172.67.75.248:443?sni=ha.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
