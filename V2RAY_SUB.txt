@@ -1,10 +1,10 @@
-trojan://bpb-trojan@108.165.216.155:443?sni=bpb.my79801.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.39:2377#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE4My4yMzYuNTEuMjMiLCAicG9ydCI6ICI0NjYwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ2hpbmEifQ==
-trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-sg.05vr9nyqg5.download:13028?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://3c0f245a-33a0-4492-9cd0-56dfa471bff9@151.101.66.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=meloch-de.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.60:2377#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
-trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-sg.05vr9nyqg5.download:13028?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#👉🆔 @v2ray_configs_pool📡🇨🇳China
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@NUFiLTER.fastly80.hosting-ip.com:80?path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=amir77.ir&fp=chrome&type=ws&sni=video.mytiyab.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@NUFiLTER.fastly80.hosting-ip.com:80?path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=amir77.ir&fp=chrome&type=ws&sni=video.mytiyab.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.138:2377#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+trojan://telegram-id-privatevpns@51.21.100.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.154.140:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://SAVTEAM14@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&alpn=http%2F1.1&encryption=none&host=Savteam.CI&fp=chrome&type=ws&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.154.140:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@51.21.100.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@51.21.100.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.154.140:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-directvpn@13.48.114.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-directvpn@13.48.114.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
