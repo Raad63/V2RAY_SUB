@@ -1,10 +1,10 @@
-vless://99da33fe-ac40-4ef7-baf4-66d0d874f190@151.101.66.133:443?security=tls&sni=live.wkrq.com&type=ws&host=hgc6rct87gy.com&path=ws%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN2VvRUJyQVJXc0JVaVZmY2hWRWRI@185.77.217.121:443#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
-vless://77836325-68d3-4b82-a195-524993ccf56b@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://c4ccdba8-dfae-4354-a78c-3d5f113f15d7@1.170.251.154:24236?security=tls&sni=ddns.200566.xyz&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl186.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://16c95530-8276-5477-9e61-799542e502c7@199.232.79.57:443?security=tls&sni=ADOLF-ELENA.IR&type=ws&host=ADOLF-ELENA.IR&fp=qq&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://16c95530-8276-5477-9e61-799542e502c7@199.232.79.57:443?security=tls&sni=ADOLF-ELENA.IR&type=ws&host=ADOLF-ELENA.IR&fp=qq&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ID-ViraV2ray-7844@104.17.234.128:8880?type=httpupgrade&path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ID-ViraV2ray-6032@104.19.150.10:2095?type=httpupgrade&path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ID-ViraV2ray-5022@live.989bull.com:443?security=tls&alpn=h2,http/1.1&fp=firefox&sni=live.989bull.com&type=ws&path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D443&host=telegram-id-ViraV2ray.com&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN2VvRUJyQVJXc0JVaVZmY2hWRWRI@185.77.217.121:443#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 vless://16c95530-8276-5477-9e61-799542e502c7@140.248.139.207:80?type=ws&host=ADOLF-ELENA.IR#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYakMzWGhwUnRQTWw3dFBJNHBFdzR5@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.51.42:587?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
-vless://99da33fe-ac40-4ef7-baf4-66d0d874f190@151.101.66.133:443?security=tls&sni=live.wkrq.com&type=ws&host=hgc6rct87gy.com&path=ws%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://99da33fe-ac40-4ef7-baf4-66d0d874f190@151.101.66.133:443?security=tls&sni=live.wkrq.com&type=ws&host=hgc6rct87gy.com&path=ws%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://16c95530-8276-5477-9e61-799542e502c7@140.248.139.207:80?type=ws&host=ADOLF-ELENA.IR#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://77836325-68d3-4b82-a195-524993ccf56b@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
