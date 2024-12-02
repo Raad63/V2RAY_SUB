@@ -1,10 +1,10 @@
-vless://1a1ef5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ef5cff6-e7d7-4112-b237-f5354e998885@151.101.3.8:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=tehran1.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://tell--ZEDMODEON@cnectcarolina.sites.unc.edu:43?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=porsline.ir&type=ws&sni=connectcarolina.sites.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://57b117d-967b-414b-bb33-a7bc61f5f6e2@46.36.97.248:2058?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vmess://eyJhZGQiOiAiMTA0LjI1LjIxMC41NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJiYWNrZ3JvdW5kLXNwZWNzLWF1Y3Rpb24tY2VudC50cnljbG91ZGZsYXJlLmNvbSIsICJpZCI6ICI2ZjBiNTc0MS1hOTU0LTQ0ZTgtOTc1MS05M2VhNjdmNDNhNTciLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjg0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImJhY2tncm91bmQtc3BlY3MtYXVjdGlvbi1jZW50LnRyeWNsb3VkZmxhcmUuY29tLiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
-vless://dd39201c-7618-469d-968c-10d07410d59b@H1.CreHistory.Org:35552?security=none&type=tcp&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://dd39201c-7618-469d-968c-10d07410d59b@H1.CreHistory.Org:35552?security=none&type=tcp&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://dd39201c-7618-469d-968c-10d07410d59b@H1.OrgSpeed.Net:25071?security=none&type=tcp&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://dd39201c-7618-469d-968c-10d07410d59b@H1.OrgSpeed.Net:25071?security=none&type=tcp&headerType=&path=&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://dd39201c-7618-469d-968c-10d07410d59b@H1.CreHistory.Org:35562?security=none&type=tcp&headerType=http&path=%2F&host=#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://04fcfef3-6dbf-4b30-ab49-b187ed2cfe5a@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://04fcfef3-6dbf-4b30-ab49-b187ed2cfe5a@ns.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=DEc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=DEc80.TehrANsiMAn.co.UK.#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://6e963169-be52-461d-91df-641c4af8fb3b@151.101.192.155:80?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7&security=none&encryption=none&host=testfast7.v2fast7.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.166.88.198:2375#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+trojan://blue2024@195.85.59.95:443?path=%2F%3Fed%3D2560&security=tls&host=hb.lii2010.us.kg&type=ws&sni=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.34.244.82:443#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
