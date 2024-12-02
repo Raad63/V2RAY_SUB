@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUWowU2lBckt1QmlJemNyUEN2cjVq@77.83.246.74:33320#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.160.252:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.185.253:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://join-telegram-Vpn-shield@join-shield-vpn.fastly80-2.hosting-ip.com:80?path=%2Fvpn_shield--vpn_shield--vpn_shield--vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield%3Fed%3D2048&security=none&encryption=none&host=Mozilaxjicker.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.101:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@140.248.139.207:80?host=ELiV2--ELENA.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@199.232.79.57:443?allowInsecure=1&security=tls&host=ELiV2--ELENA.COM&fp=qq&type=ws&sni=ELiV2--ELENA.COM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@140.248.139.207:80?host=ELiV2--ELENA.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@199.232.79.57:443?allowInsecure=1&security=tls&host=ELiV2--ELENA.COM&fp=qq&type=ws&sni=ELiV2--ELENA.COM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://e84de5d0-f69c-454a-a61b-bceae745e14f@purina.rs:443?path=ws%2Fcommunity%2Fgr%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ammar.ir&fp=chrome&type=ws&sni=purina.rs#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@15.237.18.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://49d65fc2-8413-4d97-9303-ad34f0bdeef4@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&host=meloch-de.com&path=/@%6delo%762ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&security=tls&fp=firefox&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@15.237.18.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
