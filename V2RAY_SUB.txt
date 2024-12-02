@@ -1,10 +1,10 @@
-vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D8080&security=none&encryption=none&host=www.speedtest.net.E.3.dnschecker.Tech.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D8080&security=none&encryption=none&host=www.speedtest.net.E.3.dnschecker.Tech.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f56e4463-f71a-4ab6-8074-534d2b1439c2@speedtest.net:80/?type=ws&path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN%3Fed%3D2048&host=snapp.com&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTEyOC1nY206NWhVVWFCNllhSTByemNyeDZsd3RFanA1dkMxUlZlOGxlVWphRDIrQmdtbz0%3D@109.120.176.218:2096#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI%3D@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZZHVrMmFkMFpPb0hYQ1lCRGZTQ253@51.13.165.185:14939/?outline=1#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?path=%2FREvilxXx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=EDGETunnel-AMl.pages.DEV&fp=safari&type=ws&sni=EDGETunnel-AMl.pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?path=%2FREvilxXx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=EDGETunnel-AMl.pages.DEV&fp=safari&type=ws&sni=EDGETunnel-AMl.pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?path=%2FREvilxXx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=EDGETunnel-AMl.pages.DEV&fp=safari&type=ws&sni=EDGETunnel-AMl.pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?path=%2FREvilxXx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=EDGETunnel-AMl.pages.DEV&fp=safari&type=ws&sni=EDGETunnel-AMl.pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?path=%2FREvilxXx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=EDGETunnel-AMl.pages.DEV&fp=safari&type=ws&sni=EDGETunnel-AMl.pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?path=%2FREvilxXx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=EDGETunnel-AMl.pages.DEV&fp=safari&type=ws&sni=EDGETunnel-AMl.pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
