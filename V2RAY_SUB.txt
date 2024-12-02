@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprZzNwb1ZZNEs3cWVRNjRvb1MzYzdwU3ZxNVFyYlJIRjV3RHczNlZ4V2Zucmd6d0VKQ2pYWFRxNHFVMmZSamlrN2pZTG9Od2dGbkdrbnRNMm5wcFNBbnBXdG9TV3pFaUg%3D@5.231.63.26:41544#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=cdiuw60.net&path=%2Ftelegram-ArV2ray#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZGVlUXp6UVA5SFRHdnkzTktDOUZS@89.185.84.185:12575#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.166.88.5:3389#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUWowU2lBckt1QmlJemNyUEN2cjVq@77.83.246.74:33320#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.160.252:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.185.253:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://join-telegram-Vpn-shield@join-shield-vpn.fastly80-2.hosting-ip.com:80?path=%2Fvpn_shield--vpn_shield--vpn_shield--vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield---------vpn_shield%3Fed%3D2048&security=none&encryption=none&host=Mozilaxjicker.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.101:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@140.248.139.207:80?host=ELiV2--ELENA.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@199.232.79.57:443?allowInsecure=1&security=tls&host=ELiV2--ELENA.COM&fp=qq&type=ws&sni=ELiV2--ELENA.COM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@140.248.139.207:80?host=ELiV2--ELENA.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
