@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.146.143:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@62.12.116.66:990#👉🆔 @v2ray_configs_pool📡🇰🇪Kenya
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@69.50.95.191:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGVTlIVUFSNFpQTVhWOVdoODE1YjNGR1BpMkVPZnFIVGR2NWFEVjBaVkpOMjVPV3pjTFVUSG1GbHcyOHhMRTlu@74.119.193.103:42658#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@69.50.95.179:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
+trojan://blue2024@162.159.197.109:443?security=tls&host=hb.lii2010.us.kg&type=ws&sni=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@162.159.44.159:443?security=tls&host=hb.lii2010.us.kg&type=ws&sni=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5bbe2c28-bdbb-4a2c-9600-47c4dfc83b2c@51.44.84.8:39950?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://5bbe2c28-bdbb-4a2c-9600-47c4dfc83b2c@51.44.84.8:39950?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://5bbe2c28-bdbb-4a2c-9600-47c4dfc83b2c@51.44.84.8:39950?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://07c19a2d-d04f-45c6-acb2-fa0a53f80d4b@cdc1.mazedownloader.lol:443?path=%2F&security=tls&encryption=none&host=barbarian.segstar.info&fp=chrome&type=ws&sni=bzdownload.segstar.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://07c19a2d-d04f-45c6-acb2-fa0a53f80d4b@cdc1.mazedownloader.lol:443?path=%2F&security=tls&encryption=none&host=barbarian.segstar.info&fp=chrome&type=ws&sni=bzdownload.segstar.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
