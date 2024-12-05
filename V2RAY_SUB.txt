@@ -1,10 +1,10 @@
-vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.17.124.186:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.139.4.234:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.17.124.186:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.12.22.53:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.147.207.143:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.139.4.234:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@69.50.95.103:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.130.165.210:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://30d89c00-fe7f-4459-a5d4-76e7f6b2007d@visa.com:80?path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.VPNCUSTOMIZE.starxs.fun:0&fp=randomized&type=ws&sni=www.speedtest.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.14.21.83:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.14.21.83:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.23.177.232:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.136.171.41:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.23.177.232:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.22.251.197:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.136.171.41:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.22.251.197:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
