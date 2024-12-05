@@ -1,10 +1,10 @@
-vless://c784ab83-75c4-4a07-a35c-529e3237f6ab@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.133.51.166:80?type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.136.57.174:80?type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.136.57.174:80?type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.133.51.166:80?type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://bm9uZTpiYWFjYmNhLWNhYmEtYmNhYS1kYmNhLWJjYmFjY2FiYmFjYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-vless://689fee1e-36d7-4435-8e5b-0274e6c384ca@151.101.2.133:443?security=tls&sni=live.989bull.com&type=ws&host=Golestanvpn.com&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.147.38.197:80?type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.136.57.174:80?type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:2053?security=tls&sni=v2.yunCHuN.TOp&type=ws&host=v2.yunchun.top&path=%2Ff3OeUSHTqQgbsQNk%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://c784ab83-75c4-4a07-a35c-529e3237f6ab@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://c784ab83-75c4-4a07-a35c-529e3237f6ab@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:2053?security=tls&sni=v2.yunCHuN.TOp&type=ws&host=v2.yunchun.top&path=%2Ff3OeUSHTqQgbsQNk%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.147.38.197:80?type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@144.24.200.164:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#👉🆔 @v2ray_configs_pool📡🇫🇷France
