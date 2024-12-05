@@ -1,10 +1,10 @@
-trojan://blue2024@162.159.197.109:443?security=tls&host=hb.lii2010.us.kg&type=ws&sni=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@162.159.44.159:443?security=tls&host=hb.lii2010.us.kg&type=ws&sni=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://5bbe2c28-bdbb-4a2c-9600-47c4dfc83b2c@51.44.84.8:39950?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://5bbe2c28-bdbb-4a2c-9600-47c4dfc83b2c@51.44.84.8:39950?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://5bbe2c28-bdbb-4a2c-9600-47c4dfc83b2c@51.44.84.8:39950?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&encryption=none&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=01b200e90e250221#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&encryption=none&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=01b200e90e250221#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://07c19a2d-d04f-45c6-acb2-fa0a53f80d4b@cdc1.mazedownloader.lol:443?path=%2F&security=tls&encryption=none&host=barbarian.segstar.info&fp=chrome&type=ws&sni=bzdownload.segstar.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://07c19a2d-d04f-45c6-acb2-fa0a53f80d4b@cdc1.mazedownloader.lol:443?path=%2F&security=tls&encryption=none&host=barbarian.segstar.info&fp=chrome&type=ws&sni=bzdownload.segstar.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
