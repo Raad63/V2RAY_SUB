@@ -1,10 +1,10 @@
-vless://fa7c93a9-7709-41c2-8aaf-602060cce150@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl32.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@151.101.87.26:80?path=%2F&security=none&encryption=none&host=rezaping.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇩🇰Denmark
-vless://da139eb5-c57e-4437-b742-1d82503438a9@ergwork.web.unc.edu:443?path=ws%2F%3Fed%3D2052&security=tls&encryption=none&host=snappir.ir&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://da139eb5-c57e-4437-b742-1d82503438a9@ergwork.web.unc.edu:443?path=ws%2F%3Fed%3D2052&security=tls&encryption=none&host=snappir.ir&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://da139eb5-c57e-4437-b742-1d82503438a9@ergwork.web.unc.edu:443?path=ws%2F%3Fed%3D2052&security=tls&encryption=none&host=snappir.ir&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://da139eb5-c57e-4437-b742-1d82503438a9@ergwork.web.unc.edu:443?path=ws%2F%3Fed%3D2052&security=tls&encryption=none&host=snappir.ir&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SAVTEAM7@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&encryption=none&alpn=http/1.1&host=Savteam.io&fp=chrome&type=ws&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://da139eb5-c57e-4437-b742-1d82503438a9@ergwork.web.unc.edu:443?path=ws%2F%3Fed%3D2052&security=tls&encryption=none&host=snappir.ir&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://da139eb5-c57e-4437-b742-1d82503438a9@ergwork.web.unc.edu:443?path=ws%2F%3Fed%3D2052&security=tls&encryption=none&host=snappir.ir&type=ws&sni=ergwork.web.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.137.230:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vmess://eyJhZGQiOiAiNS4zOS4yNTQuMTk2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzOThjZTg0ZS00ODQ5LTRlNWYtOWIxYS1hNTZmYmUyMzNiODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIxMTIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmZkN6ZWNoaWEifQ==
+vless://db10ffbe-8937-484f-895d-8ce5974dd788@95.38.132.198:2062?security=none&encryption=none&host=bwm.comTelegram#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://d304313b-4336-4e0f-af77-c8f07af37c96@free.serverlanddl.com:110?mode=gun&security=reality&alpn=h2&encryption=none&authority=Telegram#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
+vless://d304313b-4336-4e0f-af77-c8f07af37c96@free.serverlanddl.com:110?mode=gun&security=reality&alpn=h2&encryption=none&authority=Telegram#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
+vless://db10ffbe-8937-484f-895d-8ce5974dd788@95.38.132.198:2062?security=none&encryption=none&host=bwm.comTelegram#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://0cb1cfa0-2916-4f21-a145-6c1fe0e6718b@ns.cloudflare.com:2052?path=%2Fresult%3Fed%3D2086Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0cb1cfa0-2916-4f21-a145-6c1fe0e6718b@ns.cloudflare.com:2052?path=%2Fresult%3Fed%3D2086Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5af54e86-eef3-403e-8d7a-ebe5d7864233@clientproo.xyz:33156?security=none&encryption=none&host=Telegram#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://5af54e86-eef3-403e-8d7a-ebe5d7864233@clientproo.xyz:33156?security=none&encryption=none&host=Telegram#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?security=none&encryption=none&host=fast.comTelegram#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
