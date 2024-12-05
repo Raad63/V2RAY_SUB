@@ -1,10 +1,10 @@
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@80.92.204.106:9011#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.92.72:5001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.103:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://ID-ViraV2ray-3337@104.17.234.128:8880?path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&security=none&encryption=none&host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ID-ViraV2ray-9492@104.19.150.10:2095?path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&security=none&encryption=none&host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ID-ViraV2ray-5050@live.989bull.com:443?path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D443&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=telegram-id-ViraV2ray.com&fp=firefox&type=ws&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://bpb-trojan@104.17.211.250:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb.my79801.com&fp=randomized&type=ws&sni=bpb.my79801.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://3109fb1d-3346-48bf-ba3b-99da415813f5@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc%3D@205.134.180.139:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.95.103:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@80.92.204.106:9097#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.87:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.47:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
