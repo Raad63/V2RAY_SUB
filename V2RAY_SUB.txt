@@ -1,10 +1,10 @@
-vless://5af54e86-eef3-403e-8d7a-ebe5d7864233@clientproo.xyz:33156?security=none&encryption=none&host=Telegram#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-vless://0cb1cfa0-2916-4f21-a145-6c1fe0e6718b@ns.cloudflare.com:2052?path=%2Fresult%3Fed%3D2086Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://0cb1cfa0-2916-4f21-a145-6c1fe0e6718b@ns.cloudflare.com:2052?path=%2Fresult%3Fed%3D2086Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?security=none&encryption=none&host=fast.comTelegram#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://5af54e86-eef3-403e-8d7a-ebe5d7864233@clientproo.xyz:33156?security=none&encryption=none&host=Telegram#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://45a338ad-8f40-480f-8641-838ca506048d@109.207.172.250:8443?mode=gun&security=reality&encryption=none&authority=Telegram#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://45a338ad-8f40-480f-8641-838ca506048d@109.207.172.250:8443?mode=gun&security=reality&encryption=none&authority=Telegram#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=api.nhl130.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?security=none&encryption=none&host=fast.comTelegram#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
-vless://a2b19330-4a35-4b3b-a4c9-66bbff854956@join.v2rynng.darkping.net:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&host=Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://bdc4302a-f0ac-4176-83d9-977cb84044f7@www.speedtest.net:2082?path=%2F%3Fed%3D8880Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://a2b19330-4a35-4b3b-a4c9-66bbff854956@join.v2rynng.darkping.net:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&host=Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://f4e58858-4f52-4467-a9f8-d20aee1f0f76@198.41.209.2:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f4e58858-4f52-4467-a9f8-d20aee1f0f76@198.41.209.2:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiNjIuNjAuMjM4LjY1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3ODEzYzkxOS04N2I4LTQwZTctYTQ1NS1jMmE3YjNkN2Y2ZjIiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMjc5MSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJndW4iLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5QXVzdHJpYSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.139.88:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=api.nhl130.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiNjIuNjAuMjM4LjY1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3ODEzYzkxOS04N2I4LTQwZTctYTQ1NS1jMmE3YjNkN2Y2ZjIiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMjc5MSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJndW4iLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5QXVzdHJpYSJ9
+vless://f4e58858-4f52-4467-a9f8-d20aee1f0f76@198.41.209.2:8443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
