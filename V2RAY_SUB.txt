@@ -1,10 +1,10 @@
-trojan://telegram-id-directvpn@13.39.228.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.120.224:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@13.39.228.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.91.100.199:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://- KING OF SPEED -@www.speedtest.net:2082?type=httpupgrade&path=arminyakuzaa.poqpoq%3D%3D%3Fed%3D2082&host=arminyakuzaa.poqpoq.shop.&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://- KING OF SPEED -@185.146.173.37:2083?type=ws&path=@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY&host=arminyakuzaa.poqpoq.shop&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=arminyakuzaa.poqpoq.shop#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.91.100.199:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.168.122.205:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.120.224:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OUw1N1FjUFYwa0ZOUE5LcWdTR28z@dyn.usa.outlinekeys.net:17889#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYlk2PXpHdUZs@150.241.95.63:37774#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMFhxWjRPaXcyeFpqUG1WeHp5ZzZQZ0w4dlNhako0M0JiMXVrSk5uVVQwa0FrRk9ycXZXUHhObDJ4TFNFMG13@5.182.38.211:42658#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
