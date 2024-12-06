@@ -1,10 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig12.usecharge.ir:443#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig13.usecharge.ir:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://tell--ZEDMODEON@ergwork.web.unc.edu:443?security=tls&encryption=none&type=ws&host=nabzebourse.com&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=ergwork.web.unc.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Joining--ZEDMODEON@connectcarolina.sites.unc.edu:443?security=tls&encryption=none&type=ws&host=mitrarank.ir&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=connectcarolina.sites.unc.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Joinin--ZEDMODEON@live.skornorth.com:443?security=tls&encryption=none&type=ws&host=gooshishop.com&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&sni=live.skornorth.com&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Joining--ZEDMODEON@live.skornorth.com:443?security=tls&encryption=none&type=ws&host=gooshishop.com&path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&sni=live.skornorth.com&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Join--ZEDMODEON@live.skornorth.com:443?security=tls&encryption=none&type=ws&host=gooshishop.com&path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&sni=live.skornorth.com&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Joining--ZEDMODEON@connectcarolina.sites.unc.edu:443?security=tls&encryption=none&type=ws&host=mitrarank.ir&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=connectcarolina.sites.unc.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://tell--ZEDMODEON@live.skornorth.com:443?security=tls&encryption=none&type=ws&host=mahex.com&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&sni=live.skornorth.com&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://tel--ZEDMODEON@connectcarolina.sites.unc.edu:443?security=tls&encryption=none&type=ws&host=porsline.ir&path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=connectcarolina.sites.unc.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
