@@ -1,10 +1,10 @@
-vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@ISVvpn.fastly80-2.hosting-ip.com:80?path=%2FVLESS%3Fed%3D80&security=none=telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn&encryption=none&host=5776.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ%3D%3D@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@151.101.194.133:443?path=%2FVLESS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none=telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn&host=5776.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@www.speedtest.net:80?path=TelegramChanel%3At.me%2F%48%54%54%50%5f%69%6e%6a%65%63%74%6f%72%39%39&security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@www.speedtest.net:80?path=TelegramChanel%3At.me%2F%48%54%54%50%5f%69%6e%6a%65%63%74%6f%72%39%39&security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@check-host.net:80?path=TelegramChanel%3At.me%2F%48%54%54%50%5f%69%6e%6a%65%63%74%6f%72%39%39&security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@check-host.net:80?path=TelegramChanel%3At.me%2F%48%54%54%50%5f%69%6e%6a%65%63%74%6f%72%39%39&security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://telegram-id-privatevpns@18.133.0.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-vless://be708710-c1e3-407a-acda-5a356ede29c9@join.v2rynng.darkping.net:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&host=Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@18.132.224.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@52.56.96.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@18.135.146.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@54.171.205.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@54.78.182.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@54.217.70.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@34.250.138.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@51.20.194.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@16.16.125.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=mtn12kws.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@13.51.123.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
