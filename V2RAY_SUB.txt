@@ -1,10 +1,10 @@
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://0f0897cf-469f-421b-9018-b739fb47b721@185.16.110.30:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=WWW.tehrANSiman.coM.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇫🇷France
-vless://faa93cf0-0021-4d4a-81ce-d340603365f9@78.135.66.131:37279?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&security=tls&encryption=none&host=4527d00493294524a8eb.newway-newroue.rest&fp=chrome&type=ws&sni=4527d00493294524a8eb.newway-newroue.rest#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://faa93cf0-0021-4d4a-81ce-d340603365f9@78.135.66.131:37279?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&security=tls&encryption=none&host=4527d00493294524a8eb.newway-newroue.rest&fp=chrome&type=ws&sni=4527d00493294524a8eb.newway-newroue.rest#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&security=tls&encryption=none&host=4527d00493294524a8eb.newway-newroue.rest&fp=chrome&type=ws&sni=4527d00493294524a8eb.newway-newroue.rest#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://faa93cf0-0021-4d4a-81ce-d340603365f9@78.135.66.131:37279?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-vless://0f0897cf-469f-421b-9018-b739fb47b721@185.16.110.30:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=WWW.tehrANSiman.coM.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://34622493-c7c7-4e81-9a7d-3f664222efba@2393123233.torob.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://d568fb13-e269-490f-b476-5a0c05770b79@hajlab.ucdavis.edu:443?security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeWz.NeT&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&security=tls&encryption=none&host=98b2b407b71a4904bde0.newway-newrouf.rest&fp=chrome&type=ws&sni=98b2b407b71a4904bde0.newway-newrouf.rest#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://093d3a95-eec3-4388-b349-8d2aa218dcc6@94.130.224.77:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&security=tls&encryption=none&host=98b2b407b71a4904bde0.newway-newrouf.rest&fp=chrome&type=ws&sni=98b2b407b71a4904bde0.newway-newrouf.rest#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d568fb13-e269-490f-b476-5a0c05770b79@hajlab.ucdavis.edu:443?security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeWz.NeT&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&security=tls&encryption=none&host=993c0d8f73a1454d8f14.newway-newroue.rest&fp=chrome&type=ws&sni=993c0d8f73a1454d8f14.newway-newroue.rest#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://093d3a95-eec3-4388-b349-8d2aa218dcc6@94.130.224.77:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://093d3a95-eec3-4388-b349-8d2aa218dcc6@94.130.224.77:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
