@@ -5,6 +5,6 @@ vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?security=tls&sni=x
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@199.232.150.47:443?security=tls&sni=default.ssl.fastly.net&type=ws&path=/Telegram-V2raNG_DA2-6?ed%3D1080&host=9x.ru&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80?security=&type=ws&path=/Telegram-V2raNG_DA-6?ed%3D2048&host=9x.ru&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=sany0116p.ljqza.WorKErs.dEv&fp=qq&type=ws&sni=sany0116p.ljqza.WorKErs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://5326af4f-7138-421f-b3af-d723cf8ea226@151.101.3.8:80?path=%2FTelegram-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=tehran1.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=sany0116p.ljqza.WorKErs.dEv&fp=qq&type=ws&sni=sany0116p.ljqza.WorKErs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=sany0116p.ljqza.WorKErs.dEv&fp=qq&type=ws&sni=sany0116p.ljqza.WorKErs.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Parsashonam-121@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
