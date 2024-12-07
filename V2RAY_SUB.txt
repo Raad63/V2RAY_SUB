@@ -1,10 +1,10 @@
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-fr.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇫🇷France
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-lu.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-lu.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-lu.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-lu.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ne.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇳🇬Nigeria
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ne.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇳🇬Nigeria
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-tr.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-tr.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-in.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇮🇳India
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-br.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-br.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ae.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ae.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ru.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ru.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
