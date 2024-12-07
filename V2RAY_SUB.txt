@@ -1,10 +1,10 @@
-vless://12c8140b-7482-4c43-9fa0-e95e42bb87fd@212.98.224.22:52277?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-vless://ddcdd97d-7854-498d-8a37-f8bc03e7b72c@212.98.224.229:8443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-us.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-us.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-us.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-us.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-us.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-us.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-fr.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇫🇷France
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-fr.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇫🇷France
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-lu.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-lu.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-lu.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-lu.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ne.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇳🇬Nigeria
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ne.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇳🇬Nigeria
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-tr.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-tr.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
