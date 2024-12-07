@@ -1,10 +1,10 @@
-vless://-V2RAXX@visa.com:2052?type=httpupgrade&host=mia.loveiran.top.&path=/Telegram,V2RAXX?ed%3D2560&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://-V2RAXX@test.fast.hosting-ip.com:80?type=ws&host=V2RAXX.IR&path=/Telegram,V2RAXX,Telegram,V2RAXX?ed%3D443&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://c7d31b69-4fd0-4795-d1e1-2483af85b4d1@49.13.74.161:36715?type=grpc&mode=gun&serviceName=/Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android&security=reality&fp=chrome&sni=www.cdn77.com&pbk=YobVtjVtPvZiQgQJsOe5CpZg070f_3mHgwayKZFerzY&spx=/#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vless://62b33c39-69d1-4504-b3d7-3924d3504741@speedtest.net:80?type=ws&host=ArchiveAndroid.Org&path=/Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android-----Telegram-----@Archive_Android?ed%3D2048&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaEp1RUpZNmNGdW9FTWVyZElBQnVj@167.172.170.30:80#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSZnB3TFp2S3JIOGQ5YjdnSkRIdXpP@157.245.77.251:80#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYjV2VXdSQ3lmM0tKQzQwbWptejRY@138.68.161.238:80#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.130.68.12:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.55.253:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
-vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=1.Hjgvdxx1.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@52.213.121.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.175.26.205:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@13.39.216.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.223.88:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.223.88:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
