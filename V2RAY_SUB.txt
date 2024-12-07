@@ -1,10 +1,10 @@
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-in.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇮🇳India
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-br.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-br.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ae.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ae.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ru.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
-hy2://5cdeddf6-0c70-4655-b875-810670cec256@jiumaojiu-ru.legeth.xyz:443/?mport=25000-25999#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.dalekishe.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.hichinago.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@3.11.174.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=1.Hjgvdxx1.net&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://82ad3233-fbbb-4619-971b-fc2e0ac6e665@151.101.3.8:80?path=%2FPROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=Tehran1.Ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4261dce0-f7fb-4854-b3cb-f6764ac8c658@www.speedtest.net:2086?path=%2FSeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-SeyyedmT-%3Fed%3D2048&security=none&encryption=none&host=america1.httpupgrademowji.bloG.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6842f2ae-8c18-4e30-8a42-d4632a849f98@en.linceedab.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://6842f2ae-8c18-4e30-8a42-d4632a849f98@en.linceedab.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
