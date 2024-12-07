@@ -1,10 +1,10 @@
-vless://82ad8873-afe0-4814-966a-695168a3707c@www.SPEEDTEST.net:8080?path=%2F%3Fed%3D1048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://82ad8873-afe0-4814-966a-695168a3707c@www.SPEEDTEST.net:8080?path=%2F%3Fed%3D1048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://82ad8873-afe0-4814-966a-695168a3707c@www.SPEEDTEST.net:8080?path=%2F%3Fed%3D1048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://Joinn--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snappshop.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://tel--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://Joinn--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=okala.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVGlZclhyb1NiWURVN1ZGY0FZR0E2@51.158.252.130:443#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.191:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@69.50.95.191:9101#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.95.191:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://738fbb8d-bd2d-402a-b7bc-e63ad84fb107@san.dornagamesco.ir:1621?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.133.157:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.162.95:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://738fbb8d-bd2d-402a-b7bc-e63ad84fb107@osi.dornagamesco.ir:1620?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vmess://eyJhZGQiOiAiNDUuOC4xNTguMzIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjM5OGNlODRlLTQ4NDktNGU1Zi05YjFhLWE1NmZiZTIzM2I4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTM1MjgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYVJ1c3NpYSJ9
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.191:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
