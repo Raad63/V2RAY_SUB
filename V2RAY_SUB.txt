@@ -1,10 +1,10 @@
-trojan://blue2024@172.64.90.183:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@104.18.39.105:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@104.18.39.105:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.150.181:80?security=none&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://blue2024@162.159.194.188:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://blue2024@162.159.194.188:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.150.181:80?security=none&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiAiNDYuMjkuMTYxLjE1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ZWU2OGM4OS1mOWUxLTQ2MmMtYWM2MC02MDc4NjEzNGJmOWYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQyOTkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYVJ1c3NpYSJ9
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?security=tls&type=ws&sni=subhiddify.mmdv2.host&path=/Telegram@V2ray_Alpha/?ed=2560&host=subhiddify.mmdv2.host#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://5b3bbba7-828a-4246-bb58-6c1b509383d6@128.140.35.236:30788?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://5b3bbba7-828a-4246-bb58-6c1b509383d6@128.140.35.236:30788?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.dalekishe.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.hichinago.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ%3D%3D@150.241.68.171:24064#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
