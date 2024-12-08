@@ -1,10 +1,10 @@
-vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://c22b31da-0925-4d70-866d-df6c2afab1a4@151.101.128.155:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=Tehran1.Ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://460cbc68-b655-4fb3-df58-9e64a82e325f@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.110.1.103:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGVTlIVUFSNFpQTVhWOVdoODE1YjNGR1BpMkVPZnFIVGR2NWFEVjBaVkpOMjVPV3pjTFVUSG1GbHcyOHhMRTlu@74.119.193.103:42658#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.92.111:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://user@s26.mynameismahsa.info:443?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s10.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s10.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s1.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s1.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
-trojan://user@s11.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s11.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s12.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s12.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://user@s3.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s3.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s13.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s13.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
