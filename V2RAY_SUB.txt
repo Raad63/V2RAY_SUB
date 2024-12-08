@@ -1,10 +1,10 @@
-vless://76489912-325a-4c7f-a75e-87532cdd3fa6@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://1005238f-c35f-49dc-b49f-b15be1da413e@199.232.125.59:443?path=/Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY%3Fed%3D2560&allowInsecure=1&security=tls&host=JOiN--E-L-i-V-2-R-A-Y.io&fp=qq&type=ws&sni=JOiN--E-L-i-V-2-R-A-Y.io#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1005238f-c35f-49dc-b49f-b15be1da413e@199.232.125.59:443?path=/Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY%3Fed%3D2560&allowInsecure=1&security=tls&host=JOiN--E-L-i-V-2-R-A-Y.io&fp=qq&type=ws&sni=JOiN--E-L-i-V-2-R-A-Y.io#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://1005238f-c35f-49dc-b49f-b15be1da413e@199.232.255.25:443?path=/Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY%3Fed%3D2560&allowInsecure=1&security=tls&host=JOiN--E-L-i-V-2-R-A-Y.io&fp=chrome&type=ws&sni=JOiN--E-L-i-V-2-R-A-Y.io#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-trojan://blue2024@185.170.166.39:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NUpyQm9RNFRka2VZZ1B6ZURIVmp1@51.13.114.127:60356#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
 trojan://blue2024@162.159.135.98:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?security=tls&type=ws&sni=1223-9ux.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=1223-9ux.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8881#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reality&headerType=none&type=tcp&sni=google.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.92.55:9102#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://blue2024@104.16.36.151:443?sni=ha.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8ee538e1-66c8-4eb1-8705-407b19afad84@46.36.97.25:8080?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://blue2024@104.16.20.118:443?sni=tb.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.16.20.118:443?sni=tb.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://8ee538e1-66c8-4eb1-8705-407b19afad84@46.36.97.25:8080?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
