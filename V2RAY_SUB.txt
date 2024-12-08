@@ -1,10 +1,10 @@
-trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
-vmess://eyJhZGQiOiAiMzguMTEuNDkuNTMiLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInd3dy41NTE1MzIwMy54eXoiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzM0Nzc1NTk0NTIiLCAicG9ydCI6ICIzODAwMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAid3d3LjU1MTUzMjAzLnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
-trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102/?insecure=1&sni=du.wish.ml#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@40.233.76.38:30102/?insecure=1&sni=du.wish.ml#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@140.238.137.165:30102/?insecure=1&sni=du.wish.ml#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.164.255:30102/?insecure=1&sni=us11.wish.ml#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@149.130.210.148:30102/?insecure=1&sni=us9.wish.ml#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@193.123.82.241:30102/?insecure=1&sni=du.wish.ml#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@207.211.178.161:30102/?insecure=1&sni=us6.wish.ml#👉🆔 @v2ray_configs_pool📡🇺🇸United States
